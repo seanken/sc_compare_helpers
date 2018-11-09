@@ -1,0 +1,60 @@
+Setup!
+Subsamples!
+Tue Sep 25 12:45:01 EDT 2018
+Setup!
+Subsamples!
+Tue Sep 25 12:52:01 EDT 2018
+Setup!
+Subsamples!
+Tue Sep 25 13:00:23 EDT 2018
+Setup!
+Subsamples!
+Tue Sep 25 13:09:44 EDT 2018
+Merge Fastq!
+Tue Sep 25 13:18:28 EDT 2018
+Merge Fastq!
+Tue Sep 25 13:37:29 EDT 2018
+Merge Fastq!
+Tue Sep 25 13:38:59 EDT 2018
+Merge Fastq!
+Tue Sep 25 13:52:11 EDT 2018
+Run Hisat!
+Tue Sep 25 18:19:32 EDT 2018
+Tag bam!
+Tue Sep 25 19:09:21 EDT 2018
+Run Hisat!
+Tue Sep 25 19:11:30 EDT 2018
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 1 -M -o /broad/hptmp/ssimmons/scumi/mixed1/Celseq1/results.star_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/Celseq1/results.star_align.bam 
+
+Annotating features done successfully, taking 5.703 minutes
+Count!
+Tue Sep 25 19:15:06 EDT 2018
+Done!
+Tag bam!
+Tue Sep 25 20:06:20 EDT 2018
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 1 -M -o /broad/hptmp/ssimmons/scumi/mixed1/Celseq3/results.star_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/Celseq3/results.star_align.bam 
+
+Annotating features done successfully, taking 6.217 minutes
+Count!
+Tue Sep 25 20:12:38 EDT 2018
+Done!
+Run Hisat!
+Tue Sep 25 20:13:06 EDT 2018
+Run Hisat!
+Tue Sep 25 20:39:36 EDT 2018
+Tag bam!
+Tue Sep 25 21:18:27 EDT 2018
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 1 -M -o /broad/hptmp/ssimmons/scumi/mixed1/Celseq4/results.star_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/Celseq4/results.star_align.bam 
+
+Annotating features done successfully, taking 7.165 minutes
+Count!
+Tue Sep 25 21:25:42 EDT 2018
+Done!
+Tag bam!
+Tue Sep 25 21:46:10 EDT 2018
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 1 -M -o /broad/hptmp/ssimmons/scumi/mixed1/Celseq2/results.star_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/Celseq2/results.star_align.bam 
+
+Annotating features done successfully, taking 7.550 minutes
+Count!
+Tue Sep 25 21:54:01 EDT 2018
+Done!

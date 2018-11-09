@@ -1,0 +1,1357 @@
+mkdir: cannot create directory `/broad/hptmp/ssimmons/scumi/mixed1/Celseq1': File exists
+mkdir: cannot create directory `/broad/hptmp/ssimmons/scumi/mixed1/Celseq2': File exists
+mkdir: cannot create directory `/broad/hptmp/ssimmons/scumi/mixed1/Celseq3': File exists
+mkdir: cannot create directory `/broad/hptmp/ssimmons/scumi/mixed1/Celseq4': File exists
+2018-09-24 09:56:17,490: INFO: Cell barcode in configure file
+2018-09-24 09:56:17,491: INFO: UMI in config file
+2018-09-24 09:57:45,144: INFO: Processed 320,000 reads!
+2018-09-24 09:58:36,708: INFO: Cell barcode in configure file
+2018-09-24 09:58:36,710: INFO: UMI in config file
+2018-09-24 09:59:13,839: INFO: Processed 640,000 reads!
+2018-09-24 10:00:04,601: INFO: Processed 320,000 reads!
+2018-09-24 10:00:42,058: INFO: Processed 960,000 reads!
+2018-09-24 10:01:33,629: INFO: Processed 640,000 reads!
+2018-09-24 10:02:08,387: INFO: Processed 1,280,000 reads!
+2018-09-24 10:03:32,161: INFO: Processed 1,600,000 reads!
+2018-09-24 10:04:58,084: INFO: Processed 1,920,000 reads!
+2018-09-24 10:05:54,483: INFO: Processed 1,600,000 reads!
+2018-09-24 10:06:26,287: INFO: Processed 2,240,000 reads!
+2018-09-24 10:07:19,403: INFO: Processed 1,920,000 reads!
+2018-09-24 10:07:54,383: INFO: Processed 2,560,000 reads!
+2018-09-24 10:09:00,822: INFO: Cell barcode in configure file
+2018-09-24 10:09:00,823: INFO: UMI in config file
+ds!
+2018-09-24 10:10:29,908: INFO: Processed 320,000 reads!
+!
+2018-09-24 10:11:59,303: INFO: Processed 640,000 reads!
+!
+2018-09-24 10:13:28,316: INFO: Processed 960,000 reads!
+!
+2018-09-24 10:14:57,378: INFO: Processed 1,280,000 reads!
+2018-09-24 10:15:12,161: INFO: Cell barcode in configure file
+2018-09-24 10:15:12,162: INFO: UMI in config file
+2018-09-24 10:16:24,108: INFO: Processed 1,600,000 reads!
+2018-09-24 10:16:33,712: INFO: Processed 4,480,000 reads!
+2018-09-24 10:17:29,633: INFO: Processed 4,160,000 reads2018-09-24 10:17:58,886: INFO: Processed 4,800,000 reads!
+2018-09-24 10:19:24,087: INFO: Processed 5,120,000 reads!
+2018-09-24 10:20:51,717: INFO: Processed 5,440,000 reads!
+2018-09-24 10:20:56,446: INFO: Processed 960,000 reads!
+2018-09-24 10:22:19,931: INFO: Processed 5,760,000 reads!
+2018-09-24 10:23:15,961: INFO: Processed 5,440,000 reads!
+2018-09-24 10:23:48,007: INFO: Processed 6,080,000 reads!
+2018-09-24 10:24:43,994: INFO: Processed 5,760,000 reads!
+2018-09-24 10:25:14,188: INFO: Processed 6,400,000 reads!
+2018-09-24 10:26:37,831: INFO: Processed 6,720,000 reads!
+2018-09-24 10:28:04,701: INFO: Processed 7,040,000 reads!
+2018-09-24 10:28:20,533: INFO: Processed 2,240,000 reads!
+2018-09-24 10:29:33,473: INFO: Processed 7,360,000 reads!
+2018-09-24 10:30:31,773: INFO: Processed 7,040,000 reads!
+2018-09-24 10:31:01,589: INFO: Processed 7,680,000 reads!
+2018-09-24 10:32:09,356: INFO: Processed 2,880,000 reads!
+2018-09-24 10:32:27,988: INFO: Processed 8,000,000 reads!
+2018-09-24 10:33:52,176: INFO: Processed 8,320,000 reads!
+2018-09-24 10:34:03,118: INFO: Processed 3,200,000 reads!
+2018-09-24 10:35:19,315: INFO: Processed 8,640,000 reads!
+2018-09-24 10:35:54,114: INFO: Processed 3,520,000 reads!
+2018-09-24 10:36:50,179: INFO: Processed 6,080,000 reads!
+2018-09-24 10:37:45,799: INFO: Processed 8,640,000 reads!
+2018-09-24 10:38:17,333: INFO: Processed 9,280,000 reads!
+2018-09-24 10:39:31,878: INFO: Processed 4,160,000 reads!
+2018-09-24 10:39:47,441: INFO: Processed 6,720,000 reads!
+2018-09-24 10:41:06,394: INFO: Processed 9,920,000 reads!
+2018-09-24 10:41:26,168: INFO: Processed 4,480,000 reads!
+2018-09-24 10:42:28,934: INFO: Processed 10,240,000 reads!2018-09-24 10:42:45,083: INFO: Processed 7,360,000 reads!
+2018-09-24 10:43:35,961: INFO: Processed 9,920,000 reads!
+2018-09-24 10:44:11,328: INFO: Processed 7,680,000 reads!
+
+2018-09-24 10:45:21,998: INFO: Processed 10,880,000 reads!
+2018-09-24 10:45:35,992: INFO: Processed 8,000,000 reads!
+2018-09-24 10:46:47,852: INFO: Processed 11,200,000 reads!
+2018-09-24 10:47:05,118: INFO: Processed 5,440,000 reads!
+2018-09-24 10:48:11,562: INFO: Processed 11,520,000 reads!
+2018-09-24 10:48:54,435: INFO: Processed 5,760,000 reads!
+2018-09-24 10:49:34,643: INFO: Processed 11,840,000 reads!
+2018-09-24 10:49:59,391: INFO: Processed 8,960,000 reads!
+2018-09-24 10:50:59,822: INFO: Processed 12,160,000 reads!
+2018-09-24 10:51:27,373: INFO: Processed 9,280,000 reads!
+2018-09-24 10:52:35,767: INFO: Processed 6,400,000 reads!
+
+2018-09-24 10:52:53,889: INFO: Processed 9,600,000 reads!
+2018-09-24 10:53:51,826: INFO: Processed 12,800,000 reads!
+2018-09-24 10:54:29,037: INFO: Processed 6,720,000 reads!
+2018-09-24 10:55:16,341: INFO: Processed 13,120,000 reads!
+2018-09-24 10:55:43,780: INFO: Processed 10,240,000 reads!
+2018-09-24 10:56:38,067: INFO: Processed 13,440,000 reads!
+2018-09-24 10:57:12,777: INFO: Processed 10,560,000 reads!
+2018-09-24 10:58:14,174: INFO: Processed 7,360,000 reads!
+
+2018-09-24 10:58:42,220: INFO: Processed 10,880,000 reads!
+2018-09-24 10:59:29,303: INFO: Processed 14,080,000 reads!
+2018-09-24 11:00:10,258: INFO: Processed 11,200,000 reads!
+2018-09-24 11:00:55,133: INFO: Processed 14,400,000 reads!
+2018-09-24 11:01:50,396: INFO: Processed 8,000,000 reads!
+
+2018-09-24 11:02:19,375: INFO: Processed 14,720,000 reads!
+2018-09-24 11:03:00,565: INFO: Processed 11,840,000 reads!
+2018-09-24 11:03:41,210: INFO: Processed 15,040,000 reads!
+2018-09-24 11:04:22,698: INFO: Processed 12,160,000 reads!
+2018-09-24 11:05:04,732: INFO: Processed 15,360,000 reads!
+2018-09-24 11:05:49,749: INFO: Processed 12,480,000 reads!
+2018-09-24 11:06:30,845: INFO: Processed 15,680,000 reads!
+2018-09-24 11:07:27,628: INFO: Processed 8,960,000 reads!
+
+2018-09-24 11:07:59,887: INFO: Processed 15,360,000 reads!
+2018-09-24 11:08:46,809: INFO: Processed 13,120,000 reads!
+2018-09-24 11:09:26,115: INFO: Processed 15,680,000 reads!
+2018-09-24 11:10:43,218: INFO: Processed 16,640,000 reads!
+2018-09-24 11:11:09,102: INFO: Processed 9,600,000 reads!
+
+2018-09-24 11:12:03,755: INFO: Processed 16,960,000 reads!
+2018-09-24 11:12:15,785: INFO: Processed 16,320,000 reads!
+2018-09-24 11:13:05,126: INFO: Processed 14,080,000 reads!22018-09-24 11:13:43,981: INFO: Processed 16,640,000 reads!
+2018-09-24 11:14:56,034: INFO: Processed 17,600,000 reads!
+2018-09-24 11:15:12,388: INFO: Processed 16,960,000 reads!
+2018-09-24 11:16:21,234: INFO: Processed 17,920,000 reads!
+2018-09-24 11:16:42,240: INFO: Processed 10,560,000 reads!
+2018-09-24 11:17:44,915: INFO: Processed 18,240,000 reads!
+2018-09-24 11:18:02,658: INFO: Processed 17,600,000 reads!
+2018-09-24 11:19:05,676: INFO: Processed 18,560,000 reads!
+2018-09-24 11:19:23,203: INFO: Processed 17,920,000 reads!
+2018-09-24 11:20:48,936: INFO: Processed 18,240,000 reads!
+2018-09-24 11:22:17,089: INFO: Processed 18,560,000 reads!
+2018-09-24 11:22:18,887: INFO: Processed 11,520,000 reads!
+2018-09-24 11:23:23,678: INFO: Processed 19,520,000 reads!
+2018-09-24 11:24:04,370: INFO: Processed 11,840,000 reads!
+2018-09-24 11:24:47,685: INFO: Processed 19,840,000 reads!
+2018-09-24 11:25:12,139: INFO: Processed 19,200,000 reads!
+2018-09-24 11:26:09,469: INFO: Processed 20,160,000 reads!
+2018-09-24 11:26:36,616: INFO: Processed 19,520,000 reads!
+2018-09-24 11:27:59,431: INFO: Processed 19,840,000 reads!
+2018-09-24 11:29:26,776: INFO: Processed 20,160,000 reads!
+2018-09-24 11:29:37,310: INFO: Processed 12,800,000 reads!
+2018-09-24 11:30:55,218: INFO: Processed 20,480,000 reads!
+2018-09-24 11:31:52,419: INFO: Processed 21,440,000 reads!
+2018-09-24 11:32:22,359: INFO: Processed 20,800,000 reads!
+2018-09-24 11:33:47,733: INFO: Processed 21,120,000 reads!
+2018-09-24 11:35:11,568: INFO: Processed 13,760,000 reads!
+2018-09-24 11:36:34,999: INFO: Processed 21,760,000 reads!
+2018-09-24 11:37:00,696: INFO: Processed 14,080,000 reads!
+2018-09-24 11:38:03,440: INFO: Processed 22,080,000 reads!
+2018-09-24 11:39:08,137: INFO: Processed 19,840,000 reads!
+2018-09-24 11:39:33,066: INFO: Processed 22,400,000 reads!
+2018-09-24 11:40:45,658: INFO: Processed 14,720,000 reads!
+2018-09-24 11:41:00,959: INFO: Processed 22,720,000 reads!
+2018-09-24 11:41:52,474: INFO: Processed 20,480,000 reads!
+2018-09-24 11:42:38,735: INFO: Processed 15,040,000 reads!
+2018-09-24 11:43:20,263: INFO: Processed 20,800,000 reads!
+2018-09-24 11:43:51,437: INFO: Processed 23,360,000 reads!
+2018-09-24 11:44:49,155: INFO: Processed 21,120,000 reads!
+2018-09-24 11:45:19,177: INFO: Processed 23,680,000 reads!
+2018-09-24 11:46:21,326: INFO: Processed 15,680,000 reads!
+2018-09-24 11:46:48,403: INFO: Processed 24,000,000 reads!
+2018-09-24 11:47:44,044: INFO: Processed 21,760,000 reads!
+2018-09-24 11:48:16,379: INFO: Processed 24,320,000 reads!
+2018-09-24 11:49:08,443: INFO: Processed 22,080,000 reads!
+2018-09-24 11:49:58,777: INFO: Processed 16,320,000 reads!
+2018-09-24 11:50:30,790: INFO: Processed 22,400,000 reads!
+2018-09-24 11:51:07,662: INFO: Processed 24,960,000 reads!
+2018-09-24 11:51:57,668: INFO: Processed 22,720,000 reads!
+2018-09-24 11:52:33,179: INFO: Processed 25,280,000 reads!
+2018-09-24 11:53:25,997: INFO: Processed 23,040,000 reads!
+2018-09-24 11:54:01,959: INFO: Processed 25,600,000 reads!
+2018-09-24 11:54:54,476: INFO: Processed 23,360,000 reads!
+2018-09-24 11:55:57,782: INFO: Processed 26,880,000 reads!
+2018-09-24 11:56:21,119: INFO: Processed 23,680,000 reads!
+2018-09-24 11:57:26,422: INFO: Processed 17,600,000 reads!
+2018-09-24 11:57:46,529: INFO: Processed 24,000,000 reads!
+2018-09-24 11:58:50,727: INFO: Processed 27,520,000 reads!
+2018-09-24 11:59:12,799: INFO: Processed 17,920,000 reads!
+2018-09-24 12:00:16,936: INFO: Processed 27,840,000 reads!
+2018-09-24 12:01:01,760: INFO: Processed 18,240,000 reads!
+2018-09-24 12:01:40,460: INFO: Processed 28,160,000 reads!
+2018-09-24 12:02:01,338: INFO: Processed 24,960,000 reads!
+2018-09-24 12:03:01,852: INFO: Processed 28,480,000 reads!
+2018-09-24 12:03:30,963: INFO: Processed 25,280,000 reads!
+2018-09-24 12:04:26,467: INFO: Processed 28,800,000 reads!
+2018-09-24 12:05:00,097: INFO: Processed 25,600,000 reads!
+2018-09-24 12:05:54,782: INFO: Processed 29,120,000 reads!
+2018-09-24 12:06:39,487: INFO: Processed 19,200,000 reads!
+2018-09-24 12:07:21,467: INFO: Processed 29,440,000 reads!
+2018-09-24 12:07:52,680: INFO: Processed 26,240,000 reads!
+2018-09-24 12:08:45,188: INFO: Processed 29,760,000 reads!
+2018-09-24 12:09:18,761: INFO: Processed 26,560,000 reads!
+2018-09-24 12:10:16,793: INFO: Processed 19,840,000 reads!
+2018-09-24 12:10:47,833: INFO: Processed 26,880,000 reads!
+2018-09-24 12:11:30,250: INFO: Processed 30,400,000 reads!
+2018-09-24 12:12:17,020: INFO: Processed 27,200,000 reads!
+2018-09-24 12:12:57,535: INFO: Processed 30,720,000 reads!
+2018-09-24 12:14:10,217: INFO: Processed 30,080,000 reads!
+2018-09-24 12:14:25,030: INFO: Processed 31,040,000 reads!
+2018-09-24 12:15:31,978: INFO: Processed 30,400,000 reads!
+2018-09-24 12:15:51,335: INFO: Processed 31,360,000 reads!
+2018-09-24 12:17:00,132: INFO: Processed 30,720,000 reads!
+2018-09-24 12:17:37,117: INFO: Processed 21,120,000 reads!
+2018-09-24 12:18:29,815: INFO: Processed 31,040,000 reads!
+2018-09-24 12:18:37,998: INFO: Processed 32,000,000 reads!
+2018-09-24 12:19:57,624: INFO: Processed 31,360,000 reads!
+2018-09-24 12:20:05,638: INFO: Processed 32,320,000 reads!
+2018-09-24 12:21:21,927: INFO: Processed 31,680,000 reads!
+2018-09-24 12:21:33,403: INFO: Processed 32,640,000 reads!
+2018-09-24 12:22:43,680: INFO: Processed 32,000,000 reads!
+2018-09-24 12:22:59,828: INFO: Processed 32,960,000 reads!
+2018-09-24 12:24:23,752: INFO: Processed 33,280,000 reads!
+2018-09-24 12:24:50,627: INFO: Processed 22,400,000 reads!
+2018-09-24 12:25:47,089: INFO: Processed 33,600,000 reads!
+2018-09-24 12:27:13,500: INFO: Processed 33,920,000 reads!
+2018-09-24 12:28:41,012: INFO: Processed 34,240,000 reads!
+2018-09-24 12:30:07,239: INFO: Processed 34,560,000 reads!
+2018-09-24 12:30:30,177: INFO: Processed 23,360,000 reads!
+2018-09-24 12:31:32,293: INFO: Processed 34,880,000 reads!
+2018-09-24 12:32:45,192: INFO: Processed 34,240,000 reads!
+2018-09-24 12:32:54,846: INFO: Processed 35,200,000 reads!
+2018-09-24 12:34:20,821: INFO: Processed 35,520,000 reads!
+2018-09-24 12:35:40,826: INFO: Processed 34,880,000 reads!
+2018-09-24 12:35:52,774: INFO: Processed 24,320,000 reads!
+2018-09-24 12:37:14,485: INFO: Processed 36,160,000 reads!
+2018-09-24 12:38:13,796: INFO: Processed 32,960,000 reads!
+2018-09-24 12:38:30,734: INFO: Processed 35,520,000 reads!
+2018-09-24 12:39:59,577: INFO: Processed 36,800,000 reads!
+2018-09-24 12:41:33,376: INFO: Processed 25,280,000 reads!
+2018-09-24 12:42:50,928: INFO: Processed 37,440,000 reads!
+2018-09-24 12:43:25,155: INFO: Processed 25,600,000 reads!
+2018-09-24 12:44:18,178: INFO: Processed 37,760,000 reads!
+2018-09-24 12:45:43,741: INFO: Processed 38,080,000 reads!
+2018-09-24 12:47:04,764: INFO: Processed 38,400,000 reads!
+2018-09-24 12:48:27,213: INFO: Processed 38,720,000 reads!
+2018-09-24 12:48:56,094: INFO: Processed 26,560,000 reads!
+2018-09-24 12:49:58,213: INFO: Processed 38,080,000 reads!
+2018-09-24 12:51:18,516: INFO: Processed 39,360,000 reads!
+2018-09-24 12:51:25,699: INFO: Processed 38,400,000 reads!
+2018-09-24 12:52:51,431: INFO: Processed 38,720,000 reads!
+2018-09-24 12:54:14,302: INFO: Processed 39,040,000 reads!
+2018-09-24 12:54:34,533: INFO: Processed 27,520,000 reads!
+2018-09-24 12:55:34,441: INFO: Processed 39,360,000 reads!
+2018-09-24 12:56:22,871: INFO: Processed 27,840,000 reads!
+2018-09-24 12:57:02,769: INFO: Processed 39,680,000 reads!
+2018-09-24 12:58:31,382: INFO: Processed 40,000,000 reads!
+2018-09-24 13:00:01,770: INFO: Processed 28,480,000 reads!
+2018-09-24 13:01:23,640: INFO: Processed 40,640,000 reads!
+2018-09-24 13:01:55,993: INFO: Processed 28,800,000 reads!
+2018-09-24 13:02:45,095: INFO: Processed 40,960,000 reads!
+2018-09-24 13:04:08,921: INFO: Processed 41,280,000 reads!
+2018-09-24 13:05:41,445: INFO: Processed 29,440,000 reads!
+2018-09-24 13:07:03,818: INFO: Processed 41,920,000 reads!
+2018-09-24 13:07:31,641: INFO: Processed 29,760,000 reads!
+2018-09-24 13:08:31,081: INFO: Processed 39,680,000 reads!
+2018-09-24 13:09:40,477: INFO: Processed 43,520,000 reads!
+2018-09-24 13:09:57,690: INFO: Processed 40,000,000 reads!
+2018-09-24 13:11:21,420: INFO: Processed 40,320,000 reads!
+2018-09-24 13:13:02,902: INFO: Processed 30,720,000 reads!
+2018-09-24 13:14:14,642: INFO: Processed 40,960,000 reads!
+2018-09-24 13:15:25,063: INFO: Processed 44,800,000 reads!
+2018-09-24 13:15:43,557: INFO: Processed 41,280,000 reads!
+2018-09-24 13:17:11,860: INFO: Processed 41,600,000 reads!
+2018-09-24 13:18:35,842: INFO: Processed 31,680,000 reads!
+2018-09-24 13:18:42,734: INFO: Processed 41,920,000 reads!
+2018-09-24 13:19:38,209: INFO: Processed 45,760,000 reads!
+2018-09-24 13:20:19,865: INFO: Processed 32,000,000 reads!
+2018-09-24 13:21:04,278: INFO: Processed 46,080,000 reads!
+2018-09-24 13:21:31,448: INFO: Processed 42,560,000 reads!
+2018-09-24 13:22:28,992: INFO: Processed 46,400,000 reads!
+2018-09-24 13:22:58,921: INFO: Processed 42,880,000 reads!
+2018-09-24 13:24:15,485: INFO: Processed 45,760,000 reads!
+2018-09-24 13:24:27,360: INFO: Processed 43,200,000 reads!
+2018-09-24 13:25:11,863: INFO: Processed 47,040,000 reads!
+2018-09-24 13:25:54,911: INFO: Processed 43,520,000 reads!
+2018-09-24 13:27:04,633: INFO: Processed 46,400,000 reads!
+2018-09-24 13:27:44,302: INFO: Processed 33,280,000 reads!
+2018-09-24 13:28:31,894: INFO: Processed 46,720,000 reads!
+2018-09-24 13:28:44,716: INFO: Processed 44,160,000 reads!
+2018-09-24 13:29:31,886: INFO: Processed 33,600,000 reads!
+2018-09-24 13:30:04,939: INFO: Processed 44,480,000 reads!
+2018-09-24 13:30:51,187: INFO: Processed 48,320,000 reads!
+2018-09-24 13:31:29,378: INFO: Processed 44,800,000 reads!
+2018-09-24 13:32:14,122: INFO: Processed 48,640,000 reads!
+2018-09-24 13:33:02,047: INFO: Processed 34,240,000 reads!
+2018-09-24 13:33:40,592: INFO: Processed 48,960,000 reads!
+2018-09-24 13:34:26,292: INFO: Processed 45,440,000 reads!
+2018-09-24 13:34:55,886: INFO: Processed 34,560,000 reads!
+2018-09-24 13:35:52,814: INFO: Processed 45,760,000 reads!
+2018-09-24 13:36:33,355: INFO: Processed 49,600,000 reads!
+2018-09-24 13:37:17,569: INFO: Processed 46,080,000 reads!
+2018-09-24 13:37:56,424: INFO: Processed 49,920,000 reads!
+2018-09-24 13:38:41,416: INFO: Processed 35,200,000 reads!
+2018-09-24 13:39:18,254: INFO: Processed 50,240,000 reads!
+2018-09-24 13:40:28,911: INFO: Processed 35,520,000 reads!
+2018-09-24 13:40:45,301: INFO: Processed 50,560,000 reads!
+2018-09-24 13:41:26,220: INFO: Processed 49,600,000 reads!
+2018-09-24 13:42:13,476: INFO: Processed 35,840,000 reads!
+2018-09-24 13:42:53,035: INFO: Processed 47,360,000 reads!
+2018-09-24 13:43:58,874: INFO: Processed 36,160,000 reads!
+2018-09-24 13:44:19,430: INFO: Processed 47,680,000 reads!
+2018-09-24 13:45:04,450: INFO: Processed 51,520,000 reads!
+2018-09-24 13:45:50,574: INFO: Processed 36,480,000 reads!
+2018-09-24 13:46:27,556: INFO: Processed 51,840,000 reads!
+2018-09-24 13:47:07,060: INFO: Processed 50,880,000 reads!
+2018-09-24 13:47:53,534: INFO: Processed 52,160,000 reads!
+2018-09-24 13:48:32,115: INFO: Processed 51,200,000 reads!
+2018-09-24 13:49:35,201: INFO: Processed 37,120,000 reads!
+2018-09-24 13:49:55,414: INFO: Processed 51,520,000 reads!
+2018-09-24 13:51:19,944: INFO: Processed 51,840,000 reads!
+2018-09-24 13:51:24,741: INFO: Processed 37,440,000 reads!
+2018-09-24 13:52:13,566: INFO: Processed 53,120,000 reads!
+2018-09-24 13:53:12,004: INFO: Processed 37,760,000 reads!
+2018-09-24 13:53:36,689: INFO: Processed 53,440,000 reads!
+2018-09-24 13:54:15,622: INFO: Processed 52,480,000 reads!
+2018-09-24 13:55:02,200: INFO: Processed 53,760,000 reads!
+2018-09-24 13:55:41,974: INFO: Processed 52,800,000 reads!
+2018-09-24 13:56:47,874: INFO: Processed 38,400,000 reads!
+2018-09-24 13:57:05,597: INFO: Processed 53,120,000 reads!
+2018-09-24 13:58:28,189: INFO: Processed 53,440,000 reads!
+2018-09-24 13:58:41,292: INFO: Processed 38,720,000 reads!
+2018-09-24 13:59:55,137: INFO: Processed 53,760,000 reads!
+2018-09-24 14:00:45,376: INFO: Processed 55,040,000 reads!
+2018-09-24 14:01:24,117: INFO: Processed 54,080,000 reads!
+2018-09-24 14:02:25,189: INFO: Processed 39,360,000 reads!
+2018-09-24 14:02:52,360: INFO: Processed 54,400,000 reads!
+2018-09-24 14:03:35,312: INFO: Processed 55,680,000 reads!
+2018-09-24 14:04:18,279: INFO: Processed 54,720,000 reads!
+2018-09-24 14:05:01,664: INFO: Processed 56,000,000 reads!
+2018-09-24 14:06:00,580: INFO: Processed 40,000,000 reads!
+2018-09-24 14:06:25,677: INFO: Processed 56,320,000 reads!
+2018-09-24 14:07:07,466: INFO: Processed 55,360,000 reads!
+2018-09-24 14:07:49,901: INFO: Processed 40,320,000 reads!
+2018-09-24 14:08:35,254: INFO: Processed 55,680,000 reads!
+2018-09-24 14:09:03,611: INFO: Processed 56,960,000 reads!
+2018-09-24 14:10:03,993: INFO: Processed 56,000,000 reads!
+2018-09-24 14:10:30,580: INFO: Processed 57,280,000 reads!
+2018-09-24 14:11:34,262: INFO: Processed 40,960,000 reads!
+2018-09-24 14:11:57,163: INFO: Processed 57,600,000 reads!
+2018-09-24 14:12:58,195: INFO: Processed 56,640,000 reads!
+2018-09-24 14:13:25,069: INFO: Processed 41,280,000 reads!
+2018-09-24 14:14:22,305: INFO: Processed 56,960,000 reads!
+2018-09-24 14:15:14,758: INFO: Processed 41,600,000 reads!
+2018-09-24 14:15:49,138: INFO: Processed 57,280,000 reads!
+2018-09-24 14:16:04,433: INFO: Processed 58,560,000 reads!
+2018-09-24 14:17:17,317: INFO: Processed 57,600,000 reads!
+2018-09-24 14:17:31,500: INFO: Processed 58,880,000 reads!
+2018-09-24 14:18:48,953: INFO: Processed 42,240,000 reads!
+2018-09-24 14:18:59,005: INFO: Processed 59,200,000 reads!
+2018-09-24 14:20:23,445: INFO: Processed 59,520,000 reads!
+2018-09-24 14:20:40,671: INFO: Processed 42,560,000 reads!
+2018-09-24 14:21:45,697: INFO: Processed 59,840,000 reads!
+2018-09-24 14:22:59,333: INFO: Processed 58,880,000 reads!
+2018-09-24 14:23:05,075: INFO: Processed 60,160,000 reads!
+2018-09-24 14:24:32,249: INFO: Processed 60,480,000 reads!
+2018-09-24 14:25:55,235: INFO: Processed 59,520,000 reads!
+2018-09-24 14:26:14,961: INFO: Processed 43,520,000 reads!
+2018-09-24 14:27:20,433: INFO: Processed 59,840,000 reads!
+2018-09-24 14:27:26,143: INFO: Processed 61,120,000 reads!
+2018-09-24 14:28:23,024: INFO: Processed 57,600,000 reads!
+2018-09-24 14:28:51,141: INFO: Processed 61,440,000 reads!
+2018-09-24 14:30:12,808: INFO: Processed 61,760,000 reads!
+2018-09-24 14:31:38,880: INFO: Processed 62,080,000 reads!
+2018-09-24 14:33:06,168: INFO: Processed 62,400,000 reads!
+2018-09-24 14:34:02,373: INFO: Processed 58,880,000 reads!
+2018-09-24 14:34:32,808: INFO: Processed 62,720,000 reads!
+2018-09-24 14:35:43,843: INFO: Processed 61,760,000 reads!
+2018-09-24 14:35:58,277: INFO: Processed 63,040,000 reads!
+2018-09-24 14:37:20,506: INFO: Processed 63,360,000 reads!
+2018-09-24 14:38:43,986: INFO: Processed 63,680,000 reads!
+2018-09-24 14:39:05,272: INFO: Processed 45,760,000 reads!
+2018-09-24 14:40:11,775: INFO: Processed 64,000,000 reads!
+2018-09-24 14:41:11,559: INFO: Processed 60,480,000 reads!
+2018-09-24 14:41:39,680: INFO: Processed 64,320,000 reads!
+2018-09-24 14:42:50,323: INFO: Processed 63,360,000 reads!
+2018-09-24 14:43:06,726: INFO: Processed 64,640,000 reads!
+2018-09-24 14:44:33,891: INFO: Processed 46,720,000 reads!
+2018-09-24 14:45:56,304: INFO: Processed 65,280,000 reads!
+2018-09-24 14:46:26,218: INFO: Processed 47,040,000 reads!
+2018-09-24 14:47:24,161: INFO: Processed 65,600,000 reads!
+2018-09-24 14:48:27,422: INFO: Processed 64,640,000 reads!
+2018-09-24 14:48:52,321: INFO: Processed 65,920,000 reads!
+2018-09-24 14:50:19,090: INFO: Processed 66,240,000 reads!
+2018-09-24 14:51:42,402: INFO: Processed 66,560,000 reads!
+2018-09-24 14:51:51,284: INFO: Processed 48,000,000 reads!
+2018-09-24 14:53:02,104: INFO: Processed 66,880,000 reads!
+2018-09-24 14:54:09,485: INFO: Processed 65,920,000 reads!
+2018-09-24 14:54:28,571: INFO: Processed 67,200,000 reads!
+2018-09-24 14:55:56,326: INFO: Processed 67,520,000 reads!
+2018-09-24 14:57:29,256: INFO: Processed 48,960,000 reads!
+2018-09-24 14:58:47,658: INFO: Processed 68,160,000 reads!
+2018-09-24 14:59:19,786: INFO: Processed 49,280,000 reads!
+2018-09-24 15:00:08,955: INFO: Processed 68,480,000 reads!
+2018-09-24 15:01:33,335: INFO: Processed 68,800,000 reads!
+2018-09-24 15:03:01,603: INFO: Processed 69,120,000 reads!
+2018-09-24 15:04:29,562: INFO: Processed 69,440,000 reads!
+2018-09-24 15:04:50,018: INFO: Processed 50,240,000 reads!
+2018-09-24 15:05:54,376: INFO: Processed 69,760,000 reads!
+2018-09-24 15:07:08,651: INFO: Processed 68,800,000 reads!
+2018-09-24 15:07:16,317: INFO: Processed 70,080,000 reads!
+2018-09-24 15:08:04,796: INFO: Processed 70,400,000 reads!
+2018-09-24 15:08:04,808: INFO: Formatting fastq done, taking 5.196 hours
+Extra parameter(s) specified: "1"
+Error: Encountered internal HISAT2 exception (#1)
+Command: /broad/software/free/Linux/redhat_6_x86_64/pkgs/hisat2/hisat2_2.0.5/bin/hisat2-align-l --wrapper basic-0 -x /ahg/regevdata/projects/sc_compare/seanken/SM2/TestHISAT2/hisat_ref_mix/mm10_hg19 --secondary --seed 12345 -S /broad/hptmp/ssimmons/scumi/mixed1/Celseq1/alignment.sam -U -k 1 
+(ERR): hisat2-align exited with value 1
+[E::hts_open_format] fail to open file '/broad/hptmp/ssimmons/scumi/mixed1/Celseq1/alignment.sam'
+samtools view: failed to open "/broad/hptmp/ssimmons/scumi/mixed1/Celseq1/alignment.sam" for reading: No such file or directory
+rm: cannot remove `/broad/hptmp/ssimmons/scumi/mixed1/Celseq1/alignment.sam': No such file or directory
+2018-09-24 15:08:10,497: INFO: Running featureCounts to annotate alignments.
+
+ERROR: invalid parameter: '/broad/hptmp/ssimmons/scumi/mixed1/Celseq1/results.star_align.bam'
+
+2018-09-24 15:08:12,861: ERROR: Error: no cell barcodes and UMIs.
+2018-09-24 15:08:36,018: INFO: Processed 50,880,000 reads!
+2018-09-24 15:10:01,098: INFO: Processed 66,880,000 reads!
+2018-09-24 15:10:28,197: INFO: Processed 51,200,000 reads!
+2018-09-24 15:11:28,697: INFO: Processed 67,200,000 reads!
+2018-09-24 15:12:19,047: INFO: Processed 51,520,000 reads!
+2018-09-24 15:12:56,215: INFO: Processed 67,520,000 reads!
+2018-09-24 15:14:22,095: INFO: Processed 67,840,000 reads!
+2018-09-24 15:15:57,485: INFO: Processed 52,160,000 reads!
+2018-09-24 15:17:08,683: INFO: Processed 71,040,000 reads!
+2018-09-24 15:17:50,426: INFO: Processed 52,480,000 reads!
+2018-09-24 15:18:31,758: INFO: Processed 71,360,000 reads!
+2018-09-24 15:19:59,318: INFO: Processed 71,680,000 reads!
+2018-09-24 15:21:37,964: INFO: Processed 53,120,000 reads!
+2018-09-24 15:22:53,026: INFO: Processed 72,320,000 reads!
+2018-09-24 15:23:29,674: INFO: Processed 53,440,000 reads!
+2018-09-24 15:24:16,675: INFO: Processed 72,640,000 reads!
+2018-09-24 15:25:37,710: INFO: Processed 72,960,000 reads!
+2018-09-24 15:27:05,796: INFO: Processed 54,080,000 reads!
+2018-09-24 15:28:32,574: INFO: Processed 73,600,000 reads!
+2018-09-24 15:28:57,532: INFO: Processed 54,400,000 reads!
+2018-09-24 15:30:00,780: INFO: Processed 73,920,000 reads!
+2018-09-24 15:31:15,091: INFO: Processed 71,680,000 reads!
+2018-09-24 15:31:26,396: INFO: Processed 74,240,000 reads!
+2018-09-24 15:32:48,363: INFO: Processed 74,560,000 reads!
+2018-09-24 15:33:53,874: INFO: Processed 74,880,000 reads!
+2018-09-24 15:33:53,887: INFO: Formatting fastq done, taking 5.588 hours
+Extra parameter(s) specified: "1"
+Error: Encountered internal HISAT2 exception (#1)
+Command: /broad/software/free/Linux/redhat_6_x86_64/pkgs/hisat2/hisat2_2.0.5/bin/hisat2-align-l --wrapper basic-0 -x /ahg/regevdata/projects/sc_compare/seanken/SM2/TestHISAT2/hisat_ref_mix/mm10_hg19 --secondary --seed 12345 -S /broad/hptmp/ssimmons/scumi/mixed1/Celseq3/alignment.sam -U -k 1 
+(ERR): hisat2-align exited with value 1
+[E::hts_open_format] fail to open file '/broad/hptmp/ssimmons/scumi/mixed1/Celseq3/alignment.sam'
+samtools view: failed to open "/broad/hptmp/ssimmons/scumi/mixed1/Celseq3/alignment.sam" for reading: No such file or directory
+rm: cannot remove `/broad/hptmp/ssimmons/scumi/mixed1/Celseq3/alignment.sam': No such file or directory
+2018-09-24 15:33:58,090: INFO: Running featureCounts to annotate alignments.
+
+ERROR: invalid parameter: '/broad/hptmp/ssimmons/scumi/mixed1/Celseq3/results.star_align.bam'
+
+2018-09-24 15:34:00,269: ERROR: Error: no cell barcodes and UMIs.
+2018-09-24 15:34:01,404: INFO: Processed 72,320,000 reads!
+2018-09-24 15:34:33,173: INFO: Processed 55,360,000 reads!
+2018-09-24 15:35:21,164: INFO: Processed 72,640,000 reads!
+2018-09-24 15:36:47,261: INFO: Processed 72,960,000 reads!
+2018-09-24 15:38:15,479: INFO: Processed 73,280,000 reads!
+2018-09-24 15:39:53,193: INFO: Processed 56,320,000 reads!
+2018-09-24 15:41:10,186: INFO: Processed 73,920,000 reads!
+2018-09-24 15:41:45,552: INFO: Processed 56,640,000 reads!
+2018-09-24 15:42:35,487: INFO: Processed 74,240,000 reads!
+2018-09-24 15:43:57,869: INFO: Processed 74,560,000 reads!
+2018-09-24 15:45:28,134: INFO: Processed 57,280,000 reads!
+2018-09-24 15:47:16,378: INFO: Processed 57,600,000 reads!
+2018-09-24 15:48:18,600: INFO: Processed 75,520,000 reads!
+2018-09-24 15:49:03,056: INFO: Processed 57,920,000 reads!
+2018-09-24 15:49:45,781: INFO: Processed 75,840,000 reads!
+2018-09-24 15:51:11,895: INFO: Processed 76,160,000 reads!
+2018-09-24 15:52:47,578: INFO: Processed 58,560,000 reads!
+2018-09-24 15:53:57,749: INFO: Processed 76,800,000 reads!
+2018-09-24 15:54:40,540: INFO: Processed 58,880,000 reads!
+2018-09-24 15:55:25,583: INFO: Processed 77,120,000 reads!
+2018-09-24 15:56:55,199: INFO: Processed 77,440,000 reads!
+2018-09-24 15:58:24,496: INFO: Processed 77,760,000 reads!
+2018-09-24 16:00:05,235: INFO: Processed 59,840,000 reads!
+2018-09-24 16:01:19,326: INFO: Processed 78,400,000 reads!
+2018-09-24 16:01:55,629: INFO: Processed 60,160,000 reads!
+2018-09-24 16:02:43,464: INFO: Processed 78,720,000 reads!
+2018-09-24 16:04:10,719: INFO: Processed 79,040,000 reads!
+2018-09-24 16:05:44,943: INFO: Processed 60,800,000 reads!
+2018-09-24 16:07:37,836: INFO: Processed 61,120,000 reads!
+2018-09-24 16:08:36,013: INFO: Processed 80,000,000 reads!
+2018-09-24 16:09:28,392: INFO: Processed 61,440,000 reads!
+2018-09-24 16:10:00,894: INFO: Processed 80,320,000 reads!
+2018-09-24 16:11:21,687: INFO: Processed 80,640,000 reads!
+2018-09-24 16:13:07,874: INFO: Processed 62,080,000 reads!
+2018-09-24 16:14:14,611: INFO: Processed 81,280,000 reads!
+2018-09-24 16:15:01,135: INFO: Processed 62,400,000 reads!
+2018-09-24 16:15:43,398: INFO: Processed 81,600,000 reads!
+2018-09-24 16:17:11,725: INFO: Processed 81,920,000 reads!
+2018-09-24 16:18:48,823: INFO: Processed 63,040,000 reads!
+2018-09-24 16:20:01,478: INFO: Processed 82,560,000 reads!
+2018-09-24 16:20:40,191: INFO: Processed 63,360,000 reads!
+2018-09-24 16:21:23,469: INFO: Processed 82,880,000 reads!
+2018-09-24 16:22:51,897: INFO: Processed 83,200,000 reads!
+2018-09-24 16:24:20,919: INFO: Processed 83,520,000 reads!
+2018-09-24 16:26:11,871: INFO: Processed 64,320,000 reads!
+2018-09-24 16:27:17,158: INFO: Processed 84,160,000 reads!
+2018-09-24 16:28:06,701: INFO: Processed 64,640,000 reads!
+2018-09-24 16:28:41,068: INFO: Processed 84,480,000 reads!
+2018-09-24 16:30:00,735: INFO: Processed 64,960,000 reads!
+2018-09-24 16:30:28,038: INFO: Processed 85,120,000 reads!
+2018-09-24 16:30:28,065: INFO: Formatting fastq done, taking 6.358 hours
+Extra parameter(s) specified: "1"
+Error: Encountered internal HISAT2 exception (#1)
+Command: /broad/software/free/Linux/redhat_6_x86_64/pkgs/hisat2/hisat2_2.0.5/bin/hisat2-align-l --wrapper basic-0 -x /ahg/regevdata/projects/sc_compare/seanken/SM2/TestHISAT2/hisat_ref_mix/mm10_hg19 --secondary --seed 12345 -S /broad/hptmp/ssimmons/scumi/mixed1/Celseq4/alignment.sam -U -k 1 
+(ERR): hisat2-align exited with value 1
+[E::hts_open_format] fail to open file '/broad/hptmp/ssimmons/scumi/mixed1/Celseq4/alignment.sam'
+samtools view: failed to open "/broad/hptmp/ssimmons/scumi/mixed1/Celseq4/alignment.sam" for reading: No such file or directory
+rm: cannot remove `/broad/hptmp/ssimmons/scumi/mixed1/Celseq4/alignment.sam': No such file or directory
+2018-09-24 16:30:34,520: INFO: Running featureCounts to annotate alignments.
+
+ERROR: invalid parameter: '/broad/hptmp/ssimmons/scumi/mixed1/Celseq4/results.star_align.bam'
+
+2018-09-24 16:30:36,949: ERROR: Error: no cell barcodes and UMIs.
+2018-09-24 16:31:52,211: INFO: Processed 65,280,000 reads!
+2018-09-24 16:33:40,606: INFO: Processed 65,600,000 reads!
+2018-09-24 16:35:26,074: INFO: Processed 65,920,000 reads!
+mkdir: cannot create directory `/broad/hptmp/ssimmons/scumi/mixed1/Celseq1': File exists
+mkdir: cannot create directory `/broad/hptmp/ssimmons/scumi/mixed1/Celseq2': File exists
+mkdir: cannot create directory `/broad/hptmp/ssimmons/scumi/mixed1/Celseq3': File exists
+mkdir: cannot create directory `/broad/hptmp/ssimmons/scumi/mixed1/Celseq4': File exists
+2018-09-24 17:11:14,603: INFO: Cell barcode in configure file
+2018-09-24 17:11:14,604: INFO: UMI in config file
+2018-09-24 17:12:37,437: INFO: Processed 320,000 reads!
+2018-09-24 17:14:00,822: INFO: Processed 640,000 reads!
+2018-09-24 17:15:23,955: INFO: Processed 960,000 reads!
+2018-09-24 17:16:45,558: INFO: Processed 1,280,000 reads!
+2018-09-24 17:18:29,272: INFO: Cell barcode in configure file
+2018-09-24 17:18:29,274: INFO: UMI in config file
+2018-09-24 17:19:51,363: INFO: Processed 320,000 reads!
+!
+ile
+2018-09-24 17:19:22,330: INFO: UMI in config file
+2018-09-24 17:21:14,793: INFO: Processed 640,000 reads!
+!
+2018-09-24 17:22:38,290: INFO: Processed 960,000 reads!
+!
+2018-09-24 17:24:00,711: INFO: Processed 1,280,000 reads!
+ile
+2018-09-24 17:23:43,681: INFO: UMI in config file
+2018-09-24 17:25:20,260: INFO: Processed 1,600,000 reads!
+2018-09-24 17:26:42,576: INFO: Processed 1,600,000 reads!
+2018-09-24 17:28:06,547: INFO: Processed 1,920,000 reads!
+2018-09-24 17:29:32,842: INFO: Processed 2,240,000 reads!
+2018-09-24 17:30:51,450: INFO: Processed 2,880,000 reads!
+2018-09-24 17:31:00,879: INFO: Processed 2,560,000 reads!
+2018-09-24 17:32:14,258: INFO: Processed 1,920,000 reads!
+2018-09-24 17:32:29,139: INFO: Processed 2,880,000 reads!
+2018-09-24 17:33:35,627: INFO: Processed 2,240,000 reads!
+2018-09-24 17:33:56,894: INFO: Processed 3,200,000 reads!
+2018-09-24 17:34:58,102: INFO: Processed 2,560,000 reads!
+2018-09-24 17:35:23,577: INFO: Processed 3,520,000 reads!
+2018-09-24 17:36:21,925: INFO: Processed 2,880,000 reads!
+2018-09-24 17:37:19,154: INFO: Processed 6,080,000 reads!
+2018-09-24 17:37:44,863: INFO: Processed 3,200,000 reads!
+2018-09-24 17:38:40,976: INFO: Processed 6,400,000 reads!
+2018-09-24 17:39:05,973: INFO: Processed 3,520,000 reads!
+2018-09-24 17:40:00,284: INFO: Processed 6,720,000 reads!
+2018-09-24 17:40:26,811: INFO: Processed 5,120,000 reads!
+2018-09-24 17:41:22,648: INFO: Processed 7,040,000 reads!
+2018-09-24 17:41:46,269: INFO: Processed 4,160,000 reads!
+2018-09-24 17:43:10,756: INFO: Processed 5,760,000 reads!
+2018-09-24 17:44:34,606: INFO: Processed 4,800,000 reads!
+2018-09-24 17:45:57,630: INFO: Processed 5,120,000 reads!
+2018-09-24 17:47:20,402: INFO: Processed 5,440,000 reads!
+2018-09-24 17:48:40,863: INFO: Processed 5,760,000 reads!
+2018-09-24 17:50:00,388: INFO: Processed 6,080,000 reads!
+2018-09-24 17:51:22,431: INFO: Processed 6,400,000 reads!
+2018-09-24 17:52:46,506: INFO: Processed 7,360,000 reads!
+2018-09-24 17:54:12,528: INFO: Processed 7,680,000 reads!
+2018-09-24 17:55:31,123: INFO: Processed 7,360,000 reads!
+
+2018-09-24 17:55:36,064: INFO: Processed 8,000,000 reads!
+2018-09-24 17:56:51,929: INFO: Processed 7,680,000 reads!
+
+2018-09-24 17:57:01,870: INFO: Processed 8,320,000 reads!
+2018-09-24 17:58:14,895: INFO: Processed 9,280,000 reads!
+
+2018-09-24 17:58:29,698: INFO: Processed 8,640,000 reads!
+2018-09-24 17:59:39,737: INFO: Processed 9,600,000 reads!
+
+2018-09-24 17:59:57,889: INFO: Processed 8,960,000 reads!
+2018-09-24 18:00:53,563: INFO: Processed 8,640,000 reads!
+
+2018-09-24 18:01:24,534: INFO: Processed 9,280,000 reads!
+2018-09-24 18:02:18,529: INFO: Processed 8,960,000 reads!
+
+2018-09-24 18:02:50,369: INFO: Processed 9,600,000 reads!
+
+2018-09-24 18:03:42,931: INFO: Processed 10,560,000 reads!
+2018-09-24 18:04:40,457: INFO: Processed 12,480,000 reads!2018-09-24 18:05:02,340: INFO: Processed 9,600,000 reads!
+
+2018-09-24 18:06:03,747: INFO: Processed 12,800,000 reads!
+2018-09-24 18:06:25,237: INFO: Processed 11,200,000 reads!
+2018-09-24 18:07:25,731: INFO: Processed 13,120,000 reads!
+2018-09-24 18:07:49,436: INFO: Processed 11,520,000 reads!
+2018-09-24 18:09:05,071: INFO: Processed 10,560,000 reads!
+2018-09-24 18:09:12,934: INFO: Processed 11,840,000 reads!
+2018-09-24 18:10:34,658: INFO: Processed 12,160,000 reads!
+2018-09-24 18:11:54,916: INFO: Processed 12,480,000 reads!
+2018-09-24 18:13:16,686: INFO: Processed 12,800,000 reads!
+2018-09-24 18:14:39,971: INFO: Processed 13,120,000 reads!
+2018-09-24 18:16:03,777: INFO: Processed 13,440,000 reads!
+2018-09-24 18:17:26,770: INFO: Processed 13,760,000 reads!
+2018-09-24 18:18:46,922: INFO: Processed 14,080,000 reads!
+2018-09-24 18:20:09,080: INFO: Processed 13,440,000 reads!
+2018-09-24 18:21:34,035: INFO: Processed 13,760,000 reads!
+2018-09-24 18:22:52,542: INFO: Processed 15,040,000 reads!
+2018-09-24 18:22:58,894: INFO: Processed 14,080,000 reads!
+2018-09-24 18:23:58,103: INFO: Processed 14,080,000 reads!
+2018-09-24 18:24:25,764: INFO: Processed 14,400,000 reads!
+2018-09-24 18:25:19,857: INFO: Processed 14,400,000 reads!
+2018-09-24 18:25:54,027: INFO: Processed 14,720,000 reads!
+2018-09-24 18:26:55,870: INFO: Processed 16,000,000 reads!
+2018-09-24 18:27:52,742: INFO: Processed 17,920,000 reads!
+2018-09-24 18:28:16,665: INFO: Processed 16,320,000 reads!
+2018-09-24 18:29:13,805: INFO: Processed 18,240,000 reads!
+2018-09-24 18:29:39,752: INFO: Processed 16,640,000 reads!
+2018-09-24 18:30:32,192: INFO: Processed 18,560,000 reads!
+2018-09-24 18:31:03,380: INFO: Processed 16,960,000 reads!
+2018-09-24 18:31:54,551: INFO: Processed 18,880,000 reads!
+2018-09-24 18:32:25,353: INFO: Processed 17,280,000 reads!
+2018-09-24 18:33:34,691: INFO: Processed 16,320,000 reads!
+2018-09-24 18:33:45,067: INFO: Processed 17,600,000 reads!
+2018-09-24 18:35:01,210: INFO: Processed 17,920,000 reads!
+2018-09-24 18:36:22,198: INFO: Processed 18,240,000 reads!
+2018-09-24 18:37:45,545: INFO: Processed 18,560,000 reads!
+2018-09-24 18:39:08,751: INFO: Processed 18,880,000 reads!
+2018-09-24 18:40:30,644: INFO: Processed 19,200,000 reads!
+2018-09-24 18:41:50,476: INFO: Processed 19,520,000 reads!
+2018-09-24 18:43:12,257: INFO: Processed 18,560,000 reads!
+2018-09-24 18:44:40,912: INFO: Processed 18,880,000 reads!
+2018-09-24 18:45:54,940: INFO: Processed 19,200,000 reads!
+2018-09-24 18:46:08,506: INFO: Processed 19,200,000 reads!
+2018-09-24 18:47:20,045: INFO: Processed 19,520,000 reads!
+2018-09-24 18:47:34,461: INFO: Processed 19,520,000 reads!
+2018-09-24 18:48:40,640: INFO: Processed 19,840,000 reads!
+2018-09-24 18:48:57,319: INFO: Processed 19,840,000 reads!
+2018-09-24 18:49:57,975: INFO: Processed 20,160,000 reads!
+2018-09-24 18:50:18,133: INFO: Processed 20,160,000 reads!
+2018-09-24 18:51:16,098: INFO: Processed 20,480,000 reads!
+2018-09-24 18:51:44,322: INFO: Processed 20,480,000 reads!
+2018-09-24 18:52:38,152: INFO: Processed 20,800,000 reads!
+2018-09-24 18:53:12,145: INFO: Processed 20,800,000 reads!
+2018-09-24 18:54:03,944: INFO: Processed 22,400,000 reads!
+2018-09-24 18:54:40,029: INFO: Processed 21,120,000 reads!
+2018-09-24 18:55:23,686: INFO: Processed 21,440,000 reads!
+2018-09-24 18:56:06,573: INFO: Processed 21,440,000 reads!
+2018-09-24 18:56:49,177: INFO: Processed 23,040,000 reads!
+2018-09-24 18:58:02,058: INFO: Processed 24,960,000 reads!
+2018-09-24 18:58:08,865: INFO: Processed 23,360,000 reads!
+2018-09-24 18:59:21,433: INFO: Processed 22,400,000 reads!
+2018-09-24 18:59:31,840: INFO: Processed 23,680,000 reads!
+2018-09-24 19:00:42,904: INFO: Processed 22,720,000 reads!
+2018-09-24 19:00:55,860: INFO: Processed 24,000,000 reads!
+2018-09-24 19:02:09,802: INFO: Processed 25,920,000 reads!
+2018-09-24 19:02:18,872: INFO: Processed 24,320,000 reads!
+2018-09-24 19:03:40,409: INFO: Processed 24,640,000 reads!
+2018-09-24 19:05:00,057: INFO: Processed 24,960,000 reads!
+2018-09-24 19:06:20,344: INFO: Processed 25,280,000 reads!
+2018-09-24 19:07:44,375: INFO: Processed 25,600,000 reads!
+2018-09-24 19:09:08,318: INFO: Processed 25,920,000 reads!
+2018-09-24 19:10:30,937: INFO: Processed 26,240,000 reads!
+2018-09-24 19:11:50,800: INFO: Processed 24,960,000 reads!
+2018-09-24 19:13:19,544: INFO: Processed 25,280,000 reads!
+2018-09-24 19:14:46,800: INFO: Processed 25,600,000 reads!
+2018-09-24 19:15:57,140: INFO: Processed 27,520,000 reads!
+2018-09-24 19:16:12,191: INFO: Processed 25,920,000 reads!
+2018-09-24 19:17:20,183: INFO: Processed 27,840,000 reads!
+2018-09-24 19:17:36,781: INFO: Processed 26,240,000 reads!
+2018-09-24 19:18:41,413: INFO: Processed 28,160,000 reads!
+2018-09-24 19:19:04,920: INFO: Processed 26,560,000 reads!
+2018-09-24 19:19:59,234: INFO: Processed 28,480,000 reads!
+2018-09-24 19:20:33,233: INFO: Processed 26,880,000 reads!
+2018-09-24 19:21:17,990: INFO: Processed 28,800,000 reads!
+2018-09-24 19:22:29,668: INFO: Processed 30,720,000 reads!
+2018-09-24 19:22:41,457: INFO: Processed 29,120,000 reads!
+2018-09-24 19:23:52,810: INFO: Processed 31,040,000 reads!
+2018-09-24 19:24:04,682: INFO: Processed 29,440,000 reads!
+2018-09-24 19:25:14,494: INFO: Processed 31,360,000 reads!
+2018-09-24 19:25:26,525: INFO: Processed 29,760,000 reads!
+2018-09-24 19:26:44,690: INFO: Processed 30,080,000 reads!
+2018-09-24 19:28:01,457: INFO: Processed 30,400,000 reads!
+2018-09-24 19:29:24,014: INFO: Processed 30,720,000 reads!
+2018-09-24 19:30:48,239: INFO: Processed 31,040,000 reads!
+2018-09-24 19:32:07,768: INFO: Processed 29,440,000 reads!
+2018-09-24 19:33:33,842: INFO: Processed 29,760,000 reads!
+2018-09-24 19:34:57,551: INFO: Processed 30,080,000 reads!
+2018-09-24 19:36:23,748: INFO: Processed 30,400,000 reads!
+2018-09-24 19:37:51,689: INFO: Processed 30,720,000 reads!
+2018-09-24 19:38:52,947: INFO: Processed 32,960,000 reads!
+2018-09-24 19:39:19,826: INFO: Processed 31,040,000 reads!
+2018-09-24 19:40:14,635: INFO: Processed 33,280,000 reads!
+2018-09-24 19:40:46,082: INFO: Processed 31,360,000 reads!
+2018-09-24 19:41:35,000: INFO: Processed 33,600,000 reads!
+2018-09-24 19:42:11,118: INFO: Processed 31,680,000 reads!
+2018-09-24 19:42:52,095: INFO: Processed 33,920,000 reads!
+2018-09-24 19:43:32,483: INFO: Processed 32,000,000 reads!
+2018-09-24 19:44:13,564: INFO: Processed 34,240,000 reads!
+2018-09-24 19:44:56,317: INFO: Processed 32,320,000 reads!
+2018-09-24 19:45:36,847: INFO: Processed 34,560,000 reads!
+2018-09-24 19:46:23,998: INFO: Processed 32,640,000 reads!
+2018-09-24 19:46:59,618: INFO: Processed 34,880,000 reads!
+2018-09-24 19:48:21,287: INFO: Processed 35,200,000 reads!
+2018-09-24 19:49:39,996: INFO: Processed 35,520,000 reads!
+2018-09-24 19:50:59,676: INFO: Processed 35,840,000 reads!
+2018-09-24 19:52:21,477: INFO: Processed 36,160,000 reads!
+2018-09-24 19:53:44,356: INFO: Processed 36,480,000 reads!
+2018-09-24 19:55:05,932: INFO: Processed 36,800,000 reads!
+2018-09-24 19:56:26,655: INFO: Processed 37,120,000 reads!
+2018-09-24 19:57:48,333: INFO: Processed 35,200,000 reads!
+2018-09-24 19:59:12,409: INFO: Processed 35,520,000 reads!
+2018-09-24 20:00:34,152: INFO: Processed 35,840,000 reads!
+2018-09-24 20:01:56,781: INFO: Processed 36,160,000 reads!
+2018-09-24 20:03:24,277: INFO: Processed 36,480,000 reads!
+2018-09-24 20:04:28,016: INFO: Processed 39,040,000 reads!
+2018-09-24 20:04:52,195: INFO: Processed 36,800,000 reads!
+2018-09-24 20:05:43,186: INFO: Processed 39,360,000 reads!
+2018-09-24 20:06:19,036: INFO: Processed 37,120,000 reads!
+2018-09-24 20:07:05,873: INFO: Processed 39,680,000 reads!
+2018-09-24 20:07:44,551: INFO: Processed 37,440,000 reads!
+2018-09-24 20:08:29,106: INFO: Processed 40,000,000 reads!
+2018-09-24 20:09:40,323: INFO: Processed 41,920,000 reads!
+2018-09-24 20:09:51,241: INFO: Processed 40,320,000 reads!
+2018-09-24 20:10:29,743: INFO: Processed 38,080,000 reads!
+2018-09-24 20:11:11,286: INFO: Processed 40,640,000 reads!
+2018-09-24 20:12:28,223: INFO: Processed 39,680,000 reads!
+2018-09-24 20:13:49,229: INFO: Processed 40,000,000 reads!
+2018-09-24 20:15:07,607: INFO: Processed 40,320,000 reads!
+2018-09-24 20:16:28,866: INFO: Processed 41,920,000 reads!
+2018-09-24 20:17:49,871: INFO: Processed 42,240,000 reads!
+2018-09-24 20:19:11,813: INFO: Processed 41,280,000 reads!
+2018-09-24 20:20:33,706: INFO: Processed 41,600,000 reads!
+2018-09-24 20:21:55,771: INFO: Processed 40,640,000 reads!
+2018-09-24 20:23:22,689: INFO: Processed 40,960,000 reads!
+2018-09-24 20:24:48,126: INFO: Processed 41,280,000 reads!
+2018-09-24 20:26:12,806: INFO: Processed 41,600,000 reads!
+2018-09-24 20:27:35,774: INFO: Processed 41,920,000 reads!
+2018-09-24 20:28:39,159: INFO: Processed 43,520,000 reads!
+2018-09-24 20:28:59,897: INFO: Processed 42,240,000 reads!
+2018-09-24 20:30:00,039: INFO: Processed 43,840,000 reads!
+2018-09-24 20:30:26,733: INFO: Processed 42,560,000 reads!
+2018-09-24 20:31:18,540: INFO: Processed 44,160,000 reads!
+2018-09-24 20:31:53,931: INFO: Processed 42,880,000 reads!
+2018-09-24 20:32:36,022: INFO: Processed 45,760,000 reads!
+2018-09-24 20:33:50,822: INFO: Processed 47,680,000 reads!
+2018-09-24 20:33:56,369: INFO: Processed 46,080,000 reads!
+2018-09-24 20:35:15,713: INFO: Processed 46,400,000 reads!
+2018-09-24 20:35:17,861: INFO: Processed 45,120,000 reads!
+2018-09-24 20:36:37,712: INFO: Processed 46,720,000 reads!
+2018-09-24 20:36:41,100: INFO: Processed 45,440,000 reads!
+2018-09-24 20:37:48,562: INFO: Processed 48,640,000 reads!
+2018-09-24 20:38:04,150: INFO: Processed 45,760,000 reads!
+2018-09-24 20:39:24,129: INFO: Processed 46,080,000 reads!
+2018-09-24 20:40:44,760: INFO: Processed 47,680,000 reads!
+2018-09-24 20:42:02,857: INFO: Processed 48,000,000 reads!
+2018-09-24 20:43:22,891: INFO: Processed 48,320,000 reads!
+2018-09-24 20:44:44,462: INFO: Processed 48,640,000 reads!
+2018-09-24 20:46:08,004: INFO: Processed 48,960,000 reads!
+2018-09-24 20:47:28,618: INFO: Processed 49,280,000 reads!
+2018-09-24 20:48:43,368: INFO: Processed 46,720,000 reads!
+2018-09-24 20:50:09,012: INFO: Processed 47,040,000 reads!
+2018-09-24 20:51:33,657: INFO: Processed 47,360,000 reads!
+2018-09-24 20:52:56,028: INFO: Processed 47,680,000 reads!
+2018-09-24 20:54:16,724: INFO: Processed 48,000,000 reads!
+2018-09-24 20:55:41,293: INFO: Processed 48,320,000 reads!
+2018-09-24 20:57:06,848: INFO: Processed 48,640,000 reads!
+2018-09-24 20:58:31,827: INFO: Processed 48,960,000 reads!
+2018-09-24 20:59:28,877: INFO: Processed 53,760,000 reads!
+2018-09-24 20:59:55,354: INFO: Processed 49,280,000 reads!
+2018-09-24 21:00:52,657: INFO: Processed 54,080,000 reads!
+2018-09-24 21:01:18,509: INFO: Processed 49,600,000 reads!
+2018-09-24 21:02:16,339: INFO: Processed 54,400,000 reads!
+2018-09-24 21:02:40,624: INFO: Processed 49,920,000 reads!
+2018-09-24 21:03:38,410: INFO: Processed 54,720,000 reads!
+2018-09-24 21:04:04,532: INFO: Processed 50,240,000 reads!
+2018-09-24 21:04:56,787: INFO: Processed 55,040,000 reads!
+2018-09-24 21:05:29,946: INFO: Processed 50,560,000 reads!
+2018-09-24 21:06:16,977: INFO: Processed 55,360,000 reads!
+2018-09-24 21:07:28,232: INFO: Processed 54,080,000 reads!
+2018-09-24 21:07:39,974: INFO: Processed 55,680,000 reads!
+2018-09-24 21:08:51,199: INFO: Processed 54,400,000 reads!
+2018-09-24 21:09:02,662: INFO: Processed 56,000,000 reads!
+2018-09-24 21:10:12,441: INFO: Processed 54,720,000 reads!
+2018-09-24 21:10:23,008: INFO: Processed 56,320,000 reads!
+2018-09-24 21:11:33,750: INFO: Processed 53,760,000 reads!
+2018-09-24 21:11:38,915: INFO: Processed 56,640,000 reads!
+2018-09-24 21:12:54,338: INFO: Processed 54,080,000 reads!
+2018-09-24 21:14:17,030: INFO: Processed 57,280,000 reads!
+2018-09-24 21:15:39,887: INFO: Processed 57,600,000 reads!
+2018-09-24 21:17:00,692: INFO: Processed 57,920,000 reads!
+2018-09-24 21:18:21,125: INFO: Processed 56,640,000 reads!
+2018-09-24 21:19:40,587: INFO: Processed 53,760,000 reads!
+2018-09-24 21:21:03,229: INFO: Processed 54,080,000 reads!
+2018-09-24 21:21:47,850: INFO: Processed 56,000,000 reads!
+2018-09-24 21:22:28,653: INFO: Processed 54,400,000 reads!
+2018-09-24 21:23:55,143: INFO: Processed 54,720,000 reads!
+2018-09-24 21:25:21,117: INFO: Processed 55,040,000 reads!
+2018-09-24 21:26:45,917: INFO: Processed 55,360,000 reads!
+2018-09-24 21:28:07,667: INFO: Processed 55,680,000 reads!
+2018-09-24 21:29:27,754: INFO: Processed 56,000,000 reads!
+2018-09-24 21:30:52,160: INFO: Processed 56,320,000 reads!
+2018-09-24 21:32:18,339: INFO: Processed 56,640,000 reads!
+2018-09-24 21:33:11,369: INFO: Processed 58,560,000 reads!
+2018-09-24 21:33:44,278: INFO: Processed 56,960,000 reads!
+2018-09-24 21:34:31,304: INFO: Processed 58,880,000 reads!
+2018-09-24 21:35:39,257: INFO: Processed 60,800,000 reads!
+2018-09-24 21:35:53,375: INFO: Processed 59,200,000 reads!
+2018-09-24 21:37:01,543: INFO: Processed 61,120,000 reads!
+2018-09-24 21:37:15,668: INFO: Processed 59,520,000 reads!
+2018-09-24 21:38:22,999: INFO: Processed 61,440,000 reads!
+2018-09-24 21:38:36,694: INFO: Processed 59,840,000 reads!
+2018-09-24 21:39:42,923: INFO: Processed 61,760,000 reads!
+2018-09-24 21:39:55,440: INFO: Processed 60,160,000 reads!
+2018-09-24 21:41:14,382: INFO: Processed 63,680,000 reads!
+2018-09-24 21:42:37,929: INFO: Processed 64,000,000 reads!
+2018-09-24 21:44:01,577: INFO: Processed 64,320,000 reads!
+2018-09-24 21:45:24,589: INFO: Processed 64,640,000 reads!
+2018-09-24 21:46:45,576: INFO: Processed 64,960,000 reads!
+2018-09-24 21:48:05,123: INFO: Processed 65,280,000 reads!
+2018-09-24 21:49:20,626: INFO: Processed 62,400,000 reads!
+2018-09-24 21:49:28,545: INFO: Processed 65,600,000 reads!
+2018-09-24 21:50:43,596: INFO: Processed 60,800,000 reads!
+2018-09-24 21:50:52,540: INFO: Processed 65,920,000 reads!
+2018-09-24 21:52:01,878: INFO: Processed 63,040,000 reads!
+2018-09-24 21:52:14,989: INFO: Processed 66,240,000 reads!
+2018-09-24 21:53:24,987: INFO: Processed 63,360,000 reads!
+2018-09-24 21:53:34,940: INFO: Processed 61,440,000 reads!
+2018-09-24 21:54:50,166: INFO: Processed 66,880,000 reads!
+2018-09-24 21:54:58,382: INFO: Processed 61,760,000 reads!
+2018-09-24 21:56:12,258: INFO: Processed 67,200,000 reads!
+2018-09-24 21:56:23,198: INFO: Processed 62,080,000 reads!
+2018-09-24 21:57:29,609: INFO: Processed 64,320,000 reads!
+2018-09-24 21:57:50,035: INFO: Processed 62,400,000 reads!
+2018-09-24 21:58:47,937: INFO: Processed 64,640,000 reads!
+2018-09-24 21:59:17,939: INFO: Processed 62,720,000 reads!
+2018-09-24 22:00:09,226: INFO: Processed 64,960,000 reads!
+2018-09-24 22:00:45,038: INFO: Processed 63,040,000 reads!
+2018-09-24 22:01:34,898: INFO: Processed 68,480,000 reads!
+2018-09-24 22:02:28,988: INFO: Processed 67,200,000 reads!
+2018-09-24 22:02:55,289: INFO: Processed 65,600,000 reads!
+2018-09-24 22:03:46,190: INFO: Processed 67,520,000 reads!
+2018-09-24 22:04:18,710: INFO: Processed 69,120,000 reads!
+2018-09-24 22:05:05,564: INFO: Processed 67,840,000 reads!
+2018-09-24 22:05:41,828: INFO: Processed 69,440,000 reads!
+2018-09-24 22:06:53,726: INFO: Processed 66,560,000 reads!
+2018-09-24 22:07:02,436: INFO: Processed 69,760,000 reads!
+2018-09-24 22:08:19,814: INFO: Processed 70,080,000 reads!
+2018-09-24 22:09:05,705: INFO: Processed 70,400,000 reads!
+2018-09-24 22:09:05,732: INFO: Formatting fastq done, taking 4.964 hours
+2018-09-24 22:09:20,128: INFO: Processed 64,960,000 reads!
+2018-09-24 22:09:46,544: INFO: Processed 67,200,000 reads!
+2018-09-24 22:10:45,740: INFO: Processed 65,280,000 reads!
+2018-09-24 22:11:10,794: INFO: Processed 67,520,000 reads!
+2018-09-24 22:12:08,109: INFO: Processed 65,600,000 reads!
+2018-09-24 22:12:31,108: INFO: Processed 67,840,000 reads!
+2018-09-24 22:13:29,909: INFO: Processed 65,920,000 reads!
+2018-09-24 22:13:48,821: INFO: Processed 68,160,000 reads!
+2018-09-24 22:14:40,606: INFO: Processed 70,080,000 reads!
+2018-09-24 22:15:02,648: INFO: Processed 68,480,000 reads!
+2018-09-24 22:16:02,689: INFO: Processed 70,400,000 reads!
+2018-09-24 22:16:23,149: INFO: Processed 66,560,000 reads!
+2018-09-24 22:17:22,852: INFO: Processed 70,720,000 reads!
+2018-09-24 22:17:48,937: INFO: Processed 66,880,000 reads!
+2018-09-24 22:18:38,784: INFO: Processed 71,040,000 reads!
+2018-09-24 22:19:12,862: INFO: Processed 67,200,000 reads!
+2018-09-24 22:19:56,897: INFO: Processed 71,360,000 reads!
+2018-09-24 22:20:33,564: INFO: Processed 67,520,000 reads!
+2018-09-24 22:21:40,996: INFO: Processed 70,080,000 reads!
+2018-09-24 22:21:50,244: INFO: Processed 67,840,000 reads!
+2018-09-24 22:22:57,219: INFO: Processed 70,400,000 reads!
+2018-09-24 22:23:13,897: INFO: Processed 68,160,000 reads!
+2018-09-24 22:24:13,616: INFO: Processed 70,720,000 reads!
+2018-09-24 22:24:40,731: INFO: Processed 68,480,000 reads!
+2018-09-24 22:25:35,667: INFO: Processed 71,040,000 reads!
+2018-09-24 22:26:37,777: INFO: Processed 72,960,000 reads!
+2018-09-24 22:26:58,746: INFO: Processed 71,360,000 reads!
+2018-09-24 22:27:58,263: INFO: Processed 73,280,000 reads!
+2018-09-24 22:28:20,385: INFO: Processed 71,680,000 reads!
+2018-09-24 22:29:21,457: INFO: Processed 73,600,000 reads!
+2018-09-24 22:29:40,496: INFO: Processed 72,000,000 reads!
+2018-09-24 22:30:44,416: INFO: Processed 73,920,000 reads!
+2018-09-24 22:30:56,955: INFO: Processed 72,320,000 reads!
+2018-09-24 22:32:05,218: INFO: Processed 74,240,000 reads!
+2018-09-24 22:32:12,019: INFO: Processed 72,640,000 reads!
+2018-09-24 22:33:33,040: INFO: Processed 72,960,000 reads!
+2018-09-24 22:34:23,851: INFO: Processed 74,880,000 reads!
+2018-09-24 22:34:23,885: INFO: Formatting fastq done, taking 5.265 hours
+2018-09-24 22:34:56,518: INFO: Processed 73,280,000 reads!
+2018-09-24 22:36:19,623: INFO: Processed 73,600,000 reads!
+2018-09-24 22:37:41,386: INFO: Processed 73,920,000 reads!
+2018-09-24 22:39:01,726: INFO: Processed 74,240,000 reads!
+2018-09-24 22:40:18,842: INFO: Processed 74,560,000 reads!
+2018-09-24 22:41:38,902: INFO: Processed 74,880,000 reads!
+2018-09-24 22:43:01,287: INFO: Processed 75,200,000 reads!
+2018-09-24 22:44:23,390: INFO: Processed 75,520,000 reads!
+2018-09-24 22:45:47,839: INFO: Processed 73,280,000 reads!
+2018-09-24 22:47:10,911: INFO: Processed 73,600,000 reads!
+d; of these:
+    20292791 (29.87%) aligned 0 times
+    28938095 (42.59%) aligned exactly 1 time
+    18707803 (27.54%) aligned >1 times
+70.13% overall alignment rate
+2018-09-24 22:48:33,624: INFO: Processed 73,920,000 reads!
+2018-09-24 22:50:00,349: INFO: Processed 74,240,000 reads!
+2018-09-24 22:51:27,441: INFO: Processed 74,560,000 reads!
+2018-09-24 22:52:53,895: INFO: Processed 74,880,000 reads!
+2018-09-24 22:54:19,040: INFO: Processed 75,200,000 reads!
+2018-09-24 22:55:41,840: INFO: Processed 75,520,000 reads!
+2018-09-24 22:57:03,064: INFO: Processed 75,840,000 reads!
+2018-09-24 22:58:28,952: INFO: Processed 76,160,000 reads!
+otate alignments.
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v1.6.2
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                           S results.star_align.bam                         ||
+||                                                                            ||
+||             Output file : results.star_align.bam.annotation                ||
+||                 Summary : results.star_align.bam.annotation.summary        ||
+||              Annotation : genes.gtf (GTF)                                  ||
+||      Assignment details : <input_file>.featureCounts.bam                   ||
+||                      (Note that files are saved to the output directory)   ||
+||                                                                            ||
+||      Dir for temp files : /broad/hptmp/ssimmons/scumi/mixed1/Celseq1       ||
+||                                                                            ||
+||                 Threads : 1                                                ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : no                                               ||
+||      Multimapping reads : counted                                          ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+\\===================== http://subread.sourceforge.net/ ======================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file genes.gtf ...                                         ||
+||    Features : 1808849                                                      ||
+||    Meta-features : 62046                                                   ||
+||    Chromosomes/contigs : 86                                                ||
+||                                                                            ||
+|| Process BAM file results.star_align.bam...                                 ||
+||    Single-end reads are included.                                          ||
+||    Strand specific : stranded                                              ||
+||    Assign reads to features...                                             ||
+2018-09-24 22:59:23,831: INFO: Processed 79,040,000 reads!
+2018-09-24 22:59:57,136: INFO: Processed 76,480,000 reads!
+2018-09-24 23:00:46,991: INFO: Processed 79,360,000 reads!
+2018-09-24 23:01:25,139: INFO: Processed 76,800,000 reads!
+2018-09-24 23:02:10,200: INFO: Processed 79,680,000 reads!
+2018-09-24 23:02:52,959: INFO: Processed 77,120,000 reads!
+2018-09-24 23:03:31,764: INFO: Processed 80,000,000 reads!
+                   ||
+||    Successfully assigned reads : 26907461 (56.5%)                          ||
+||    Running time : 5.17 minutes                                             ||
+||                                                                            ||
+||                         Read assignment finished.                          ||
+||                                                                            ||
+|| Summary of counting results can be found in file "/broad/hptmp/ssimmons/s  ||
+|| cumi/mixed1/Celseq1/results.star_align.bam.annotation.summary"             ||
+||                                                                            ||
+\\===================== http://subread.sourceforge.net/ ======================//
+
+2018-09-24 23:03:57,681: INFO: Detecting whitelist done, taking 0.142 minutes
+2018-09-24 23:03:58,665: INFO: Detected 88 candidate cell barcodes.
+2018-09-24 23:03:58,712: INFO: The number of potential collision barcodes (edit distance 1): 0
+
+2018-09-24 23:03:58,712: INFO: Read GTF /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf
+2018-09-24 23:04:13,626: INFO: Parse GTF /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf done
+2018-09-24 23:04:13,641: INFO: Counting molecular info
+2018-09-24 23:04:18,210: INFO: Processed 77,440,000 reads!
+2018-09-24 23:04:51,271: INFO: Processed 80,320,000 reads!
+2018-09-24 23:06:06,409: INFO: Processed 80,640,000 reads!
+2018-09-24 23:07:24,517: INFO: Processed 80,960,000 reads!
+2018-09-24 23:08:46,523: INFO: Processed 81,280,000 reads!
+2018-09-24 23:10:09,334: INFO: Processed 81,600,000 reads!
+2018-09-24 23:11:34,699: INFO: Processed 79,040,000 reads!
+2018-09-24 23:12:51,137: INFO: Processed 82,240,000 reads!
+d; of these:
+    22031879 (30.26%) aligned 0 times
+    30857924 (42.38%) aligned exactly 1 time
+    19929134 (27.37%) aligned >1 times
+69.74% overall alignment rate
+2018-09-24 23:12:58,697: INFO: Processed 79,360,000 reads!
+2018-09-24 23:14:18,749: INFO: Processed 79,680,000 reads!
+2018-09-24 23:14:45,528: INFO: Parsed 10,000,000 alignments.
+2018-09-24 23:14:45,529: INFO: 10,000,000 unique reads, 5,507,648 reads kept.
+2018-09-24 23:14:45,529: INFO: 0 unmapped reads were filtered.
+2018-09-24 23:14:45,529: INFO: 4,492,351 reads were filtered for including NA in barcodes.
+
+2018-09-24 23:15:40,777: INFO: Processed 80,000,000 reads!
+2018-09-24 23:17:07,768: INFO: Processed 80,320,000 reads!
+2018-09-24 23:18:35,143: INFO: Processed 80,640,000 reads!
+2018-09-24 23:20:01,988: INFO: Processed 80,960,000 reads!
+2018-09-24 23:20:56,134: INFO: Processed 84,160,000 reads!
+2018-09-24 23:21:26,487: INFO: Processed 81,280,000 reads!
+2018-09-24 23:22:13,948: INFO: Processed 84,480,000 reads!
+2018-09-24 23:22:47,058: INFO: Processed 81,600,000 reads!
+2018-09-24 23:23:30,398: INFO: Processed 84,800,000 reads!
+2018-09-24 23:23:53,455: INFO: Processed 85,120,000 reads!
+2018-09-24 23:23:53,512: INFO: Formatting fastq done, taking 6.003 hours
+2018-09-24 23:24:06,381: INFO: Processed 81,920,000 reads!
+2018-09-24 23:25:31,904: INFO: Processed 82,240,000 reads!
+otate alignments.
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v1.6.2
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                           S results.star_align.bam                         ||
+||                                                                            ||
+||             Output file : results.star_align.bam.annotation                ||
+||                 Summary : results.star_align.bam.annotation.summary        ||
+||              Annotation : genes.gtf (GTF)                                  ||
+||      Assignment details : <input_file>.featureCounts.bam                   ||
+||                      (Note that files are saved to the output directory)   ||
+||                                                                            ||
+||      Dir for temp files : /broad/hptmp/ssimmons/scumi/mixed1/Celseq3       ||
+||                                                                            ||
+||                 Threads : 1                                                ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : no                                               ||
+||      Multimapping reads : counted                                          ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+\\===================== http://subread.sourceforge.net/ ======================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file genes.gtf ...                                         ||
+||    Features : 1808849                                                      ||
+||    Meta-features : 62046                                                   ||
+||    Chromosomes/contigs : 86                                                ||
+||                                                                            ||
+|| Process BAM file results.star_align.bam...                                 ||
+||    Single-end reads are included.                                          ||
+||    Strand specific : stranded                                              ||
+||    Assign reads to features...                                             ||
+2018-09-24 23:26:58,800: INFO: Processed 82,560,000 reads!
+2018-09-24 23:28:24,883: INFO: Processed 82,880,000 reads!
+2018-09-24 23:29:49,099: INFO: Processed 83,200,000 reads!
+2018-09-24 23:31:09,950: INFO: Processed 83,520,000 reads!
+||    Total reads : 50787058                                                  ||
+||    Successfully assigned reads : 29312390 (57.7%)                          ||
+||    Running time : 6.04 minutes                                             ||
+||                                                                            ||
+||                         Read assignment finished.                          ||
+||                                                                            ||
+|| Summary of counting results can be found in file "/broad/hptmp/ssimmons/s  ||
+|| cumi/mixed1/Celseq3/results.star_align.bam.annotation.summary"             ||
+||                                                                            ||
+\\===================== http://subread.sourceforge.net/ ======================//
+
+2018-09-24 23:32:03,493: INFO: Detecting whitelist done, taking 0.143 minutes
+2018-09-24 23:32:03,778: INFO: Detected 85 candidate cell barcodes.
+2018-09-24 23:32:03,806: INFO: The number of potential collision barcodes (edit distance 1): 0
+
+2018-09-24 23:32:03,806: INFO: Read GTF /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf
+2018-09-24 23:32:15,623: INFO: Parse GTF /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf done
+2018-09-24 23:32:15,624: INFO: Counting molecular info
+2018-09-24 23:32:28,933: INFO: Processed 83,840,000 reads!
+2018-09-24 23:32:49,977: INFO: Processed 84,160,000 reads!
+2018-09-24 23:32:50,038: INFO: Formatting fastq done, taking 6.224 hours
+2018-09-24 23:35:36,731: INFO: Parsed 30,000,000 alignments.
+2018-09-24 23:35:36,744: INFO: 30,000,000 unique reads, 16,520,911 reads kept.
+2018-09-24 23:35:36,745: INFO: 0 unmapped reads were filtered.
+2018-09-24 23:35:36,745: INFO: 13,479,088 reads were filtered for including NA in barcodes.
+
+2018-09-24 23:37:23,458: INFO: Parsed 10,000,000 alignments.
+2018-09-24 23:37:23,461: INFO: 10,000,000 unique reads, 5,628,419 reads kept.
+2018-09-24 23:37:23,462: INFO: 0 unmapped reads were filtered.
+2018-09-24 23:37:23,462: INFO: 4,371,580 reads were filtered for including NA in barcodes.
+
+2018-09-24 23:42:27,930: INFO: Parsed 20,000,000 alignments.
+2018-09-24 23:42:27,933: INFO: 20,000,000 unique reads, 11,258,780 reads kept.
+2018-09-24 23:42:27,933: INFO: 0 unmapped reads were filtered.
+2018-09-24 23:42:27,933: INFO: 8,741,220 reads were filtered for including NA in barcodes.
+
+2018-09-24 23:46:01,103: INFO: Parsed 40,000,000 alignments.
+2018-09-24 23:46:01,106: INFO: 40,000,000 unique reads, 22,025,878 reads kept.
+2018-09-24 23:46:01,106: INFO: 0 unmapped reads were filtered.
+2018-09-24 23:46:01,106: INFO: 17,974,121 reads were filtered for including NA in barcodes.
+
+2018-09-24 23:47:28,812: INFO: Parsed 30,000,000 alignments.
+2018-09-24 23:47:28,815: INFO: 30,000,000 unique reads, 16,884,542 reads kept.
+2018-09-24 23:47:28,815: INFO: 0 unmapped reads were filtered.
+2018-09-24 23:47:28,815: INFO: 13,115,458 reads were filtered for including NA in barcodes.
+
+2018-09-24 23:52:30,534: INFO: Parsed 40,000,000 alignments.
+2018-09-24 23:52:30,537: INFO: 40,000,000 unique reads, 22,515,273 reads kept.
+2018-09-24 23:52:30,537: INFO: 0 unmapped reads were filtered.
+2018-09-24 23:52:30,537: INFO: 17,484,726 reads were filtered for including NA in barcodes.
+
+2018-09-24 23:53:56,608: INFO: Counting molecular info done - 0.829 hours, 57,502,145 alignments/hour
+
+2018-09-24 23:53:56,610: INFO: Converting to a dataframe
+2018-09-24 23:54:17,604: INFO: Converting to a dataframe done, taking 0.350 minutes
+
+2018-09-24 23:54:17,899: INFO: Writing molecular info
+2018-09-24 23:54:43,746: INFO: Writings molecular info done, taking 0.431 minutes
+
+2018-09-24 23:54:44,373: INFO: Collapsing UMIs
+2018-09-24 23:55:28,745: INFO: Collapsing UMIs done, taking 0.740 minutes
+2018-09-24 23:55:29,040: INFO: Converting to sparse matrix
+2018-09-24 23:55:36,718: INFO: Converting to a sparse matrix done, taking 0.128 minutes
+2018-09-24 23:55:36,719: INFO: Output results
+2018-09-24 23:55:39,503: INFO: Writing final results done, taking 0.046 minutes
+2018-09-24 23:55:39,504: INFO: Converting to sparse matrix
+2018-09-24 23:55:47,665: INFO: Converting to a sparse matrix done, taking 0.136 minutes
+2018-09-24 23:55:47,665: INFO: Output results
+2018-09-24 23:55:50,446: INFO: Writing final results done, taking 0.046 minutes
+2018-09-24 23:57:31,794: INFO: Parsed 50,000,000 alignments.
+2018-09-24 23:57:31,796: INFO: 50,000,000 unique reads, 28,144,838 reads kept.
+2018-09-24 23:57:31,797: INFO: 0 unmapped reads were filtered.
+2018-09-24 23:57:31,797: INFO: 21,855,162 reads were filtered for including NA in barcodes.
+
+2018-09-24 23:57:55,530: INFO: Counting molecular info done - 0.428 hours, 118,730,254 alignments/hour
+
+2018-09-24 23:57:55,531: INFO: Converting to a dataframe
+2018-09-24 23:58:14,834: INFO: Converting to a dataframe done, taking 0.322 minutes
+
+2018-09-24 23:58:15,084: INFO: Writing molecular info
+2018-09-24 23:58:38,102: INFO: Writings molecular info done, taking 0.384 minutes
+
+2018-09-24 23:58:38,628: INFO: Collapsing UMIs
+2018-09-24 23:59:04,185: INFO: Collapsing UMIs done, taking 0.426 minutes
+2018-09-24 23:59:04,425: INFO: Converting to sparse matrix
+2018-09-24 23:59:11,811: INFO: Converting to a sparse matrix done, taking 0.123 minutes
+2018-09-24 23:59:11,811: INFO: Output results
+2018-09-24 23:59:13,631: INFO: Writing final results done, taking 0.030 minutes
+2018-09-24 23:59:13,632: INFO: Converting to sparse matrix
+2018-09-24 23:59:21,410: INFO: Converting to a sparse matrix done, taking 0.130 minutes
+2018-09-24 23:59:21,410: INFO: Output results
+2018-09-24 23:59:23,179: INFO: Writing final results done, taking 0.029 minutes
+82348571 reads; of these:
+  82348571 (100.00%) were unpaired; of these:
+    24351516 (29.57%) aligned 0 times
+    35254149 (42.81%) aligned exactly 1 time
+    22742906 (27.62%) aligned >1 times
+70.43% overall alignment rate
+81936538 reads; of these:
+  81936538 (100.00%) were unpaired; of these:
+    25454074 (31.07%) aligned 0 times
+    33805177 (41.26%) aligned exactly 1 time
+    22677287 (27.68%) aligned >1 times
+68.93% overall alignment rate
+2018-09-25 00:22:54,994: INFO: Running featureCounts to annotate alignments.
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v1.6.2
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                           S results.star_align.bam                         ||
+||                                                                            ||
+||             Output file : results.star_align.bam.annotation                ||
+||                 Summary : results.star_align.bam.annotation.summary        ||
+||              Annotation : genes.gtf (GTF)                                  ||
+||      Assignment details : <input_file>.featureCounts.bam                   ||
+||                      (Note that files are saved to the output directory)   ||
+||                                                                            ||
+||      Dir for temp files : /broad/hptmp/ssimmons/scumi/mixed1/Celseq4       ||
+||                                                                            ||
+||                 Threads : 1                                                ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : no                                               ||
+||      Multimapping reads : counted                                          ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+\\===================== http://subread.sourceforge.net/ ======================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file genes.gtf ...                                         ||
+||    Features : 1808849                                                      ||
+||    Meta-features : 62046                                                   ||
+||    Chromosomes/contigs : 86                                                ||
+||                                                                            ||
+|| Process BAM file results.star_align.bam...                                 ||
+||    Single-end reads are included.                                          ||
+||    Strand specific : stranded                                              ||
+||    Assign reads to features...                                             ||
+||    Total reads : 57997055                                                  ||
+||    Successfully assigned reads : 33853194 (58.4%)                          ||
+||    Running time : 6.69 minutes                                             ||
+||                                                                            ||
+||                         Read assignment finished.                          ||
+||                                                                            ||
+|| Summary of counting results can be found in file "/broad/hptmp/ssimmons/s  ||
+|| cumi/mixed1/Celseq4/results.star_align.bam.annotation.summary"             ||
+||                                                                            ||
+\\===================== http://subread.sourceforge.net/ ======================//
+
+2018-09-25 00:30:09,201: INFO: Detecting whitelist done, taking 0.145 minutes
+2018-09-25 00:30:10,118: INFO: Detected 89 candidate cell barcodes.
+2018-09-25 00:30:10,145: INFO: The number of potential collision barcodes (edit distance 1): 0
+
+2018-09-25 00:30:10,145: INFO: Read GTF /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf
+2018-09-25 00:30:21,832: INFO: Parse GTF /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf done
+2018-09-25 00:30:21,833: INFO: Counting molecular info
+2018-09-25 00:31:34,417: INFO: Running featureCounts to annotate alignments.
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v1.6.2
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                           S results.star_align.bam                         ||
+||                                                                            ||
+||             Output file : results.star_align.bam.annotation                ||
+||                 Summary : results.star_align.bam.annotation.summary        ||
+||              Annotation : genes.gtf (GTF)                                  ||
+||      Assignment details : <input_file>.featureCounts.bam                   ||
+||                      (Note that files are saved to the output directory)   ||
+||                                                                            ||
+||      Dir for temp files : /broad/hptmp/ssimmons/scumi/mixed1/Celseq2       ||
+||                                                                            ||
+||                 Threads : 1                                                ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : no                                               ||
+||      Multimapping reads : counted                                          ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+\\===================== http://subread.sourceforge.net/ ======================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file genes.gtf ...                                         ||
+||    Features : 1808849                                                      ||
+||    Meta-features : 62046                                                   ||
+||    Chromosomes/contigs : 86                                                ||
+||                                                                            ||
+|| Process BAM file results.star_align.bam...                                 ||
+||    Single-end reads are included.                                          ||
+||    Strand specific : stranded                                              ||
+||    Assign reads to features...                                             ||
+2018-09-25 00:35:20,952: INFO: Parsed 10,000,000 alignments.
+2018-09-25 00:35:20,954: INFO: 10,000,000 unique reads, 5,686,382 reads kept.
+2018-09-25 00:35:20,954: INFO: 0 unmapped reads were filtered.
+2018-09-25 00:35:20,954: INFO: 4,313,617 reads were filtered for including NA in barcodes.
+
+||    Total reads : 56482464                                                  ||
+||    Successfully assigned reads : 31901219 (56.5%)                          ||
+||    Running time : 6.26 minutes                                             ||
+||                                                                            ||
+||                         Read assignment finished.                          ||
+||                                                                            ||
+|| Summary of counting results can be found in file "/broad/hptmp/ssimmons/s  ||
+|| cumi/mixed1/Celseq2/results.star_align.bam.annotation.summary"             ||
+||                                                                            ||
+\\===================== http://subread.sourceforge.net/ ======================//
+
+2018-09-25 00:38:19,096: INFO: Detecting whitelist done, taking 0.152 minutes
+2018-09-25 00:38:19,386: INFO: Detected 87 candidate cell barcodes.
+2018-09-25 00:38:19,443: INFO: The number of potential collision barcodes (edit distance 1): 0
+
+2018-09-25 00:38:19,444: INFO: Read GTF /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf
+2018-09-25 00:38:35,194: INFO: Parse GTF /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf done
+2018-09-25 00:38:35,195: INFO: Counting molecular info
+2018-09-25 00:40:21,231: INFO: Parsed 20,000,000 alignments.
+2018-09-25 00:40:21,234: INFO: 20,000,000 unique reads, 11,382,034 reads kept.
+2018-09-25 00:40:21,234: INFO: 0 unmapped reads were filtered.
+2018-09-25 00:40:21,234: INFO: 8,617,966 reads were filtered for including NA in barcodes.
+
+2018-09-25 00:45:22,126: INFO: Parsed 30,000,000 alignments.
+2018-09-25 00:45:22,129: INFO: 30,000,000 unique reads, 17,070,932 reads kept.
+2018-09-25 00:45:22,129: INFO: 0 unmapped reads were filtered.
+2018-09-25 00:45:22,129: INFO: 12,929,068 reads were filtered for including NA in barcodes.
+
+2018-09-25 00:49:03,043: INFO: Parsed 10,000,000 alignments.
+2018-09-25 00:49:03,044: INFO: 10,000,000 unique reads, 5,484,685 reads kept.
+2018-09-25 00:49:03,044: INFO: 0 unmapped reads were filtered.
+2018-09-25 00:49:03,044: INFO: 4,515,314 reads were filtered for including NA in barcodes.
+
+2018-09-25 00:50:22,773: INFO: Parsed 40,000,000 alignments.
+2018-09-25 00:50:22,775: INFO: 40,000,000 unique reads, 22,754,131 reads kept.
+2018-09-25 00:50:22,776: INFO: 0 unmapped reads were filtered.
+2018-09-25 00:50:22,776: INFO: 17,245,868 reads were filtered for including NA in barcodes.
+
+2018-09-25 00:55:23,422: INFO: Parsed 50,000,000 alignments.
+2018-09-25 00:55:23,424: INFO: 50,000,000 unique reads, 28,444,314 reads kept.
+2018-09-25 00:55:23,424: INFO: 0 unmapped reads were filtered.
+2018-09-25 00:55:23,424: INFO: 21,555,686 reads were filtered for including NA in barcodes.
+
+2018-09-25 00:59:28,561: INFO: Parsed 20,000,000 alignments.
+2018-09-25 00:59:28,563: INFO: 20,000,000 unique reads, 10,977,548 reads kept.
+2018-09-25 00:59:28,563: INFO: 0 unmapped reads were filtered.
+2018-09-25 00:59:28,563: INFO: 9,022,452 reads were filtered for including NA in barcodes.
+
+info
+2018-09-25 01:00:07,855: INFO: Writings molecular info done, taking 0.388 minutes
+
+2018-09-25 01:00:08,443: INFO: Collapsing UMIs
+2018-09-25 01:00:33,452: INFO: Collapsing UMIs done, taking 0.417 minutes
+2018-09-25 01:00:33,687: INFO: Converting to sparse matrix
+2018-09-25 01:00:40,340: INFO: Converting to a sparse matrix done, taking 0.111 minutes
+2018-09-25 01:00:40,340: INFO: Output results
+2018-09-25 01:00:42,191: INFO: Writing final results done, taking 0.031 minutes
+2018-09-25 01:00:42,192: INFO: Converting to sparse matrix
+2018-09-25 01:00:49,727: INFO: Converting to a sparse matrix done, taking 0.126 minutes
+2018-09-25 01:00:49,727: INFO: Output results
+2018-09-25 01:00:51,568: INFO: Writing final results done, taking 0.031 minutes
+2018-09-25 01:09:51,615: INFO: Parsed 30,000,000 alignments.
+2018-09-25 01:09:51,616: INFO: 30,000,000 unique reads, 16,467,186 reads kept.
+2018-09-25 01:09:51,616: INFO: 0 unmapped reads were filtered.
+2018-09-25 01:09:51,616: INFO: 13,532,814 reads were filtered for including NA in barcodes.
+
+2018-09-25 01:20:24,455: INFO: Parsed 40,000,000 alignments.
+2018-09-25 01:20:24,456: INFO: 40,000,000 unique reads, 21,944,346 reads kept.
+2018-09-25 01:20:24,456: INFO: 0 unmapped reads were filtered.
+2018-09-25 01:20:24,456: INFO: 18,055,654 reads were filtered for including NA in barcodes.
+
+2018-09-25 01:30:57,389: INFO: Parsed 50,000,000 alignments.
+2018-09-25 01:30:57,390: INFO: 50,000,000 unique reads, 27,435,663 reads kept.
+2018-09-25 01:30:57,390: INFO: 0 unmapped reads were filtered.
+2018-09-25 01:30:57,390: INFO: 22,564,337 reads were filtered for including NA in barcodes.
+
+2018-09-25 01:37:47,729: INFO: Counting molecular info done - 0.987 hours, 57,237,142 alignments/hour
+
+2018-09-25 01:37:47,729: INFO: Converting to a dataframe
+2018-09-25 01:38:10,641: INFO: Converting to a dataframe done, taking 0.382 minutes
+
+2018-09-25 01:38:10,964: INFO: Writing molecular info
+2018-09-25 01:38:37,634: INFO: Writings molecular info done, taking 0.444 minutes
+
+2018-09-25 01:38:38,292: INFO: Collapsing UMIs
+2018-09-25 01:39:23,738: INFO: Collapsing UMIs done, taking 0.757 minutes
+2018-09-25 01:39:24,047: INFO: Converting to sparse matrix
+2018-09-25 01:39:32,537: INFO: Converting to a sparse matrix done, taking 0.141 minutes
+2018-09-25 01:39:32,538: INFO: Output results
+2018-09-25 01:39:35,922: INFO: Writing final results done, taking 0.056 minutes
+2018-09-25 01:39:35,923: INFO: Converting to sparse matrix
+2018-09-25 01:39:45,092: INFO: Converting to a sparse matrix done, taking 0.153 minutes
+2018-09-25 01:39:45,093: INFO: Output results
+2018-09-25 01:39:48,486: INFO: Writing final results done, taking 0.057 minutes

@@ -1,0 +1,96 @@
+Setup!
+Combine!
+/broad/hptmp/ssimmons/scumi/mixed2/10X/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/mixed2/10X/comb.2.fastq.gz
+Subsamples!
+Clean fastqs!
+Merge Fastq!
+Clean!
+Run STAR!
+Tag bam!
+Count!
+Setup!
+Combine!
+/broad/hptmp/ssimmons/scumi/mixed2/Drop/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/mixed2/Drop/comb.2.fastq.gz
+Subsamples!
+Clean fastqs!
+Merge Fastq!
+Clean!
+Run STAR!
+Tag bam!
+Count!
+Setup!
+Combine!
+/broad/hptmp/ssimmons/scumi/mixed2/Seqwell_v1/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/mixed2/Seqwell_v1/comb.2.fastq.gz
+Subsamples!
+Clean fastqs!
+Merge Fastq!
+Clean!
+Run STAR!
+Tag bam!
+Count!
+Setup!
+Combine!
+/broad/hptmp/ssimmons/scumi/mixed2/Seqwell_v2/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/mixed2/Seqwell_v2/comb.2.fastq.gz
+Subsamples!
+Clean fastqs!
+Merge Fastq!
+Clean!
+Run STAR!
+Tag bam!
+Count!
+Opening /broad/hptmp/ssimmons/scumi/mixed2/Seqwell_v2/results.star_align.bam.featureCounts.count_feature.h5 in read-only mode
+Done!
+Opening /broad/hptmp/ssimmons/scumi/mixed2/Seqwell_v1/results.star_align.bam.featureCounts.count_feature.h5 in read-only mode
+Done!
+Setup!
+Combine!
+/broad/hptmp/ssimmons/scumi/mixed2/10X/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/mixed2/10X/comb.2.fastq.gz
+Subsamples!
+Clean fastqs!
+Merge Fastq!
+Clean!
+Run STAR!
+Tag bam!
+Count!
+Setup!
+Combine!
+/broad/hptmp/ssimmons/scumi/mixed2/Drop/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/mixed2/Drop/comb.2.fastq.gz
+Subsamples!
+Clean fastqs!
+Merge Fastq!
+Clean!
+Run STAR!
+Tag bam!
+Count!
+Setup!
+Combine!
+/broad/hptmp/ssimmons/scumi/mixed2/Seqwell_v1/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/mixed2/Seqwell_v1/comb.2.fastq.gz
+Subsamples!
+Clean fastqs!
+Merge Fastq!
+Clean!
+Run STAR!
+Tag bam!
+Count!
+Setup!
+Combine!
+/broad/hptmp/ssimmons/scumi/mixed2/Seqwell_v2/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/mixed2/Seqwell_v2/comb.2.fastq.gz
+Subsamples!
+Clean fastqs!
+Merge Fastq!
+Clean!
+Run STAR!
+Tag bam!
+Count!
+Done!
+Done!
+Done!
+Done!

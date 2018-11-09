@@ -1,0 +1,2843 @@
+Setup!
+Subsamples!
+Run Hisat
+Setup!
+Subsamples!
+Tag bam!
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.731 minutes
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.290 minutes
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Tag bam!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.285 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.252 minutes
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.400 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.574 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.602 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.377 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.321 minutes
+Done!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.247 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.248 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.241 minutes
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.259 minutes
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.354 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.584 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.661 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.726 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.322 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.248 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.326 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Tag bam!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.355 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.398 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+Setup!
+Subsamples!
+Tag bam!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.554 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.484 minutes
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.323 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+Tag bam!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.269 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.317 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.264 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.298 minutes
+Done!
+Setup!
+Subsample/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Run Hisat
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.407 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+Run Hisat
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.243 minutes
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.271 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.270 minutes
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.272 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.322 minutes
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Tag bam!
+Run Hisat
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.246 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.265 minutes
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Tag bam!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.275 minutes
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.273 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.313 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.244 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.265 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+Setup!
+Subsamples!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.291 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+Run Hisat
+Tag bam!
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.327 minutes
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.258 minutes
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.264 minutes
+Done!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Run Hisat
+Run Hisat
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.254 minutes
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.259 minutes
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.336 minutes
+Done!
+Tag bam!
+Setup!
+Subsamples!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.268 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.258 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.256 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.243 minutes
+Done!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.394 minutes
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.268 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Tag bam!
+/ahg/reSubsamples!
+ects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+Run Hisat
+Tag bam!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.253 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.432 minutes
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.270 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/rege/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Run Hisat
+Subsamples!
+Run Hisat
+Tag bam!
+Tag bam!
+Tag bam!
+Run Hisat
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+cessfully, taking 0.259 minutes
+Done!
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.324 minutes
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.268 minutes
+Done!
+Setup!
+Subsamples!
+Setup!
+Setup!
+les!
+Subsamples!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.359 minutes
+Done!
+Run Hisat
+Run Hisat
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Tag bam!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.257 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.325 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+Tag bam!
+Run Hisat
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+at
+Subsamples!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.267 minutes
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.298 minutes
+Done!
+Tag bam!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.266 minutes
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.256 minutes
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Tag bam!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Tag bam!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.283 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.258 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+Tag bam!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.259 minutes
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.330 minutes
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Run Hisat
+Tag bam!
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.287 minutes
+Done!
+Tag bam!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.281 minutes
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.324 minutes
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Tag bam!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.255 minutes
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.267 minutes
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.280 minutes
+Done!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+Run Hisat
+Run Hisat
+Run Hisat
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.277 minutes
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.263 minutes
+Done!
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.267 minutes
+Done!
+Setup!
+!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Tag bam!
+Run Hisat
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.255 minutes
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.286 minutes
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Tag bam!
+Tag bam!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.266 minutes
+Done!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.293 minutes
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.299 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.267 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+Run Hisat
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.256 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.272 minutes
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.283 minutes
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.319 minutes
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Tag bam!
+Setup!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Subsamples!
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+Run Hisat
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.300 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+Run Hisat
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.269 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.265 minutes
+Done!
+Tag bam!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.264 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+one successfully, taking 0.279 minutes
+Done!
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Tag bam!
+Run Hisat
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.326 minutes
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+Run Hisat
+Run Hisat
+Tag bam!
+Run Hisat
+Tag bam!
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+cessfully, taking 0.301 minutes
+Done!
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.255 minutes
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.267 minutes
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.324 minutes
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+Tag bam!
+Run Hisat
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.260 minutes
+Done!
+Tag bam!
+Run Hisat
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.287 minutes
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.319 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.301 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Done!
+Run Hisat
+Tag bam!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.284 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.266 minutes
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.272 minutes
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.253 minutes
+Done!
+Tag bam!
+Setup!
+Subsamples!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.247 minutes
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.256 minutes
+Done!
+Tag bam!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.319 minutes
+Done!
+Run Hisat
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.295 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+Tag bam!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.268 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.268 minutes
+Done!
+Run Hisat
+Tag bam!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.258 minutes
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.252 minutes
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.309 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.259 minutes
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Tag bam!
+Tag bam!
+Run Hisat
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.321 minutes
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.298 minutes
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.298 minutes
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.268 minutes
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.249 minutes
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.296 minutes
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+Run Hisat
+Tag bam!
+Run Hisat
+Tag bam!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.273 minutes
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Tag bam!
+
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.262 minutes
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.284 minutes
+Done!
+Tag bam!
+Tag bam!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Tag bam!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.276 minutes
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.269 minutes
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Setup!
+Run Hisat
+!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.294 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.270 minutes
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.276 minutes
+Done!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.254 minutes
+Done!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Tag bam!
+Setup!
+Subsamples!
+Tag bam!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.259 minutes
+Done!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+s done successfully, taking 0.278 minutes
+Done!
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.285 minutes
+Done!
+Run Hisat
+Tag bam!
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.263 minutes
+Done!
+Tag bam!
+Setup!
+!
+Tag bam!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsample/ahg/regevdat/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.246 minutes
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.296 minutes
+Done!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+cessfully, taking 0.326 minutes
+Done!
+Subsamples!
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+Run Hisat
+Run Hisat
+Run Hisat
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.256 minutes
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Tag bam!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.272 minutes
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.277 minutes
+Done!
+Tag bam!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.259 minutes
+Done!
+Run Hisat
+Tag bam!
+Setup!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.271 minutes
+Done!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.248 minutes
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.302 minutes
+Done!
+Run Hisat
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Tag bam!
+Tag bam!
+Setup!
+at
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+cessfully, taking 0.249 minutes
+Done!
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Tag bam!
+Run Hisat
+Run Hisat
+Run Hisat
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.253 minutes
+Done!
+Run Hisat
+Tag bam!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.260 minutes
+Done!
+Tag bam!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.279 minutes
+Done!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.266 minutes
+Done!
+Run Hisat
+Run Hisat
+Setup!
+Subsamples!
+Run Hisat
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.253 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+Run Hisat
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.270 minutes
+Done!
+Tag bam!
+/ahg/rege/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.324 minutes
+Done!
+Tag bam!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.247 minutes
+Done!
+Tag bam!
+Setup!
+SubsamplesSetup!
+Subsamples!
+Run Hisat
+Run Hisat
+Tag bam!
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.300 minutes
+Done!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+/ahg/reSubsamples!
+ects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.258 minutes
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.280 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Setup!
+Subsamples!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.258 minutes
+Done!
+Tag bam!
+/ahg/reSubsamples!
+ects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+Tag bam!
+Run Hisat
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Run Hisat
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.299 minutes
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.271 minutes
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Run Hisat
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.299 minutes
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Setup!
+les!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.265 minutes
+Done!
+Tag bam!
+Tag bam!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Tag bam!
+/ahg/reSubsamples!
+ects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.248 minutes
+Done!
+/ahg/rege/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+, taking 0.249 minutes
+Done!
+Run Hisat
+Done!
+Setup!
+SubsampSubsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Tag bamSubsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+Tag bam!
+Run Hisat
+Run Hisat
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.278 minutes
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.271 minutes
+Done!
+Run Hisat
+Run Hisat
+Setup!
+Subsamples!
+Subsamples!
+Run Hisat
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.273 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.304 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+Tag bam!
+Run Hisat/ahg/regev/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+ta/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.262 minutes
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.329 minutes
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.252 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Tag bam!
+
+Run Hisat
+Run Hisat
+Run Hisat
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.272 minutes
+Done!
+Setup!
+at
+Subsamples!
+Tag bam!
+Run Hisat
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.272 minutes
+Done!
+Tag bam!
+Setup!
+Subsamples!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.270 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/pro/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+g/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.296 minutes
+Done!
+Done!
+Setup!
+Subsamples!
+Setup!
+SubsampSubsamples!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Run Hisat
+Run Hisat
+Setup!
+Subsamples!
+Tag bam!
+Run Hisat
+Run Hisat
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.257 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.323 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.246 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+cessfully, taking 0.268 minutes
+Done!
+Tag bam!
+/ahg/regevdata//ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errorSubsamples!
+Setup!
+Subsamples!
+Run HisSubsamples!
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+Run Hisat
+Run Hisat
+Run Hisat
+Tag bam!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.250 minutes
+Done!
+Tag bam!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.258 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/rege/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Tag bam!
+/ahg/rege/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+one successfully, taking 0.281 minutes
+Done!
+Setup!
+Subsamples!
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+Run Hisat
+Run Hisat
+Run Hisat
+Tag bam!
+Run Hisat
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.276 minutes
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.272 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.321 minutes
+Done!
+Tag bam!
+/ahg/rege/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+ Hisat
+Done!
+Tag bam!
+Setup!
+Subsample/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.272 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.316 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Run Hisat
+Tag bam!
+/ahg/rege/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+cessfully, taking 0.303 minutes
+Done!
+Done!
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+Tag bam!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.271 minutes
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Tag bam!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.274 minutes
+Done!
+Tag bam!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.271 minutes
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.323 minutes
+Done!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Setup!
+Subsamples!
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Tag bam!
+vdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.269 minutes
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+Tag bam!
+Run Hisat
+Tag bam!
+Run Hisat
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.273 minutes
+Done!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.273 minutes
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.252 minutes
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.301 minutes
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.275 minutes
+Done!
+Tag bam!
+/ahg/regevdata/projects/sc_c/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+RunninSetup!
+reCount errors
+Done!
+Subsamples!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Tag bam!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+Run Hisat
+Run Hisat
+Run Hisat
+Run Hisat
+Tag bam!
+Tag bam!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.258 minutes
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.264 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+Setup!
+Subsamples!
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.298 minutes
+Done!
+Done!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Setup!
+!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+Run Hisat
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/proje/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.246 minutes
+Done!
+Setup!
+at
+Subsamples!
+Setup!
+at
+Subsamples!
+Run Hisat
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.259 minutes
+Done!
+Tag bam!
+Run Hisat
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.819 minutes
+Done!
+Setup!
+gevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.324 minutes
+Done!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.269 minutes
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Tag bam!
+Setup!
+gevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Subsamples!
+Tag bam!
+Setup!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Run Hisat
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.273 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.302 minutes
+Done!
+Tag bam!
+Run Hisat
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.301 minutes
+Done!
+Tag bam!
+Setup!
+Subsamples!
+Tag bam!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.253 minutes
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.276 minutes
+Done!
+Tag bam!
+Setup!
+Subsample/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+cessfully, taking 0.262 minutes
+Done!
+Done!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+Tag bam!
+Tag bam!
+Run Hisat
+Run Hisat
+Run Hisat
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.278 minutes
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.316 minutes
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.278 minutes
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+ta/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.266 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+Run Hisat
+Run Hisat
+Run Hisat
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.383 minutes
+Done!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.261 minutes
+Done!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/rege/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+cessfully, taking 0.274 minutes
+Done!
+Done!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/scSubsamples!
+tware/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.268 minutes
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+Run Hisat
+Run Hisat
+Run Hisat
+Run Hisat
+Run Hisat
+Run Hisat
+Tag bam!
+Tag bam!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.268 minutes
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.325 minutes
+Done!
+Setup!
+gevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.280 minutes
+Done!
+Subsamples!
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Run Hisat
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.293 minutes
+Done!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.252 minutes
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Run Hisat
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Run Hisat
+/ahg/rege/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+, taking 0.249 minutes
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Tag bam!
+Setup!
+Subsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.270 minutes
+Done!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.269 minutes
+Done!
+Setup!
+Subsamples!
+Run Hisat
+samples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.324 minutes
+Done!
+Setup!
+Subsamples!
+Setup!
+Subsamples!
+Run Hisat
+Run Hisat
+Run Hisat
+Run Hisat
+Tag bam!
+Tag bam!
+Run Hisat
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Tag bam!
+Setup!
+Subsamples!
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.301 minutes
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.263 minutes
+Done!
+Setup!
+Subsamples!
+Run HisSubsamples!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.261 minutes
+Done!
+Run Hisat
+Setup!
+!
+Subsamples!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.272 minutes
+Done!
+Run Hisat
+Setup!
+Subsamples!
+Tag bam!
+/ahg/rege/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+, taking 0.272 minutes
+Done!
+Done!
+Run Hisat
+Run Hisat
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.267 minutes
+Done!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.246 minutes
+Done!
+Tag bam!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+cessfully, taking 0.325 minutes
+Done!
+Done!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell2/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell1/results.hisat_align.bam 
+
+Running featureCount errors
+Done!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 0 -M -o /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/SM2/Cell3/results.hisat_align.bam 
+
+Annotating features done successfully, taking 0.625 minutes
+Done!

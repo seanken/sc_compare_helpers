@@ -1,0 +1,547 @@
+mkdir: cannot create directory ‘/broad/hptmp/ssimmons/scumi/mixed2/10X_2’: File exists
+2018-10-01 08:56:37,924: INFO: Detecting whitelist done, taking 1.311 minutes
+2018-10-01 08:56:57,882: INFO: The number of potential collision barcodes (edit distance 1): 0
+
+2018-10-01 08:56:58,369: INFO: Detected 3,182 candidate cell barcodes.
+2018-10-01 08:57:20,784: INFO: The number of potential collision barcodes (edit distance 1): 0
+
+2018-10-01 08:57:20,785: INFO: Read GTF /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf
+2018-10-01 08:57:37,786: INFO: Parse GTF /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf done
+2018-10-01 08:57:37,788: INFO: Counting molecular info
+2018-10-01 09:07:03,670: INFO: Parsed 10,000,000 alignments.
+2018-10-01 09:07:03,673: INFO: 10,000,000 unique reads, 4,038,827 reads kept.
+2018-10-01 09:07:03,673: INFO: 4,146,407 unmapped reads were filtered.
+2018-10-01 09:07:03,673: INFO: 1,814,765 reads were filtered for including NA in barcodes.
+
+2018-10-01 09:16:28,866: INFO: Parsed 20,000,000 alignments.
+2018-10-01 09:16:28,868: INFO: 20,000,000 unique reads, 8,070,312 reads kept.
+2018-10-01 09:16:28,868: INFO: 8,297,384 unmapped reads were filtered.
+2018-10-01 09:16:28,869: INFO: 3,632,304 reads were filtered for including NA in barcodes.
+
+2018-10-01 09:25:54,802: INFO: Parsed 30,000,000 alignments.
+2018-10-01 09:25:54,805: INFO: 30,000,000 unique reads, 12,100,678 reads kept.
+2018-10-01 09:25:54,805: INFO: 12,450,303 unmapped reads were filtered.
+2018-10-01 09:25:54,805: INFO: 5,449,019 reads were filtered for including NA in barcodes.
+
+2018-10-01 09:26:25,956: INFO: Detecting whitelist done, taking 1.960 minutes
+2018-10-01 09:26:40,634: INFO: Detected 3,852 candidate cell barcodes.
+2018-10-01 09:26:41,490: INFO: Warning: barcode GGAGCGGCTTGA and GGAGCGGCATGA are within edit distance of 1
+2018-10-01 09:26:41,763: INFO: Warning: barcode CGTTACTATTAA and CGTTGCTATTAA are within edit distance of 1
+2018-10-01 09:26:43,508: INFO: Warning: barcode GTTGCGGGTTCC and GTTGCCGGTTCC are within edit distance of 1
+2018-10-01 09:26:44,132: INFO: Warning: barcode CGTTGCTATTAA and CGTTACTATTAA are within edit distance of 1
+2018-10-01 09:26:44,231: INFO: Warning: barcode GAGTTCAAGACT and GATTTCAAGACT are within edit distance of 1
+2018-10-01 09:26:45,992: INFO: Warning: barcode TTTTCGGAGGAG and TATTCGGAGGAG are within edit distance of 1
+2018-10-01 09:26:47,133: INFO: Warning: barcode CCTTTGCTCCTT and CCTTCGCTCCTT are within edit distance of 1
+2018-10-01 09:26:47,855: INFO: Warning: barcode GCATCCTGCCCG and GCATACTGCCCG are within edit distance of 1
+2018-10-01 09:26:48,411: INFO: Warning: barcode GGAGCGGCATGA and GGAGCGGCTTGA are within edit distance of 1
+2018-10-01 09:26:48,687: INFO: Warning: barcode TCGTATGTACTG and TCGAATGTACTG are within edit distance of 1
+2018-10-01 09:26:48,836: INFO: Warning: barcode GATCTTTTTGCA and GATATTTTTGCA are within edit distance of 1
+2018-10-01 09:26:49,034: INFO: Warning: barcode ACGTACCTCCTA and ACGCACCTCCTA are within edit distance of 1
+2018-10-01 09:26:49,060: INFO: Warning: barcode ACTTGCTTGTCC and ACTTGCTTGTTC are within edit distance of 1
+2018-10-01 09:26:50,008: INFO: Warning: barcode TCTAACTCTAAG and TCTAACTCTAAA are within edit distance of 1
+2018-10-01 09:26:50,103: INFO: Warning: barcode GATATTTTTGCA and GATCTTTTTGCA are within edit distance of 1
+2018-10-01 09:26:50,559: INFO: Warning: barcode GATTTCAAGACT and GAGTTCAAGACT are within edit distance of 1
+2018-10-01 09:26:50,864: INFO: Warning: barcode TCGAATGTACTG and TCGTATGTACTG are within edit distance of 1
+2018-10-01 09:26:51,034: INFO: Warning: barcode CCGGTCAGACAT and CCGGTCAGAGAT are within edit distance of 1
+2018-10-01 09:26:51,082: INFO: Warning: barcode GCATACTGCCCG and GCATCCTGCCCG are within edit distance of 1
+2018-10-01 09:26:51,335: INFO: Warning: barcode ACTTGCTTGTTC and ACTTGCTTGTCC are within edit distance of 1
+2018-10-01 09:26:52,116: INFO: Warning: barcode GCTATTCCACTG and GCTATTCCACTA are within edit distance of 1
+2018-10-01 09:26:53,216: INFO: Warning: barcode CCCTCCGTAGAG and CCCTCCGTAGAA are within edit distance of 1
+2018-10-01 09:26:53,576: INFO: Warning: barcode GCAGCCAAAGAT and TCAGCCAAAGAT are within edit distance of 1
+2018-10-01 09:26:54,075: INFO: Warning: barcode ACGCACCTCCTA and ACGTACCTCCTA are within edit distance of 1
+2018-10-01 09:26:54,338: INFO: Warning: barcode GCGACACTACAG and GCGACAATACAG are within edit distance of 1
+2018-10-01 09:26:54,371: INFO: Warning: barcode GGAATCAACATA and GGAATCCACATA are within edit distance of 1
+2018-10-01 09:26:56,001: INFO: Warning: barcode TATTCGGAGGAG and TTTTCGGAGGAG are within edit distance of 1
+2018-10-01 09:26:57,326: INFO: Warning: barcode CCTTCGCTCCTT and CCTTTGCTCCTT are within edit distance of 1
+2018-10-01 09:26:57,662: INFO: Warning: barcode GGAATCCACATA and GGAATCAACATA are within edit distance of 1
+2018-10-01 09:27:01,554: INFO: Warning: barcode CAATCAAAGATG and CAATCAAAGATT are within edit distance of 1
+2018-10-01 09:27:02,106: INFO: Warning: barcode CCGGTCAGAGAT and CCGGTCAGACAT are within edit distance of 1
+2018-10-01 09:27:02,759: INFO: Warning: barcode TCGAAAAGACTA and CCGAAAAGACTA are within edit distance of 1
+2018-10-01 09:27:03,371: INFO: Warning: barcode CGTTGGTGAAGG and CGTTGGTGTAGG are within edit distance of 1
+2018-10-01 09:27:03,378: INFO: Warning: barcode TCAGCCAAAGAT and GCAGCCAAAGAT are within edit distance of 1
+2018-10-01 09:27:04,227: INFO: Warning: barcode CCGAAAAGACTA and TCGAAAAGACTA are within edit distance of 1
+2018-10-01 09:27:04,715: INFO: Warning: barcode TACGGGCTTCAG and TACTGGCTTCAG are within edit distance of 1
+2018-10-01 09:27:05,580: INFO: Warning: barcode GTTGCCGGTTCC and GTTGCGGGTTCC are within edit distance of 1
+2018-10-01 09:27:05,874: INFO: Warning: barcode CCCTCCGTAGAA and CCCTCCGTAGAG are within edit distance of 1
+2018-10-01 09:27:05,917: INFO: Warning: barcode CAATCAAAGATT and CAATCAAAGATG are within edit distance of 1
+2018-10-01 09:27:05,929: INFO: Warning: barcode GCGACAATACAG and GCGACACTACAG are within edit distance of 1
+2018-10-01 09:27:06,240: INFO: Warning: barcode TCTAACTCTAAA and TCTAACTCTAAG are within edit distance of 1
+2018-10-01 09:27:06,289: INFO: Warning: barcode TACTGGCTTCAG and TACGGGCTTCAG are within edit distance of 1
+2018-10-01 09:27:07,018: INFO: Warning: barcode GCTATTCCACTA and GCTATTCCACTG are within edit distance of 1
+2018-10-01 09:27:07,166: INFO: Warning: barcode CGTTGGTGTAGG and CGTTGGTGAAGG are within edit distance of 1
+2018-10-01 09:27:07,202: INFO: The number of potential collision barcodes (edit distance 1): 44
+
+2018-10-01 09:27:07,202: INFO: Read GTF /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf
+2018-10-01 09:27:25,290: INFO: Parse GTF /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf done
+2018-10-01 09:27:25,291: INFO: Counting molecular info
+2018-10-01 09:27:28,271: INFO: Detecting whitelist done, taking 1.401 minutes
+2018-10-01 09:27:29,413: INFO: Detected 893 candidate cell barcodes.
+2018-10-01 09:27:31,621: INFO: The number of potential collision barcodes (edit distance 1): 0
+
+2018-10-01 09:27:31,622: INFO: Read GTF /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf
+2018-10-01 09:27:47,793: INFO: Parse GTF /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf done
+2018-10-01 09:27:47,794: INFO: Counting molecular info
+2018-10-01 09:29:10,040: INFO: Detecting whitelist done, taking 1.397 minutes
+2018-10-01 09:29:11,024: INFO: Detected 730 candidate cell barcodes.
+2018-10-01 09:29:12,614: INFO: The number of potential collision barcodes (edit distance 1): 0
+
+2018-10-01 09:29:12,615: INFO: Read GTF /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf
+2018-10-01 09:29:28,228: INFO: Parse GTF /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf done
+2018-10-01 09:29:28,229: INFO: Counting molecular info
+2018-10-01 09:35:09,666: INFO: Parsed 10,000,000 alignments.
+2018-10-01 09:35:09,668: INFO: 10,000,000 unique reads, 2,902,716 reads kept.
+2018-10-01 09:35:09,668: INFO: 4,069,915 unmapped reads were filtered.
+2018-10-01 09:35:09,669: INFO: 3,027,368 reads were filtered for including NA in barcodes.
+
+2018-10-01 09:35:52,222: INFO: Parsed 10,000,000 alignments.
+2018-10-01 09:35:52,223: INFO: 10,000,000 unique reads, 85,189 reads kept.
+2018-10-01 09:35:52,223: INFO: 4,786,694 unmapped reads were filtered.
+2018-10-01 09:35:52,223: INFO: 5,128,117 reads were filtered for including NA in barcodes.
+
+2018-10-01 09:36:21,789: INFO: Parsed 10,000,000 alignments.
+2018-10-01 09:36:21,795: INFO: 10,000,000 unique reads, 1,589,568 reads kept.
+2018-10-01 09:36:21,795: INFO: 6,445,039 unmapped reads were filtered.
+2018-10-01 09:36:21,795: INFO: 1,965,393 reads were filtered for including NA in barcodes.
+
+2018-10-01 09:42:48,604: INFO: Parsed 20,000,000 alignments.
+2018-10-01 09:42:48,607: INFO: 20,000,000 unique reads, 5,834,108 reads kept.
+2018-10-01 09:42:48,607: INFO: 8,111,893 unmapped reads were filtered.
+2018-10-01 09:42:48,607: INFO: 6,053,999 reads were filtered for including NA in barcodes.
+
+2018-10-01 09:43:14,402: INFO: Parsed 20,000,000 alignments.
+2018-10-01 09:43:14,408: INFO: 20,000,000 unique reads, 3,166,032 reads kept.
+2018-10-01 09:43:14,408: INFO: 12,904,833 unmapped reads were filtered.
+2018-10-01 09:43:14,408: INFO: 3,929,135 reads were filtered for including NA in barcodes.
+
+2018-10-01 09:43:53,326: INFO: Parsed 20,000,000 alignments.
+2018-10-01 09:43:53,329: INFO: 20,000,000 unique reads, 381,939 reads kept.
+2018-10-01 09:43:53,329: INFO: 9,477,900 unmapped reads were filtered.
+2018-10-01 09:43:53,329: INFO: 10,140,161 reads were filtered for including NA in barcodes.
+
+2018-10-01 09:44:54,890: INFO: Parsed 50,000,000 alignments.
+2018-10-01 09:44:54,893: INFO: 50,000,000 unique reads, 20,207,771 reads kept.
+2018-10-01 09:44:54,893: INFO: 20,694,674 unmapped reads were filtered.
+2018-10-01 09:44:54,893: INFO: 9,097,554 reads were filtered for including NA in barcodes.
+
+2018-10-01 09:50:02,169: INFO: Counting molecular info done - 0.343 hours, 87,192,207 alignments/hour
+
+2018-10-01 09:50:02,170: INFO: Converting to a dataframe
+2018-10-01 09:50:28,142: INFO: Parsed 30,000,000 alignments.
+2018-10-01 09:50:28,148: INFO: 30,000,000 unique reads, 8,723,529 reads kept.
+2018-10-01 09:50:28,148: INFO: 12,188,305 unmapped reads were filtered.
+2018-10-01 09:50:28,148: INFO: 9,088,165 reads were filtered for including NA in barcodes.
+
+2018-10-01 09:50:52,374: INFO: Converting to a dataframe done, taking 0.837 minutes
+
+2018-10-01 09:50:52,935: INFO: Writing molecular info
+Traceback (most recent call last):
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/pandas-0.23.4-py3.6-linux-x86_64.egg/pandas/io/pytables.py", line 604, in open
+    self._handle = tables.open_file(self._path, self._mode, **kwargs)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/tables/file.py", line 320, in open_file
+    return File(filename, mode, title, root_uep, filters, **kwargs)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/tables/file.py", line 784, in __init__
+    self._g_new(filename, mode, **params)
+  File "tables/hdf5extension.pyx", line 371, in tables.hdf5extension.File._g_new
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/tables/utils.py", line 180, in check_file_access
+    "written" % (parentname,))
+OSError: directory ``/broad/hptmp/ssimmons/scumi/mixed2/Seqwell_v2`` exists but it can not be written
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/bin/scumi", line 165, in <module>
+    args.func(args)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/scumi/run.py", line 47, in count_umi
+    cell_barcode_whitelist=cell_barcode_whitelist)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/scumi/scumi.py", line 610, in count_feature
+    with pd.HDFStore(molecular_info_h5, mode='w') as hf:
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/pandas-0.23.4-py3.6-linux-x86_64.egg/pandas/io/pytables.py", line 491, in __init__
+    self.open(mode=mode, **kwargs)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/pandas-0.23.4-py3.6-linux-x86_64.egg/pandas/io/pytables.py", line 608, in open
+    self._handle = tables.open_file(self._path, 'r', **kwargs)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/tables/file.py", line 320, in open_file
+    return File(filename, mode, title, root_uep, filters, **kwargs)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/tables/file.py", line 784, in __init__
+    self._g_new(filename, mode, **params)
+  File "tables/hdf5extension.pyx", line 371, in tables.hdf5extension.File._g_new
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/tables/utils.py", line 157, in check_file_access
+    raise IOError("``%s`` does not exist" % (filename,))
+OSError: ``/broad/hptmp/ssimmons/scumi/mixed2/Seqwell_v2/results.star_align.bam.featureCounts.count_feature.h5`` does not exist
+2018-10-01 09:51:59,390: INFO: Parsed 30,000,000 alignments.
+2018-10-01 09:51:59,393: INFO: 30,000,000 unique reads, 3,419,706 reads kept.
+2018-10-01 09:51:59,393: INFO: 13,022,691 unmapped reads were filtered.
+2018-10-01 09:51:59,393: INFO: 13,557,603 reads were filtered for including NA in barcodes.
+
+2018-10-01 09:54:21,097: INFO: Parsed 60,000,000 alignments.
+2018-10-01 09:54:21,101: INFO: 60,000,000 unique reads, 24,297,577 reads kept.
+2018-10-01 09:54:21,101: INFO: 24,766,397 unmapped reads were filtered.
+2018-10-01 09:54:21,101: INFO: 10,936,026 reads were filtered for including NA in barcodes.
+
+2018-10-01 09:58:06,251: INFO: Parsed 40,000,000 alignments.
+2018-10-01 09:58:06,254: INFO: 40,000,000 unique reads, 11,611,018 reads kept.
+2018-10-01 09:58:06,254: INFO: 16,268,750 unmapped reads were filtered.
+2018-10-01 09:58:06,254: INFO: 12,120,232 reads were filtered for including NA in barcodes.
+
+2018-10-01 10:00:04,625: INFO: Parsed 40,000,000 alignments.
+2018-10-01 10:00:04,627: INFO: 40,000,000 unique reads, 6,711,057 reads kept.
+2018-10-01 10:00:04,627: INFO: 16,479,116 unmapped reads were filtered.
+2018-10-01 10:00:04,627: INFO: 16,809,827 reads were filtered for including NA in barcodes.
+
+2018-10-01 10:03:47,703: INFO: Parsed 70,000,000 alignments.
+2018-10-01 10:03:47,706: INFO: 70,000,000 unique reads, 28,386,482 reads kept.
+2018-10-01 10:03:47,706: INFO: 28,832,760 unmapped reads were filtered.
+2018-10-01 10:03:47,706: INFO: 12,780,758 reads were filtered for including NA in barcodes.
+
+2018-10-01 10:05:18,790: INFO: Counting molecular info done - 0.625 hours, 74,276,024 alignments/hour
+
+2018-10-01 10:05:18,793: INFO: Converting to a dataframe
+2018-10-01 10:05:47,420: INFO: Parsed 50,000,000 alignments.
+2018-10-01 10:05:47,426: INFO: 50,000,000 unique reads, 14,515,115 reads kept.
+2018-10-01 10:05:47,426: INFO: 20,328,007 unmapped reads were filtered.
+2018-10-01 10:05:47,426: INFO: 15,156,877 reads were filtered for including NA in barcodes.
+
+2018-10-01 10:06:23,964: INFO: Converting to a dataframe done, taking 1.086 minutes
+
+2018-10-01 10:06:24,812: INFO: Writing molecular info
+Traceback (most recent call last):
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/pandas-0.23.4-py3.6-linux-x86_64.egg/pandas/io/pytables.py", line 604, in open
+    self._handle = tables.open_file(self._path, self._mode, **kwargs)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/tables/file.py", line 320, in open_file
+    return File(filename, mode, title, root_uep, filters, **kwargs)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/tables/file.py", line 784, in __init__
+    self._g_new(filename, mode, **params)
+  File "tables/hdf5extension.pyx", line 371, in tables.hdf5extension.File._g_new
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/tables/utils.py", line 180, in check_file_access
+    "written" % (parentname,))
+OSError: directory ``/broad/hptmp/ssimmons/scumi/mixed2/Seqwell_v1`` exists but it can not be written
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/bin/scumi", line 165, in <module>
+    args.func(args)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/scumi/run.py", line 47, in count_umi
+    cell_barcode_whitelist=cell_barcode_whitelist)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/scumi/scumi.py", line 610, in count_feature
+    with pd.HDFStore(molecular_info_h5, mode='w') as hf:
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/pandas-0.23.4-py3.6-linux-x86_64.egg/pandas/io/pytables.py", line 491, in __init__
+    self.open(mode=mode, **kwargs)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/pandas-0.23.4-py3.6-linux-x86_64.egg/pandas/io/pytables.py", line 608, in open
+    self._handle = tables.open_file(self._path, 'r', **kwargs)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/tables/file.py", line 320, in open_file
+    return File(filename, mode, title, root_uep, filters, **kwargs)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/tables/file.py", line 784, in __init__
+    self._g_new(filename, mode, **params)
+  File "tables/hdf5extension.pyx", line 371, in tables.hdf5extension.File._g_new
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/tables/utils.py", line 157, in check_file_access
+    raise IOError("``%s`` does not exist" % (filename,))
+OSError: ``/broad/hptmp/ssimmons/scumi/mixed2/Seqwell_v1/results.star_align.bam.featureCounts.count_feature.h5`` does not exist
+mkdir: cannot create directory ‘/broad/hptmp/ssimmons/scumi/mixed2/10X_2’: File exists
+2018-10-01 10:11:34,533: INFO: Detecting whitelist done, taking 1.310 minutes
+2018-10-01 10:11:54,555: INFO: The number of potential collision barcodes (edit distance 1): 0
+
+2018-10-01 10:11:54,748: INFO: Detected 3,182 candidate cell barcodes.
+mkdir: cannot create directory `/broad/hptmp/ssimmons/scumi/mixed2/Drop_2': File exists
+2018-10-01 10:12:17,196: INFO: The number of potential collision barcodes (edit distance 1): 0
+
+2018-10-01 10:12:17,198: INFO: Read GTF /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf
+2018-10-01 10:12:32,766: INFO: Parse GTF /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf done
+2018-10-01 10:12:32,768: INFO: Counting molecular info
+2018-10-01 10:14:14,468: INFO: Detecting whitelist done, taking 1.916 minutes
+2018-10-01 10:14:27,289: INFO: Detected 3,852 candidate cell barcodes.
+2018-10-01 10:14:28,134: INFO: Warning: barcode GGAGCGGCTTGA and GGAGCGGCATGA are within edit distance of 1
+2018-10-01 10:14:28,400: INFO: Warning: barcode CGTTACTATTAA and CGTTGCTATTAA are within edit distance of 1
+2018-10-01 10:14:30,115: INFO: Warning: barcode GTTGCGGGTTCC and GTTGCCGGTTCC are within edit distance of 1
+2018-10-01 10:14:30,731: INFO: Warning: barcode CGTTGCTATTAA and CGTTACTATTAA are within edit distance of 1
+2018-10-01 10:14:30,829: INFO: Warning: barcode GAGTTCAAGACT and GATTTCAAGACT are within edit distance of 1
+2018-10-01 10:14:32,563: INFO: Warning: barcode TTTTCGGAGGAG and TATTCGGAGGAG are within edit distance of 1
+2018-10-01 10:14:33,689: INFO: Warning: barcode CCTTTGCTCCTT and CCTTCGCTCCTT are within edit distance of 1
+2018-10-01 10:14:34,396: INFO: Warning: barcode GCATCCTGCCCG and GCATACTGCCCG are within edit distance of 1
+2018-10-01 10:14:34,946: INFO: Warning: barcode GGAGCGGCATGA and GGAGCGGCTTGA are within edit distance of 1
+2018-10-01 10:14:35,220: INFO: Warning: barcode TCGTATGTACTG and TCGAATGTACTG are within edit distance of 1
+2018-10-01 10:14:35,367: INFO: Warning: barcode GATCTTTTTGCA and GATATTTTTGCA are within edit distance of 1
+2018-10-01 10:14:35,560: INFO: Warning: barcode ACGTACCTCCTA and ACGCACCTCCTA are within edit distance of 1
+2018-10-01 10:14:35,586: INFO: Warning: barcode ACTTGCTTGTCC and ACTTGCTTGTTC are within edit distance of 1
+2018-10-01 10:14:36,517: INFO: Warning: barcode TCTAACTCTAAG and TCTAACTCTAAA are within edit distance of 1
+2018-10-01 10:14:36,617: INFO: Warning: barcode GATATTTTTGCA and GATCTTTTTGCA are within edit distance of 1
+2018-10-01 10:14:37,066: INFO: Warning: barcode GATTTCAAGACT and GAGTTCAAGACT are within edit distance of 1
+2018-10-01 10:14:37,359: INFO: Warning: barcode TCGAATGTACTG and TCGTATGTACTG are within edit distance of 1
+2018-10-01 10:14:37,531: INFO: Warning: barcode CCGGTCAGACAT and CCGGTCAGAGAT are within edit distance of 1
+2018-10-01 10:14:37,575: INFO: Warning: barcode GCATACTGCCCG and GCATCCTGCCCG are within edit distance of 1
+2018-10-01 10:14:37,824: INFO: Warning: barcode ACTTGCTTGTTC and ACTTGCTTGTCC are within edit distance of 1
+2018-10-01 10:14:38,599: INFO: Warning: barcode GCTATTCCACTG and GCTATTCCACTA are within edit distance of 1
+2018-10-01 10:14:39,678: INFO: Warning: barcode CCCTCCGTAGAG and CCCTCCGTAGAA are within edit distance of 1
+2018-10-01 10:14:40,030: INFO: Warning: barcode GCAGCCAAAGAT and TCAGCCAAAGAT are within edit distance of 1
+2018-10-01 10:14:40,524: INFO: Warning: barcode ACGCACCTCCTA and ACGTACCTCCTA are within edit distance of 1
+2018-10-01 10:14:40,780: INFO: Warning: barcode GCGACACTACAG and GCGACAATACAG are within edit distance of 1
+2018-10-01 10:14:40,813: INFO: Warning: barcode GGAATCAACATA and GGAATCCACATA are within edit distance of 1
+2018-10-01 10:14:42,422: INFO: Warning: barcode TATTCGGAGGAG and TTTTCGGAGGAG are within edit distance of 1
+2018-10-01 10:14:43,727: INFO: Warning: barcode CCTTCGCTCCTT and CCTTTGCTCCTT are within edit distance of 1
+2018-10-01 10:14:44,054: INFO: Warning: barcode GGAATCCACATA and GGAATCAACATA are within edit distance of 1
+2018-10-01 10:14:47,898: INFO: Warning: barcode CAATCAAAGATG and CAATCAAAGATT are within edit distance of 1
+2018-10-01 10:14:48,445: INFO: Warning: barcode CCGGTCAGAGAT and CCGGTCAGACAT are within edit distance of 1
+2018-10-01 10:14:49,091: INFO: Warning: barcode TCGAAAAGACTA and CCGAAAAGACTA are within edit distance of 1
+2018-10-01 10:14:49,695: INFO: Warning: barcode CGTTGGTGAAGG and CGTTGGTGTAGG are within edit distance of 1
+2018-10-01 10:14:49,708: INFO: Warning: barcode TCAGCCAAAGAT and GCAGCCAAAGAT are within edit distance of 1
+2018-10-01 10:14:50,542: INFO: Warning: barcode CCGAAAAGACTA and TCGAAAAGACTA are within edit distance of 1
+2018-10-01 10:14:51,018: INFO: Warning: barcode TACGGGCTTCAG and TACTGGCTTCAG are within edit distance of 1
+2018-10-01 10:14:51,874: INFO: Warning: barcode GTTGCCGGTTCC and GTTGCGGGTTCC are within edit distance of 1
+2018-10-01 10:14:52,161: INFO: Warning: barcode CCCTCCGTAGAA and CCCTCCGTAGAG are within edit distance of 1
+2018-10-01 10:14:52,202: INFO: Warning: barcode CAATCAAAGATT and CAATCAAAGATG are within edit distance of 1
+2018-10-01 10:14:52,214: INFO: Warning: barcode GCGACAATACAG and GCGACACTACAG are within edit distance of 1
+2018-10-01 10:14:52,523: INFO: Warning: barcode TCTAACTCTAAA and TCTAACTCTAAG are within edit distance of 1
+2018-10-01 10:14:52,570: INFO: Warning: barcode TACTGGCTTCAG and TACGGGCTTCAG are within edit distance of 1
+2018-10-01 10:14:53,289: INFO: Warning: barcode GCTATTCCACTA and GCTATTCCACTG are within edit distance of 1
+2018-10-01 10:14:53,433: INFO: Warning: barcode CGTTGGTGTAGG and CGTTGGTGAAGG are within edit distance of 1
+2018-10-01 10:14:53,469: INFO: The number of potential collision barcodes (edit distance 1): 44
+
+2018-10-01 10:14:53,470: INFO: Read GTF /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf
+2018-10-01 10:15:08,987: INFO: Parse GTF /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf done
+2018-10-01 10:15:08,988: INFO: Counting molecular info
+2018-10-01 10:22:19,793: INFO: Parsed 10,000,000 alignments.
+2018-10-01 10:22:19,794: INFO: 10,000,000 unique reads, 2,902,716 reads kept.
+2018-10-01 10:22:19,794: INFO: 4,069,915 unmapped reads were filtered.
+2018-10-01 10:22:19,794: INFO: 3,027,368 reads were filtered for including NA in barcodes.
+
+mkdir: cannot create directory `/broad/hptmp/ssimmons/scumi/mixed2/Seqwell_v1_2': File exists
+2018-10-01 10:25:44,668: INFO: Detecting whitelist done, taking 1.392 minutes
+2018-10-01 10:25:45,761: INFO: Detected 893 candidate cell barcodes.
+2018-10-01 10:25:48,060: INFO: The number of potential collision barcodes (edit distance 1): 0
+
+2018-10-01 10:25:48,060: INFO: Read GTF /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf
+2018-10-01 10:26:04,068: INFO: Parse GTF /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf done
+2018-10-01 10:26:04,069: INFO: Counting molecular info
+mkdir: cannot create directory `/broad/hptmp/ssimmons/scumi/mixed2/Seqwell_v2_2': File exists
+2018-10-01 10:29:27,439: INFO: Parsed 20,000,000 alignments.
+2018-10-01 10:29:27,443: INFO: 20,000,000 unique reads, 5,834,108 reads kept.
+2018-10-01 10:29:27,444: INFO: 8,111,893 unmapped reads were filtered.
+2018-10-01 10:29:27,444: INFO: 6,053,999 reads were filtered for including NA in barcodes.
+
+2018-10-01 10:31:07,694: INFO: Detecting whitelist done, taking 1.434 minutes
+2018-10-01 10:31:09,415: INFO: Detected 730 candidate cell barcodes.
+2018-10-01 10:31:11,349: INFO: The number of potential collision barcodes (edit distance 1): 0
+
+2018-10-01 10:31:11,350: INFO: Read GTF /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf
+2018-10-01 10:31:32,091: INFO: Parse GTF /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf done
+2018-10-01 10:31:32,092: INFO: Counting molecular info
+2018-10-01 10:34:05,810: INFO: Parsed 10,000,000 alignments.
+2018-10-01 10:34:05,811: INFO: 10,000,000 unique reads, 85,189 reads kept.
+2018-10-01 10:34:05,811: INFO: 4,786,694 unmapped reads were filtered.
+2018-10-01 10:34:05,811: INFO: 5,128,117 reads were filtered for including NA in barcodes.
+
+2018-10-01 10:36:35,669: INFO: Parsed 30,000,000 alignments.
+2018-10-01 10:36:35,670: INFO: 30,000,000 unique reads, 8,723,529 reads kept.
+2018-10-01 10:36:35,670: INFO: 12,188,305 unmapped reads were filtered.
+2018-10-01 10:36:35,670: INFO: 9,088,165 reads were filtered for including NA in barcodes.
+
+2018-10-01 10:40:30,696: INFO: Parsed 30,000,000 alignments.
+2018-10-01 10:40:30,699: INFO: 30,000,000 unique reads, 12,100,678 reads kept.
+2018-10-01 10:40:30,699: INFO: 12,450,303 unmapped reads were filtered.
+2018-10-01 10:40:30,699: INFO: 5,449,019 reads were filtered for including NA in barcodes.
+
+2018-10-01 10:42:32,624: INFO: Parsed 10,000,000 alignments.
+2018-10-01 10:42:32,627: INFO: 10,000,000 unique reads, 1,589,568 reads kept.
+2018-10-01 10:42:32,627: INFO: 6,445,039 unmapped reads were filtered.
+2018-10-01 10:42:32,627: INFO: 1,965,393 reads were filtered for including NA in barcodes.
+
+2018-10-01 10:43:42,633: INFO: Parsed 40,000,000 alignments.
+2018-10-01 10:43:42,635: INFO: 40,000,000 unique reads, 11,611,018 reads kept.
+2018-10-01 10:43:42,635: INFO: 16,268,750 unmapped reads were filtered.
+2018-10-01 10:43:42,635: INFO: 12,120,232 reads were filtered for including NA in barcodes.
+
+2018-10-01 10:50:09,073: INFO: Parsed 30,000,000 alignments.
+2018-10-01 10:50:09,073: INFO: 30,000,000 unique reads, 3,419,706 reads kept.
+2018-10-01 10:50:09,074: INFO: 13,022,691 unmapped reads were filtered.
+2018-10-01 10:50:09,074: INFO: 13,557,603 reads were filtered for including NA in barcodes.
+
+2018-10-01 10:50:51,019: INFO: Parsed 50,000,000 alignments.
+2018-10-01 10:50:51,020: INFO: 50,000,000 unique reads, 14,515,115 reads kept.
+2018-10-01 10:50:51,020: INFO: 20,328,007 unmapped reads were filtered.
+2018-10-01 10:50:51,020: INFO: 15,156,877 reads were filtered for including NA in barcodes.
+
+2018-10-01 10:53:33,038: INFO: Parsed 20,000,000 alignments.
+2018-10-01 10:53:33,041: INFO: 20,000,000 unique reads, 3,166,032 reads kept.
+2018-10-01 10:53:33,041: INFO: 12,904,833 unmapped reads were filtered.
+2018-10-01 10:53:33,041: INFO: 3,929,135 reads were filtered for including NA in barcodes.
+
+2018-10-01 10:57:58,172: INFO: Parsed 60,000,000 alignments.
+2018-10-01 10:57:58,173: INFO: 60,000,000 unique reads, 17,375,467 reads kept.
+2018-10-01 10:57:58,173: INFO: 24,424,799 unmapped reads were filtered.
+2018-10-01 10:57:58,173: INFO: 18,199,734 reads were filtered for including NA in barcodes.
+
+2018-10-01 10:58:11,270: INFO: Parsed 40,000,000 alignments.
+2018-10-01 10:58:11,273: INFO: 40,000,000 unique reads, 6,711,057 reads kept.
+2018-10-01 10:58:11,273: INFO: 16,479,116 unmapped reads were filtered.
+2018-10-01 10:58:11,274: INFO: 16,809,827 reads were filtered for including NA in barcodes.
+
+2018-10-01 10:59:01,899: INFO: Parsed 50,000,000 alignments.
+2018-10-01 10:59:01,902: INFO: 50,000,000 unique reads, 20,207,771 reads kept.
+2018-10-01 10:59:01,902: INFO: 20,694,674 unmapped reads were filtered.
+2018-10-01 10:59:01,902: INFO: 9,097,554 reads were filtered for including NA in barcodes.
+
+2018-10-01 11:03:25,556: INFO: Counting molecular info done - 0.623 hours, 74,591,084 alignments/hour
+
+2018-10-01 11:03:25,560: INFO: Converting to a dataframe
+2018-10-01 11:04:35,417: INFO: Converting to a dataframe done, taking 1.164 minutes
+
+2018-10-01 11:04:36,266: INFO: Writing molecular info
+rting to a dataframe
+2018-10-01 11:05:07,643: INFO: Parsed 70,000,000 alignments.
+2018-10-01 11:05:07,643: INFO: 70,000,000 unique reads, 20,281,562 reads kept.
+2018-10-01 11:05:07,644: INFO: 28,497,400 unmapped reads were filtered.
+2018-10-01 11:05:07,644: INFO: 21,221,037 reads were filtered for including NA in barcodes.
+
+2018-10-01 11:05:30,604: INFO: Writings molecular info done, taking 0.559 minutes
+
+2018-10-01 11:05:31,604: INFO: Collapsing UMIs
+2018-10-01 11:06:27,863: INFO: Collapsing UMIs done, taking 0.971 minutes
+2018-10-01 11:06:28,804: INFO: Converting to sparse matrix
+2018-10-01 11:07:20,272: INFO: Converting to a sparse matrix done, taking 0.858 minutes
+2018-10-01 11:07:20,273: INFO: Output results
+2018-10-01 11:07:00,592: INFO: Writing final results done, taking 0.160 minutes
+2018-10-01 11:07:00,594: INFO: Converting to sparse matrix
+2018-10-01 11:07:28,320: INFO: Writing final results done, taking 0.134 minutes
+2018-10-01 11:07:28,335: INFO: Converting to sparse matrix
+10-01 11:07:44,081: INFO: Writing final results done, taking 0.162 minutes
+2018-10-01 11:08:15,161: INFO: Parsed 60,000,000 alignments.
+2018-10-01 11:08:15,165: INFO: 60,000,000 unique reads, 24,297,577 reads kept.
+2018-10-01 11:08:15,165: INFO: 24,766,397 unmapped reads were filtered.
+2018-10-01 11:08:15,165: INFO: 10,936,026 reads were filtered for including NA in barcodes.
+
+2018-10-01 11:12:17,376: INFO: Parsed 80,000,000 alignments.
+2018-10-01 11:12:17,378: INFO: 80,000,000 unique reads, 23,126,879 reads kept.
+2018-10-01 11:12:17,378: INFO: 32,620,356 unmapped reads were filtered.
+2018-10-01 11:12:17,378: INFO: 24,252,765 reads were filtered for including NA in barcodes.
+
+2018-10-01 11:17:29,798: INFO: Parsed 70,000,000 alignments.
+2018-10-01 11:17:29,801: INFO: 70,000,000 unique reads, 28,386,482 reads kept.
+2018-10-01 11:17:29,801: INFO: 28,832,760 unmapped reads were filtered.
+2018-10-01 11:17:29,801: INFO: 12,780,758 reads were filtered for including NA in barcodes.
+
+2018-10-01 11:19:24,273: INFO: Parsed 90,000,000 alignments.
+2018-10-01 11:19:24,274: INFO: 90,000,000 unique reads, 26,024,679 reads kept.
+2018-10-01 11:19:24,274: INFO: 36,696,025 unmapped reads were filtered.
+2018-10-01 11:19:24,274: INFO: 27,279,295 reads were filtered for including NA in barcodes.
+
+2018-10-01 11:26:41,978: INFO: Parsed 80,000,000 alignments.
+2018-10-01 11:26:41,981: INFO: 80,000,000 unique reads, 32,490,301 reads kept.
+2018-10-01 11:26:41,981: INFO: 32,879,685 unmapped reads were filtered.
+2018-10-01 11:26:41,981: INFO: 14,630,013 reads were filtered for including NA in barcodes.
+
+
+
+2018-10-01 11:33:39,233: INFO: Parsed 110,000,000 alignments.
+2018-10-01 11:33:39,235: INFO: 110,000,000 unique reads, 31,769,577 reads kept.
+2018-10-01 11:33:39,235: INFO: 44,869,290 unmapped reads were filtered.
+2018-10-01 11:33:39,235: INFO: 33,361,132 reads were filtered for including NA in barcodes.
+
+2018-10-01 11:35:53,839: INFO: Parsed 90,000,000 alignments.
+2018-10-01 11:35:53,843: INFO: 90,000,000 unique reads, 36,496,617 reads kept.
+2018-10-01 11:35:53,843: INFO: 37,044,487 unmapped reads were filtered.
+2018-10-01 11:35:53,843: INFO: 16,458,896 reads were filtered for including NA in barcodes.
+
+2018-10-01 11:40:47,012: INFO: Parsed 120,000,000 alignments.
+2018-10-01 11:40:47,014: INFO: 120,000,000 unique reads, 34,668,819 reads kept.
+2018-10-01 11:40:47,014: INFO: 48,934,452 unmapped reads were filtered.
+2018-10-01 11:40:47,014: INFO: 36,396,729 reads were filtered for including NA in barcodes.
+
+2018-10-01 11:45:05,530: INFO: Parsed 100,000,000 alignments.
+2018-10-01 11:45:05,533: INFO: 100,000,000 unique reads, 40,474,835 reads kept.
+2018-10-01 11:45:05,533: INFO: 41,237,953 unmapped reads were filtered.
+2018-10-01 11:45:05,534: INFO: 18,287,212 reads were filtered for including NA in barcodes.
+
+2018-10-01 11:47:54,208: INFO: Parsed 130,000,000 alignments.
+2018-10-01 11:47:54,209: INFO: 130,000,000 unique reads, 37,534,362 reads kept.
+2018-10-01 11:47:54,209: INFO: 53,020,487 unmapped reads were filtered.
+2018-10-01 11:47:54,209: INFO: 39,445,151 reads were filtered for including NA in barcodes.
+
+2018-10-01 11:54:17,511: INFO: Parsed 110,000,000 alignments.
+2018-10-01 11:54:17,514: INFO: 110,000,000 unique reads, 44,464,817 reads kept.
+2018-10-01 11:54:17,514: INFO: 45,415,833 unmapped reads were filtered.
+2018-10-01 11:54:17,515: INFO: 20,119,349 reads were filtered for including NA in barcodes.
+
+2018-10-01 11:55:04,452: INFO: Parsed 140,000,000 alignments.
+2018-10-01 11:55:04,455: INFO: 140,000,000 unique reads, 40,459,179 reads kept.
+2018-10-01 11:55:04,455: INFO: 57,074,872 unmapped reads were filtered.
+2018-10-01 11:55:04,455: INFO: 42,465,949 reads were filtered for including NA in barcodes.
+
+2018-10-01 12:02:12,488: INFO: Parsed 150,000,000 alignments.
+2018-10-01 12:02:12,488: INFO: 150,000,000 unique reads, 43,341,420 reads kept.
+2018-10-01 12:02:12,488: INFO: 61,140,213 unmapped reads were filtered.
+2018-10-01 12:02:12,489: INFO: 45,518,367 reads were filtered for including NA in barcodes.
+
+2018-10-01 12:03:28,649: INFO: Parsed 120,000,000 alignments.
+2018-10-01 12:03:28,652: INFO: 120,000,000 unique reads, 48,479,001 reads kept.
+2018-10-01 12:03:28,652: INFO: 49,576,786 unmapped reads were filtered.
+2018-10-01 12:03:28,652: INFO: 21,944,213 reads were filtered for including NA in barcodes.
+
+2018-10-01 12:09:19,965: INFO: Parsed 160,000,000 alignments.
+2018-10-01 12:09:19,966: INFO: 160,000,000 unique reads, 46,261,379 reads kept.
+2018-10-01 12:09:19,966: INFO: 65,173,238 unmapped reads were filtered.
+2018-10-01 12:09:19,966: INFO: 48,565,383 reads were filtered for including NA in barcodes.
+
+2018-10-01 12:12:44,181: INFO: Parsed 130,000,000 alignments.
+2018-10-01 12:12:44,184: INFO: 130,000,000 unique reads, 52,496,351 reads kept.
+2018-10-01 12:12:44,184: INFO: 53,752,352 unmapped reads were filtered.
+2018-10-01 12:12:44,184: INFO: 23,751,296 reads were filtered for including NA in barcodes.
+
+2018-10-01 12:16:26,919: INFO: Parsed 170,000,000 alignments.
+2018-10-01 12:16:26,920: INFO: 170,000,000 unique reads, 49,181,455 reads kept.
+2018-10-01 12:16:26,920: INFO: 69,212,469 unmapped reads were filtered.
+2018-10-01 12:16:26,920: INFO: 51,606,076 reads were filtered for including NA in barcodes.
+
+2018-10-01 12:21:56,183: INFO: Parsed 140,000,000 alignments.
+2018-10-01 12:21:56,186: INFO: 140,000,000 unique reads, 56,511,029 reads kept.
+2018-10-01 12:21:56,187: INFO: 57,928,582 unmapped reads were filtered.
+2018-10-01 12:21:56,187: INFO: 25,560,389 reads were filtered for including NA in barcodes.
+
+2018-10-01 12:23:35,126: INFO: Parsed 180,000,000 alignments.
+2018-10-01 12:23:35,127: INFO: 180,000,000 unique reads, 52,126,155 reads kept.
+2018-10-01 12:23:35,127: INFO: 73,222,335 unmapped reads were filtered.
+2018-10-01 12:23:35,127: INFO: 54,651,510 reads were filtered for including NA in barcodes.
+
+2018-10-01 12:27:48,702: INFO: Counting molecular info done - 2.211 hours, 84,095,996 alignments/hour
+
+2018-10-01 12:27:48,704: INFO: Converting to a dataframe
+2018-10-01 12:31:15,041: INFO: Converting to a dataframe done, taking 3.439 minutes
+
+2018-10-01 12:31:19,819: INFO: Writing molecular info
+t.
+2018-10-01 12:31:07,088: INFO: 62,097,888 unmapped reads were filtered.
+2018-10-01 12:31:07,088: INFO: 27,371,011 reads were filtered for including NA in barcodes.
+
+2018-10-01 12:33:54,457: INFO: Writings molecular info done, taking 2.577 minutes
+
+2018-10-01 12:33:58,130: INFO: Collapsing UMIs
+2018-10-01 12:37:28,132: INFO: Collapsing UMIs done, taking 3.500 minutes
+2018-10-01 12:37:31,111: INFO: Converting to sparse matrix
+2018-10-01 12:40:17,934: INFO: Parsed 160,000,000 alignments.
+2018-10-01 12:40:17,938: INFO: 160,000,000 unique reads, 64,572,143 reads kept.
+2018-10-01 12:40:17,938: INFO: 66,238,921 unmapped reads were filtered.
+2018-10-01 12:40:17,938: INFO: 29,188,936 reads were filtered for including NA in barcodes.
+
+2018-10-01 12:41:51,613: INFO: Converting to a sparse matrix done, taking 4.342 minutes
+2018-10-01 12:41:51,615: INFO: Output results
+2018-10-01 12:42:18,602: INFO: Writing final results done, taking 0.450 minutes
+2018-10-01 12:42:18,611: INFO: Converting to sparse matrix
+2018-10-01 12:44:55,618: INFO: Counting molecular info done - 2.540 hours, 64,984,902 alignments/hour
+
+2018-10-01 12:44:55,621: INFO: Converting to a dataframe
+2018-10-01 12:46:47,316: INFO: Converting to a sparse matrix done, taking 4.478 minutes
+2018-10-01 12:46:47,320: INFO: Output results
+2018-10-01 12:47:13,975: INFO: Writing final results done, taking 0.444 minutes
+2018-10-01 12:48:46,451: INFO: Converting to a dataframe done, taking 3.847 minutes
+
+2018-10-01 12:48:49,442: INFO: Writing molecular info
+2018-10-01 12:54:21,600: INFO: Writings molecular info done, taking 5.536 minutes
+
+2018-10-01 12:54:28,590: INFO: Collapsing UMIs
+2018-10-01 13:01:56,155: INFO: Collapsing UMIs done, taking 7.459 minutes
+2018-10-01 13:02:00,033: INFO: Converting to sparse matrix
+2018-10-01 13:06:00,472: INFO: Converting to a sparse matrix done, taking 4.007 minutes
+2018-10-01 13:06:00,475: INFO: Output results
+2018-10-01 13:06:45,210: INFO: Writing final results done, taking 0.746 minutes
+2018-10-01 13:06:45,213: INFO: Converting to sparse matrix
+2018-10-01 13:10:51,164: INFO: Converting to a sparse matrix done, taking 4.099 minutes
+2018-10-01 13:10:51,167: INFO: Output results
+2018-10-01 13:11:35,800: INFO: Writing final results done, taking 0.744 minutes

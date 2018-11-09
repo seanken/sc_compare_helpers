@@ -1,0 +1,13 @@
+/broad/hptmp/ssimmons/Mixture3/Out
+/ahg/regevdata2/projects/sc_compare2/seanken/Pipelines/Drop_Pipeline/Work/samples.mix.txt
+Thu Aug  9 12:11:13 EDT 2018
+removed environment variable LD_LIBRARY_PATH from submit environment - it is considered a security issue
+Your job-array 4806978.1-2:1 ("dropseq_run_config.conf") has been submitted
+Job 4806978.1 exited with exit code 0.
+Unable to run job 4806978.2
+/broad/hptmp/ssimmons/Mixture3/Out
+/ahg/regevdata2/projects/sc_compare2/seanken/Pipelines/Drop_Pipeline/Work/samples.mix.txt
+Sun Aug 12 12:37:27 EDT 2018
+removed environment variable LD_LIBRARY_PATH from submit environment - it is considered a security issue
+Your job-array 4830962.1-1:1 ("dropseq_run_config.conf") has been submitted
+Unable to run job 4830962.1

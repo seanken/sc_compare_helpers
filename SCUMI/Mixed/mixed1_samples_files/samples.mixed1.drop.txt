@@ -1,0 +1,1 @@
+/ahg/regevdata/projects/sc_compare/hiseq-dropseq/SN0129131/fastq/CAPTEANXX.Dropseq.unmapped.1.fastq.gz	/ahg/regevdata/projects/sc_compare/hiseq-dropseq/SN0129131/fastq/CAPTEANXX.Dropseq.unmapped.2.fastq.gz	Drop-seq-polyT	/broad/hptmp/ssimmons/scumi/mixed1/Drop_fin	3500	.79

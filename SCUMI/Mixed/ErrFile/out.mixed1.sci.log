@@ -1,0 +1,9 @@
+Setup!
+Combine!
+/broad/hptmp/ssimmons/scumi/mixed2/SciSeq/Cell1_new/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/mixed2/SciSeq/Cell1_new/comb.2.fastq.gz
+Subsamples!
+Clean fastqs!
+Merge Fastq!
+Clean!
+Run STAR!

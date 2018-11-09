@@ -1,0 +1,1 @@
+drop_mix1	/ahg/regevdata/projects/sc_compare/hiseq-dropseq/SN0129131/fastq/CAPTEANXX.1.fastq.gz	/ahg/regevdata/projects/sc_compare/hiseq-dropseq/SN0129131/fastq/CAPTEANXX.2.fastq.gz	3500

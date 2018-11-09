@@ -1,0 +1,97 @@
+2018-10-31 16:02:12,282: INFO: Detecting whitelist done, taking 2.595 minutes
+2018-10-31 16:02:15,943: INFO: Detected 1,633 candidate cell barcodes.
+2018-10-31 16:02:16,750: INFO: Warning: barcode TTGTCTATACGG and TTGTCTATACTG are within edit distance of 1
+2018-10-31 16:02:16,997: INFO: Warning: barcode GAATCTGAAAAA and GAATCTGACAAA are within edit distance of 1
+2018-10-31 16:02:18,097: INFO: Warning: barcode GAATCTGACAAA and GAATCTGAAAAA are within edit distance of 1
+2018-10-31 16:02:19,381: INFO: Warning: barcode ACGGTACGTGTA and CCGGTACGTGTA are within edit distance of 1
+2018-10-31 16:02:21,113: INFO: Warning: barcode TATTGCAATTGG and TATTGCAATTGT are within edit distance of 1
+2018-10-31 16:02:21,402: INFO: Warning: barcode TAGCGGTCGCCG and TAGCGGTCGCCT are within edit distance of 1
+2018-10-31 16:02:22,163: INFO: Warning: barcode CCGGTACGTGTA and ACGGTACGTGTA are within edit distance of 1
+2018-10-31 16:02:22,245: INFO: Warning: barcode GCGTAATACCTG and GCGTAATACCTA are within edit distance of 1
+2018-10-31 16:02:22,403: INFO: Warning: barcode TTGTCTATACTG and TTGTCTATACGG are within edit distance of 1
+2018-10-31 16:02:22,457: INFO: Warning: barcode GCGTAATACCTA and GCGTAATACCTG are within edit distance of 1
+2018-10-31 16:02:22,549: INFO: Warning: barcode TATTGCAATTGT and TATTGCAATTGG are within edit distance of 1
+2018-10-31 16:02:22,582: INFO: Warning: barcode TAGCGGTCGCCT and TAGCGGTCGCCG are within edit distance of 1
+2018-10-31 16:02:22,772: INFO: The number of potential collision barcodes (edit distance 1): 12
+
+2018-10-31 16:02:22,773: INFO: Read GTF /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf
+2018-10-31 16:02:42,877: INFO: Parse GTF /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf done
+2018-10-31 16:02:42,878: INFO: Counting molecular info
+2018-10-31 16:14:10,875: INFO: Parsed 10,000,000 alignments.
+2018-10-31 16:14:10,876: INFO: 10,000,000 unique reads, 2,982,986 reads kept.
+2018-10-31 16:14:10,876: INFO: 4,781,610 unmapped reads were filtered.
+2018-10-31 16:14:10,876: INFO: 2,235,404 reads were filtered for including NA in barcodes.
+
+2018-10-31 16:25:41,770: INFO: Parsed 20,000,000 alignments.
+2018-10-31 16:25:41,770: INFO: 20,000,000 unique reads, 5,989,126 reads kept.
+2018-10-31 16:25:41,770: INFO: 9,559,187 unmapped reads were filtered.
+2018-10-31 16:25:41,770: INFO: 4,451,687 reads were filtered for including NA in barcodes.
+
+2018-10-31 16:37:07,903: INFO: Parsed 30,000,000 alignments.
+2018-10-31 16:37:07,904: INFO: 30,000,000 unique reads, 8,943,597 reads kept.
+2018-10-31 16:37:07,904: INFO: 14,375,245 unmapped reads were filtered.
+2018-10-31 16:37:07,904: INFO: 6,681,158 reads were filtered for including NA in barcodes.
+
+2018-10-31 16:48:28,718: INFO: Parsed 40,000,000 alignments.
+2018-10-31 16:48:28,719: INFO: 40,000,000 unique reads, 11,909,074 reads kept.
+2018-10-31 16:48:28,719: INFO: 19,185,732 unmapped reads were filtered.
+2018-10-31 16:48:28,719: INFO: 8,905,194 reads were filtered for including NA in barcodes.
+
+2018-10-31 16:59:47,369: INFO: Parsed 50,000,000 alignments.
+2018-10-31 16:59:47,370: INFO: 50,000,000 unique reads, 14,859,816 reads kept.
+2018-10-31 16:59:47,370: INFO: 24,009,151 unmapped reads were filtered.
+2018-10-31 16:59:47,370: INFO: 11,131,033 reads were filtered for including NA in barcodes.
+
+2018-10-31 17:11:02,311: INFO: Parsed 60,000,000 alignments.
+2018-10-31 17:11:02,311: INFO: 60,000,000 unique reads, 17,804,727 reads kept.
+2018-10-31 17:11:02,311: INFO: 28,849,184 unmapped reads were filtered.
+2018-10-31 17:11:02,312: INFO: 13,346,089 reads were filtered for including NA in barcodes.
+
+2018-10-31 17:22:18,205: INFO: Parsed 70,000,000 alignments.
+2018-10-31 17:22:18,205: INFO: 70,000,000 unique reads, 20,739,404 reads kept.
+2018-10-31 17:22:18,205: INFO: 33,716,792 unmapped reads were filtered.
+2018-10-31 17:22:18,206: INFO: 15,543,803 reads were filtered for including NA in barcodes.
+
+2018-10-31 17:33:29,079: INFO: Parsed 80,000,000 alignments.
+2018-10-31 17:33:29,079: INFO: 80,000,000 unique reads, 23,621,912 reads kept.
+2018-10-31 17:33:29,080: INFO: 38,642,908 unmapped reads were filtered.
+2018-10-31 17:33:29,080: INFO: 17,735,180 reads were filtered for including NA in barcodes.
+
+2018-10-31 17:44:38,550: INFO: Parsed 90,000,000 alignments.
+2018-10-31 17:44:38,550: INFO: 90,000,000 unique reads, 26,551,417 reads kept.
+2018-10-31 17:44:38,550: INFO: 43,525,821 unmapped reads were filtered.
+2018-10-31 17:44:38,551: INFO: 19,922,762 reads were filtered for including NA in barcodes.
+
+2018-10-31 17:55:49,730: INFO: Parsed 100,000,000 alignments.
+2018-10-31 17:55:49,731: INFO: 100,000,000 unique reads, 29,483,673 reads kept.
+2018-10-31 17:55:49,731: INFO: 48,381,618 unmapped reads were filtered.
+2018-10-31 17:55:49,731: INFO: 22,134,709 reads were filtered for including NA in barcodes.
+
+2018-10-31 18:06:58,663: INFO: Parsed 110,000,000 alignments.
+2018-10-31 18:06:58,664: INFO: 110,000,000 unique reads, 32,416,799 reads kept.
+2018-10-31 18:06:58,664: INFO: 53,260,995 unmapped reads were filtered.
+2018-10-31 18:06:58,664: INFO: 24,322,205 reads were filtered for including NA in barcodes.
+
+2018-10-31 18:18:11,581: INFO: Parsed 120,000,000 alignments.
+2018-10-31 18:18:11,581: INFO: 120,000,000 unique reads, 35,344,992 reads kept.
+2018-10-31 18:18:11,582: INFO: 58,115,402 unmapped reads were filtered.
+2018-10-31 18:18:11,582: INFO: 26,539,606 reads were filtered for including NA in barcodes.
+
+2018-10-31 18:28:35,889: INFO: Counting molecular info done - 2.431 hours, 53,157,899 alignments/hour
+
+2018-10-31 18:28:35,890: INFO: Converting to a dataframe
+2018-10-31 18:30:29,172: INFO: Converting to a dataframe done, taking 1.888 minutes
+
+2018-10-31 18:30:53,322: INFO: Writing molecular info
+2018-10-31 18:32:32,856: INFO: Writings molecular info done, taking 1.659 minutes
+
+2018-10-31 18:32:35,378: INFO: Collapsing UMIs
+2018-10-31 18:37:08,172: INFO: Collapsing UMIs done, taking 4.547 minutes
+2018-10-31 18:37:10,003: INFO: Converting to sparse matrix
+2018-10-31 18:39:28,761: INFO: Converting to a sparse matrix done, taking 2.313 minutes
+2018-10-31 18:39:28,764: INFO: Output results
+2018-10-31 18:39:54,252: INFO: Writing final results done, taking 0.425 minutes
+2018-10-31 18:39:54,254: INFO: Converting to sparse matrix
+2018-10-31 18:42:06,977: INFO: Converting to a sparse matrix done, taking 2.212 minutes
+2018-10-31 18:42:06,979: INFO: Output results
+2018-10-31 18:42:33,048: INFO: Writing final results done, taking 0.434 minutes

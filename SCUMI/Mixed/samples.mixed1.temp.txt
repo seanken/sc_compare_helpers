@@ -1,0 +1,2 @@
+/ahg/regevdata/projects/sc_compare/hiseq-dropseq/SN0129131/fastq/CAPTEANXX.1.fastq.gz	/ahg/regevdata/projects/sc_compare/hiseq-dropseq/SN0129131/fastq/CAPTEANXX.2.fastq.gz	Drop-seq-polyT	/broad/hptmp/ssimmons/scumi/mixed1/Drop	2594	.79
+/ahg/regevdata/projects/sc_compare/hiseq-single/get.broadinstitute.org/pkgs/SN0128574/fastq/CAPTEANXX.SeqWell1.unmapped.1.fastq.gz	/ahg/regevdata/projects/sc_compare/hiseq-single/get.broadinstitute.org/pkgs/SN0128574/fastq/CAPTEANXX.SeqWell1.unmapped.2.fastq.gz	Seq-Well-polyT	/broad/hptmp/ssimmons/scumi/mixed1/Seqwell	1627	.6

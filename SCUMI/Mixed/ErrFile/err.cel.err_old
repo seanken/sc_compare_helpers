@@ -1,0 +1,159 @@
+mkdir: cannot create directory ‘/broad/hptmp/ssimmons/scumi/mixed2/CelSeq2’: File exists
+/var/spool/uger-8.5.5/uger-r7-c008/job_scripts/5709910: line 66: seqtk: command not found
+/var/spool/uger-8.5.5/uger-r7-c008/job_scripts/5709910: line 67: seqtk: command not found
+2018-10-05 08:56:09,173: INFO: Cell barcode in configure file
+2018-10-05 08:56:09,174: INFO: UMI in config file
+2018-10-05 08:56:09,210: INFO: Formatting fastq done, taking 0.000 hours
+Traceback (most recent call last):
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/bin/scumi", line 165, in <module>
+    args.func(args)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/scumi/run.py", line 13, in merge_fastq
+    cb_count=cb_count, num_thread=num_thread)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/scumi/scumi.py", line 120, in format_fastq
+    df = df.sort_values(by=0, ascending=False)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/pandas-0.23.4-py3.6-linux-x86_64.egg/pandas/core/frame.py", line 4421, in sort_values
+    stacklevel=stacklevel)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/pandas-0.23.4-py3.6-linux-x86_64.egg/pandas/core/generic.py", line 1382, in _get_label_or_level_values
+    raise KeyError(key)
+KeyError: 0
+/var/spool/uger-8.5.5/uger-r7-c008/job_scripts/5709910: line 77: hisat2: command not found
+/var/spool/uger-8.5.5/uger-r7-c008/job_scripts/5709910: line 79: samtools: command not found
+rm: cannot remove ‘/broad/hptmp/ssimmons/scumi/mixed2/CelSeq2/alignment.sam’: No such file or directory
+2018-10-05 08:56:11,310: INFO: Running featureCounts to annotate alignments.
+
+ERROR: invalid parameter: '/broad/hptmp/ssimmons/scumi/mixed2/CelSeq2/results.star_align.bam'
+
+[E::hts_open_format] Failed to open file /broad/hptmp/ssimmons/scumi/mixed2/CelSeq2/results.star_align.bam.featureCounts.bam
+Traceback (most recent call last):
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/bin/scumi", line 165, in <module>
+    args.func(args)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/scumi/run.py", line 47, in count_umi
+    cell_barcode_whitelist=cell_barcode_whitelist)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/scumi/scumi.py", line 402, in count_feature
+    barcode_parser, first_cb, read_mode = _construct_barcode_regex(bam)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/scumi/scumi.py", line 343, in _construct_barcode_regex
+    bam_file = AlignmentFile(bam, mode=read_mode)
+  File "pysam/libcalignmentfile.pyx", line 734, in pysam.libcalignmentfile.AlignmentFile.__cinit__
+  File "pysam/libcalignmentfile.pyx", line 933, in pysam.libcalignmentfile.AlignmentFile._open
+FileNotFoundError: [Errno 2] could not open alignment file `/broad/hptmp/ssimmons/scumi/mixed2/CelSeq2/results.star_align.bam.featureCounts.bam`: No such file or directory
+mkdir: cannot create directory ‘/broad/hptmp/ssimmons/scumi/mixed2/CelSeq1’: File exists
+/var/spool/uger-8.5.5/uger-r7-c004/job_scripts/5709910: line 66: seqtk: command not found
+/var/spool/uger-8.5.5/uger-r7-c004/job_scripts/5709910: line 67: seqtk: command not found
+2018-10-05 08:56:17,526: INFO: Cell barcode in configure file
+2018-10-05 08:56:17,526: INFO: UMI in config file
+2018-10-05 08:56:17,564: INFO: Formatting fastq done, taking 0.000 hours
+Traceback (most recent call last):
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/bin/scumi", line 165, in <module>
+    args.func(args)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/scumi/run.py", line 13, in merge_fastq
+    cb_count=cb_count, num_thread=num_thread)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/scumi/scumi.py", line 120, in format_fastq
+    df = df.sort_values(by=0, ascending=False)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/pandas-0.23.4-py3.6-linux-x86_64.egg/pandas/core/frame.py", line 4421, in sort_values
+    stacklevel=stacklevel)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/pandas-0.23.4-py3.6-linux-x86_64.egg/pandas/core/generic.py", line 1382, in _get_label_or_level_values
+    raise KeyError(key)
+KeyError: 0
+/var/spool/uger-8.5.5/uger-r7-c004/job_scripts/5709910: line 77: hisat2: command not found
+/var/spool/uger-8.5.5/uger-r7-c004/job_scripts/5709910: line 79: samtools: command not found
+rm: cannot remove ‘/broad/hptmp/ssimmons/scumi/mixed2/CelSeq1/alignment.sam’: No such file or directory
+2018-10-05 08:56:19,465: INFO: Running featureCounts to annotate alignments.
+
+ERROR: invalid parameter: '/broad/hptmp/ssimmons/scumi/mixed2/CelSeq1/results.star_align.bam'
+
+[E::hts_open_format] Failed to open file /broad/hptmp/ssimmons/scumi/mixed2/CelSeq1/results.star_align.bam.featureCounts.bam
+Traceback (most recent call last):
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/bin/scumi", line 165, in <module>
+    args.func(args)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/scumi/run.py", line 47, in count_umi
+    cell_barcode_whitelist=cell_barcode_whitelist)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/scumi/scumi.py", line 402, in count_feature
+    barcode_parser, first_cb, read_mode = _construct_barcode_regex(bam)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/scumi/scumi.py", line 343, in _construct_barcode_regex
+    bam_file = AlignmentFile(bam, mode=read_mode)
+  File "pysam/libcalignmentfile.pyx", line 734, in pysam.libcalignmentfile.AlignmentFile.__cinit__
+  File "pysam/libcalignmentfile.pyx", line 933, in pysam.libcalignmentfile.AlignmentFile._open
+FileNotFoundError: [Errno 2] could not open alignment file `/broad/hptmp/ssimmons/scumi/mixed2/CelSeq1/results.star_align.bam.featureCounts.bam`: No such file or directory
+mkdir: cannot create directory `/broad/hptmp/ssimmons/scumi/mixed2/CelSeq3': File exists
+mkdir: cannot create directory ‘/broad/hptmp/ssimmons/scumi/mixed2/CelSeq4’: File exists
+/var/spool/uger-8.5.5/uger-r7-c008/job_scripts/5709910: line 66: seqtk: command not found
+/var/spool/uger-8.5.5/uger-r7-c008/job_scripts/5709910: line 67: seqtk: command not found
+2018-10-05 08:56:33,871: INFO: Cell barcode in configure file
+2018-10-05 08:56:33,872: INFO: UMI in config file
+2018-10-05 08:56:33,908: INFO: Formatting fastq done, taking 0.000 hours
+Traceback (most recent call last):
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/bin/scumi", line 165, in <module>
+    args.func(args)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/scumi/run.py", line 13, in merge_fastq
+    cb_count=cb_count, num_thread=num_thread)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/scumi/scumi.py", line 120, in format_fastq
+    df = df.sort_values(by=0, ascending=False)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/pandas-0.23.4-py3.6-linux-x86_64.egg/pandas/core/frame.py", line 4421, in sort_values
+    stacklevel=stacklevel)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/pandas-0.23.4-py3.6-linux-x86_64.egg/pandas/core/generic.py", line 1382, in _get_label_or_level_values
+    raise KeyError(key)
+KeyError: 0
+/var/spool/uger-8.5.5/uger-r7-c008/job_scripts/5709910: line 77: hisat2: command not found
+/var/spool/uger-8.5.5/uger-r7-c008/job_scripts/5709910: line 79: samtools: command not found
+rm: cannot remove ‘/broad/hptmp/ssimmons/scumi/mixed2/CelSeq4/alignment.sam’: No such file or directory
+2018-10-05 08:56:35,819: INFO: Running featureCounts to annotate alignments.
+
+ERROR: invalid parameter: '/broad/hptmp/ssimmons/scumi/mixed2/CelSeq4/results.star_align.bam'
+
+[E::hts_open_format] Failed to open file /broad/hptmp/ssimmons/scumi/mixed2/CelSeq4/results.star_align.bam.featureCounts.bam
+Traceback (most recent call last):
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/bin/scumi", line 165, in <module>
+    args.func(args)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/scumi/run.py", line 47, in count_umi
+    cell_barcode_whitelist=cell_barcode_whitelist)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/scumi/scumi.py", line 402, in count_feature
+    barcode_parser, first_cb, read_mode = _construct_barcode_regex(bam)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/scumi/scumi.py", line 343, in _construct_barcode_regex
+    bam_file = AlignmentFile(bam, mode=read_mode)
+  File "pysam/libcalignmentfile.pyx", line 734, in pysam.libcalignmentfile.AlignmentFile.__cinit__
+  File "pysam/libcalignmentfile.pyx", line 933, in pysam.libcalignmentfile.AlignmentFile._open
+FileNotFoundError: [Errno 2] could not open alignment file `/broad/hptmp/ssimmons/scumi/mixed2/CelSeq4/results.star_align.bam.featureCounts.bam`: No such file or directory
+mkdir: cannot create directory ‘/broad/hptmp/ssimmons/scumi/mixed2/CelSeq1’: File exists
+/var/spool/uger-8.5.5/uger-r7-c003/job_scripts/5710280: line 66: seqtk: command not found
+/var/spool/uger-8.5.5/uger-r7-c003/job_scripts/5710280: line 67: seqtk: command not found
+2018-10-05 09:05:39,970: INFO: Cell barcode in configure file
+2018-10-05 09:05:39,971: INFO: UMI in config file
+2018-10-05 09:05:40,013: INFO: Formatting fastq done, taking 0.000 hours
+Traceback (most recent call last):
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/bin/scumi", line 165, in <module>
+    args.func(args)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/scumi/run.py", line 13, in merge_fastq
+    cb_count=cb_count, num_thread=num_thread)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/scumi/scumi.py", line 120, in format_fastq
+    df = df.sort_values(by=0, ascending=False)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/pandas-0.23.4-py3.6-linux-x86_64.egg/pandas/core/frame.py", line 4421, in sort_values
+    stacklevel=stacklevel)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/pandas-0.23.4-py3.6-linux-x86_64.egg/pandas/core/generic.py", line 1382, in _get_label_or_level_values
+    raise KeyError(key)
+KeyError: 0
+/var/spool/uger-8.5.5/uger-r7-c003/job_scripts/5710280: line 77: hisat2: command not found
+/var/spool/uger-8.5.5/uger-r7-c003/job_scripts/5710280: line 79: samtools: command not found
+rm: cannot remove ‘/broad/hptmp/ssimmons/scumi/mixed2/CelSeq1/alignment.sam’: No such file or directory
+2018-10-05 09:05:42,039: INFO: Running featureCounts to annotate alignments.
+
+ERROR: invalid parameter: '/broad/hptmp/ssimmons/scumi/mixed2/CelSeq1/results.star_align.bam'
+
+[E::hts_open_format] Failed to open file /broad/hptmp/ssimmons/scumi/mixed2/CelSeq1/results.star_align.bam.featureCounts.bam
+Traceback (most recent call last):
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/bin/scumi", line 165, in <module>
+    args.func(args)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/scumi/run.py", line 47, in count_umi
+    cell_barcode_whitelist=cell_barcode_whitelist)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/scumi/scumi.py", line 402, in count_feature
+    barcode_parser, first_cb, read_mode = _construct_barcode_regex(bam)
+  File "/ahg/regevdata/projects/sc_compare/software/miniconda3/envs/scumi/lib/python3.6/site-packages/scumi/scumi.py", line 343, in _construct_barcode_regex
+    bam_file = AlignmentFile(bam, mode=read_mode)
+  File "pysam/libcalignmentfile.pyx", line 734, in pysam.libcalignmentfile.AlignmentFile.__cinit__
+  File "pysam/libcalignmentfile.pyx", line 933, in pysam.libcalignmentfile.AlignmentFile._open
+FileNotFoundError: [Errno 2] could not open alignment file `/broad/hptmp/ssimmons/scumi/mixed2/CelSeq1/results.star_align.bam.featureCounts.bam`: No such file or directory
+mkdir: cannot create directory ‘/broad/hptmp/ssimmons/scumi/mixed2/CelSeq3’: File exists
+/var/spool/uger-8.5.5/uger-r7-c003/job_scripts/5710280: line 66: seqtk: command not found
+/var/spool/uger-8.5.5/uger-r7-c003/job_scripts/5710280: line 67: seqtk: command not found
+mkdir: cannot create directory ‘/broad/hptmp/ssimmons/scumi/mixed2/CelSeq2’: File exists
+/var/spool/uger-8.5.5/uger-r7-c004/job_scripts/5710280: line 66: seqtk: command not found
+/var/spool/uger-8.5.5/uger-r7-c004/job_scripts/5710280: line 67: seqtk: command not found

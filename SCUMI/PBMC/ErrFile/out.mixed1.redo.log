@@ -1,0 +1,52 @@
+/broad/hptmp/ssimmons/scumi/pbmc2/V1R2_2
+Setup!
+up!
+ad/hptmp/ssimmons/scumi/pbmc1/Seqwell_2
+Setup!
+/broad/hptmp/ssimmons/scumi/pbmc2/Seqwell2_2
+Setup!
+ad/hptmp/ssimmons/scumi/pbmc2/V2R1_2
+Setup!
+Combine!
+/broad/hptmp/ssimmons/scumi/pbmc2/Seqwell1/comb.1.fast/broad/hptmp/ssimmons/scumi/pbmc2/Seqwell2/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/pbmc2/Seqwell2/comb.2.fastq.gz
+Subsamples!
+Clean fastqs!
+Merge Fastq!
+Clean!
+Run STAR!
+Tag b/br/broad/hptmp/ssimmons/scumi/pbmc2/V1R2/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/pbmc2/V1R2/comb.2.fastq.gz
+Subsamples!
+Clean fastqs!
+Merge Fastq!
+Clean!
+Run STAR!
+Tag bam!
+Count!
+pbmc2/Drop/comb.2.fastq.gz
+Subsamples!
+Subsamples!
+Clean fastqs!
+Clean fastqs!
+Merge Fastq!
+Merge Fastq!
+Clean!
+Clean!
+Run STAR!
+Run STAR!
+Tag bam!
+Tag bam!
+Count!
+Count!
+Done!
+Done!
+Done!
+Done!
+Done!
+Done!
+Done!
+Done!
+Done!
+Done!
+Done!

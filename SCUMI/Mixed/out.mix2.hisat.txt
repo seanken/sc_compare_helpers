@@ -1,0 +1,100 @@
+Setup!
+Subsamples!
+Mon Sep 24 09:30:23 EDT 2018
+Setup!
+Subsamples!
+Mon Sep 24 09:30:29 EDT 2018
+Setup!
+Subsamples!
+Mon Sep 24 09:30:32 EDT 2018
+Setup!
+Subsamples!
+Mon Sep 24 09:30:37 EDT 2018
+Merge Fastq!
+Mon Sep 24 10:08:31 EDT 2018
+Merge Fastq!
+Mon Sep 24 10:08:37 EDT 2018
+Merge Fastq!
+Mon Sep 24 10:23:55 EDT 2018
+Merge Fastq!
+Mon Sep 24 10:25:06 EDT 2018
+Run Hisat!
+Mon Sep 24 15:58:42 EDT 2018
+Tag bam!
+Mon Sep 24 15:58:42 EDT 2018
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 1 -M -o /broad/hptmp/ssimmons/scumi/mixed2/CelSeq1/results.star_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed2/CelSeq1/results.star_align.bam 
+
+Running featureCount errors
+Count!
+Mon Sep 24 15:58:47 EDT 2018
+Done!
+Run Hisat!
+Mon Sep 24 16:01:04 EDT 2018
+Tag bam!
+Mon Sep 24 16:01:04 EDT 2018
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 1 -M -o /broad/hptmp/ssimmons/scumi/mixed2/CelSeq3/results.star_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed2/CelSeq3/results.star_align.bam 
+
+Running featureCount errors
+Count!
+Mon Sep 24 16:01:08 EDT 2018
+Done!
+Setup!
+Subsamples!
+Mon Sep 24 16:41:24 EDT 2018
+Setup!
+Subsamples!
+Mon Sep 24 16:42:11 EDT 2018
+Setup!
+Subsamples!
+Mon Sep 24 16:42:29 EDT 2018
+Setup!
+Subsamples!
+Mon Sep 24 16:42:53 EDT 2018
+Merge Fastq!
+Mon Sep 24 17:15:20 EDT 2018
+Merge Fastq!
+Mon Sep 24 17:21:41 EDT 2018
+Merge Fastq!
+Mon Sep 24 17:23:13 EDT 2018
+Merge Fastq!
+Mon Sep 24 17:45:23 EDT 2018
+Run Hisat!
+Mon Sep 24 22:34:55 EDT 2018
+Tag bam!
+Mon Sep 24 23:24:02 EDT 2018
+Run Hisat!
+Mon Sep 24 23:28:19 EDT 2018
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 1 -M -o /broad/hptmp/ssimmons/scumi/mixed2/CelSeq1/results.star_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed2/CelSeq1/results.star_align.bam 
+
+Annotating features done successfully, taking 5.580 minutes
+Count!
+Mon Sep 24 23:29:41 EDT 2018
+Run Hisat!
+Mon Sep 24 23:51:40 EDT 2018
+Done!
+Tag bam!
+Tue Sep 25 00:27:42 EDT 2018
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 1 -M -o /broad/hptmp/ssimmons/scumi/mixed2/CelSeq3/results.star_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed2/CelSeq3/results.star_align.bam 
+
+Annotating features done successfully, taking 6.796 minutes
+Count!
+Tue Sep 25 00:34:35 EDT 2018
+Tag bam!
+Tue Sep 25 00:52:32 EDT 2018
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 1 -M -o /broad/hptmp/ssimmons/scumi/mixed2/CelSeq2/results.star_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed2/CelSeq2/results.star_align.bam 
+
+Annotating features done successfully, taking 6.788 minutes
+Count!
+Tue Sep 25 00:59:25 EDT 2018
+Done!
+Done!
+Run Hisat!
+Tue Sep 25 03:27:33 EDT 2018
+Tag bam!
+Tue Sep 25 05:00:16 EDT 2018
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 1 -M -o /broad/hptmp/ssimmons/scumi/mixed2/CelSeq4/results.star_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed2/CelSeq4/results.star_align.bam 
+
+Annotating features done successfully, taking 9.767 minutes
+Count!
+Tue Sep 25 05:10:20 EDT 2018
+Done!

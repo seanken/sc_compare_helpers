@@ -1,0 +1,9 @@
+/broad/software/scripts/useuse: line 4: /broad/software/dotkit/run_DROPSEQ_pip:t/.dk_init: No such file or directory
+CMD: mkdir -p /broad/hptmp/ssimmons/Mixture3/Out/samples
+CMD: qsub -V -cwd -b y -sync y -R y  -N dropseq_run_config.conf -P regevlab -e /broad/hptmp/ssimmons/Mixture3/Out/run_config.conf_qsub_tracking_dir/qsub.err -o /broad/hptmp/ssimmons/Mixture3/Out/run_config.conf_qsub_tracking_dir/qsub.out  -q broad  -l h_rt=160:0:0  -l h_vmem=100g  -pe smp 2  -t 1-2  /broad/hptmp/ssimmons/Mixture3/Out/run_config.conf_qsub_tracking_dir/runner.pl
+WARNING: some commands failed.  Status = success(0), error(1), unknown(1)
+Error, total of 2 jobs did not succeed.  See tracking_dir: /broad/hptmp/ssimmons/Mixture3/Out/run_config.conf_qsub_tracking_dir /broad/software/scripts/useuse: line 4: /broad/software/dotkit/run_DROPSEQ_pip:t/.dk_init: No such file or directory
+CMD: mkdir -p /broad/hptmp/ssimmons/Mixture3/Out/samples
+CMD: qsub -V -cwd -b y -sync y -R y  -N dropseq_run_config.conf -P regevlab -e /broad/hptmp/ssimmons/Mixture3/Out/run_config.conf_qsub_tracking_dir/qsub.err -o /broad/hptmp/ssimmons/Mixture3/Out/run_config.conf_qsub_tracking_dir/qsub.out  -q broad  -l h_rt=160:0:0  -l h_vmem=100g  -pe smp 2  -t 1-1  /broad/hptmp/ssimmons/Mixture3/Out/run_config.conf_qsub_tracking_dir/runner.pl
+WARNING: some commands failed.  Status = success(0), error(0), unknown(1)
+Error, total of 1 jobs did not succeed.  See tracking_dir: /broad/hptmp/ssimmons/Mixture3/Out/run_config.conf_qsub_tracking_dir 

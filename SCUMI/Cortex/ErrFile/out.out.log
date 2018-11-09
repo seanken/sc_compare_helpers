@@ -1,0 +1,154 @@
+Setup!
+Combine!
+/broad/hptmp/ssimmons/scumi/Cortex/10X_expt2/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/Cortex/10X_expt2/comb.2.fastq.gz
+Subsamples!
+Setup!
+Combine!
+/broad/hptmp/ssimmons/scumi/Cortex/10X_expt3/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/Cortex/10X_expt3/comb.2.fastq.gz
+Subsamples!
+Setup!
+Combine!
+/broad/hptmp/ssimmons/scumi/Cortex/Drop_expt2/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/Cortex/Drop_expt2/comb.2.fastq.gz
+Subsamples!
+Setup!
+Combine!
+/broad/hptmp/ssimmons/scumi/Cortex/Drop_expt3A/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/Cortex/Drop_expt3A/comb.2.fastq.gz
+Subsamples!
+Setup!
+Combine!
+/broad/hptmp/ssimmons/scumi/Cortex/Drop_expt3B/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/Cortex/Drop_expt3B/comb.2.fastq.gz
+Subsamples!
+Count!
+Clean fastqs!
+Merge Fastq!
+Count!
+Count!
+Clean fastqs!
+Merge Fastq!
+Clean fastqs!
+Merge Fastq!
+Count!
+Clean fastqs!
+Merge Fastq!
+Count!
+Clean fastqs!
+Merge Fastq!
+Clean!
+Run STAR!
+Clean!
+Run STAR!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-mm10-2.1.0/genes/genes.gtf -s 1 -M -o /broad/hptmp/ssimmons/scumi/Cortex/Drop_expt3A/results.star_align.bam.annotation /broad/hptmp/ssimmons/scumi/Cortex/Drop_expt3A/results.star_align.bam 
+
+Annotating features done successfully, taking 3.627 minutes
+Count!
+Done!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-mm10-2.1.0/genes/genes.gtf -s 1 -M -o /broad/hptmp/ssimmons/scumi/Cortex/Drop_expt3B/results.star_align.bam.annotation /broad/hptmp/ssimmons/scumi/Cortex/Drop_expt3B/results.star_align.bam 
+
+Annotating features done successfully, taking 4.482 minutes
+Count!
+Done!
+Clean!
+Run STAR!
+Clean!
+Run STAR!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-mm10-2.1.0/genes/genes.gtf -s 1 -M -o /broad/hptmp/ssimmons/scumi/Cortex/Drop_expt2/results.star_align.bam.annotation /broad/hptmp/ssimmons/scumi/Cortex/Drop_expt2/results.star_align.bam 
+
+Annotating features done successfully, taking 15.879 minutes
+Count!
+Done!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-mm10-2.1.0/genes/genes.gtf -s 1 -M -o /broad/hptmp/ssimmons/scumi/Cortex/10X_expt2/results.star_align.bam.annotation /broad/hptmp/ssimmons/scumi/Cortex/10X_expt2/results.star_align.bam 
+
+Annotating features done successfully, taking 17.811 minutes
+Count!
+Clean!
+Run STAR!
+Done!
+Setup!
+Setup!
+Combine!
+/broad/hptmp/ssimmons/scumi/Cortex/10X_expt2/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/Cortex/10X_expt2/comb.2.fastq.gz
+Combine!
+/broad/hptmp/ssimmons/scumi/Cortex/10X_expt3/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/Cortex/10X_expt3/comb.2.fastq.gz
+Subsamples!
+Subsamples!
+Setup!
+Combine!
+/broad/hptmp/ssimmons/scumi/Cortex/Drop_expt2/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/Cortex/Drop_expt2/comb.2.fastq.gz
+Subsamples!
+Setup!
+Combine!
+/broad/hptmp/ssimmons/scumi/Cortex/Drop_expt3A/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/Cortex/Drop_expt3A/comb.2.fastq.gz
+Subsamples!
+Count!
+Clean fastqs!
+Merge Fastq!
+Count!
+Count!
+Clean fastqs!
+Merge Fastq!
+Setup!
+Combine!
+/broad/hptmp/ssimmons/scumi/Cortex/Drop_expt3B/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/Cortex/Drop_expt3B/comb.2.fastq.gz
+Subsamples!
+Clean fastqs!
+Merge Fastq!
+Count!
+Clean fastqs!
+Merge Fastq!
+Count!
+Clean fastqs!
+Merge Fastq!
+Clean!
+Run STAR!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-mm10-2.1.0/genes/genes.gtf -s 1 -M -o /broad/hptmp/ssimmons/scumi/Cortex/Drop_expt3A/results.star_align.bam.annotation /broad/hptmp/ssimmons/scumi/Cortex/Drop_expt3A/results.star_align.bam 
+
+Annotating features done successfully, taking 7.231 minutes
+Count!
+Clean!
+Run STAR!
+Done!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-mm10-2.1.0/genes/genes.gtf -s 1 -M -o /broad/hptmp/ssimmons/scumi/Cortex/Drop_expt3B/results.star_align.bam.annotation /broad/hptmp/ssimmons/scumi/Cortex/Drop_expt3B/results.star_align.bam 
+
+Annotating features done successfully, taking 10.694 minutes
+Count!
+Done!
+Clean!
+Run STAR!
+Clean!
+Run STAR!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-mm10-2.1.0/genes/genes.gtf -s 1 -M -o /broad/hptmp/ssimmons/scumi/Cortex/Drop_expt2/results.star_align.bam.annotation /broad/hptmp/ssimmons/scumi/Cortex/Drop_expt2/results.star_align.bam 
+
+Annotating features done successfully, taking 35.308 minutes
+Count!
+Done!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-mm10-2.1.0/genes/genes.gtf -s 1 -M -o /broad/hptmp/ssimmons/scumi/Cortex/10X_expt2/results.star_align.bam.annotation /broad/hptmp/ssimmons/scumi/Cortex/10X_expt2/results.star_align.bam 
+
+Annotating features done successfully, taking 37.856 minutes
+Count!
+Clean!
+Run STAR!
+Done!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-mm10-2.1.0/genes/genes.gtf -s 1 -M -o /broad/hptmp/ssimmons/scumi/Cortex/10X_expt3/results.star_align.bam.annotation /broad/hptmp/ssimmons/scumi/Cortex/10X_expt3/results.star_align.bam 
+
+Annotating features done successfully, taking 68.404 minutes
+Count!
+Done!

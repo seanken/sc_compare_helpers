@@ -1,0 +1,658 @@
+Setup!
+Subsamples!
+Thu Oct  4 08:30:48 EDT 2018
+Merge Fastq!
+Thu Oct  4 08:30:48 EDT 2018
+Run Hisat!
+Thu Oct  4 08:30:48 EDT 2018
+Tag bam!
+Thu Oct  4 08:30:48 EDT 2018
+Count!
+Thu Oct  4 08:30:48 EDT 2018
+/seq/regev_genome_portal/kcoprod/galaxy/tools/external_libs/cellranger-2.0.0/cellranger-cs/2.0.0/tenkit/lib/python/tenkit/barcodes/737K-august-2016.txt
+Setup!
+Subsamples!
+Thu Oct  4 08:30:51 EDT 2018
+Merge Fastq!
+:30:51 EDT 2018
+Merge Fastq!
+:30:51 EDT 2018
+Run Hisat!
+08:30:51 EDT 2018
+Run Hisat!
+08:30:51 EDT 2018
+Tag bam!
+4 08:30:51 EDT 2018
+Tag bam!
+4 08:30:51 EDT 2018
+Count!
+  4 08:30:51 EDT 2018
+Count!
+  4 08:30:51 EDT 2018
+
+hu Oct  4 08:30:51 EDT 2018
+
+Done!
+Done!
+Setup!
+Subsamples!
+Thu Oct  4 08:33:11 EDT 2018
+Merge Fastq!
+Thu Oct  4 08:33:11 EDT 2018
+Run Hisat!
+Thu Oct  4 08:33:11 EDT 2018
+Tag bam!
+Thu Oct  4 08:33:11 EDT 2018
+Count!
+Thu Oct  4 08:33:11 EDT 2018
+/seq/regev_genome_portal/kcoprod/galaxy/tools/external_libs/cellranger-2.0.0/cellranger-cs/2.0.0/tenkit/lib/python/tenkit/barcodes/737K-august-2016.txt
+Setup!
+Subsamples!
+Thu Oct  4 08:33:13 EDT 2018
+Merge Fastq!
+Thu Oct  4 08:33:13 EDT 2018
+Run Hisat!
+Thu Oct  4 08:33:13 EDT 2018
+Tag bam!
+Thu Oct  4 08:33:13 EDT 2018
+Count!
+Thu Oct  4 08:33:13 EDT 2018
+
+Done!
+ples!
+Thu Oct  4 08:33:13 EDT 2018
+Merge Fastq!
+Thu Oct  4 08:33:13 EDT 2018
+Run Hisat!
+Thu Oct  4 08:33:13 EDT 2018
+Tag bam!
+Thu Oct  4 08:33:13 EDT 2018
+Count!
+Thu Oct  4 08:33:13 EDT 2018
+
+Done!
+Done!
+Setup!
+Subsamples!
+Tue Oct  9 08:24:32 EDT 2018
+Merge Fastq!
+Tue Oct  9 08:24:32 EDT 2018
+Run Hisat!
+Tue Oct  9 08:24:32 EDT 2018
+Tag bam!
+Tue Oct  9 08:24:32 EDT 2018
+Count!
+Tue Oct  9 08:24:32 EDT 2018
+/seq/regev_genome_portal/kcoprod/galaxy/tools/external_libs/cellranger-2.0.0/cellranger-cs/2.0.0/tenkit/lib/python/tenkit/barcodes/737K-august-2016.txt
+Done!
+Setup!
+Subsamples!
+Tue Oct  9 08:48:09 EDT 2018
+Merge Fastq!
+Tue Oct  9 08:48:09 EDT 2018
+Run Hisat!
+Tue Oct  9 08:48:09 EDT 2018
+Tag bam!
+Tue Oct  9 08:48:09 EDT 2018
+Count!
+Tue Oct  9 08:48:09 EDT 2018
+
+Done!
+Setup!
+Subsamples!
+Mon Oct 15 10:15:19 EDT 2018
+Merge Fastq!
+Mon Oct 15 10:15:19 EDT 2018
+Run Hisat!
+Mon Oct 15 10:15:19 EDT 2018
+Tag bam!
+Mon Oct 15 10:15:19 EDT 2018
+Count!
+Mon Oct 15 10:15:19 EDT 2018
+/seq/regev_genome_portal/kcoprod/galaxy/tools/external_libs/cellranger-2.0.0/cellranger-cs/2.0.0/tenkit/lib/python/tenkit/barcodes/737K-august-2016.txt
+Setup!
+Subsamples!
+Mon Oct 15 10:20:00 EDT 2018
+Merge Fastq!
+Mon Oct 15 10:20:00 EDT 2018
+Run Hisat!
+Mon Oct 15 10:20:00 EDT 2018
+Tag bam!
+Mon Oct 15 10:20:00 EDT 2018
+Count!
+Mon Oct 15 10:20:00 EDT 2018
+/seq/regev_genome_portal/kcoprod/galaxy/tools/external_libs/cellranger-2.0.0/cellranger-cs/2.0.0/tenkit/lib/python/tenkit/barcodes/737K-august-2016.txt
+Setup!
+Subsamples!
+Mon Oct 15 10:23:25 EDT 2018
+Merge Fastq!
+Mon Oct 15 10:23:25 EDT 2018
+Run Hisat!
+Mon Oct 15 10:23:25 EDT 2018
+Tag bam!
+Mon Oct 15 10:23:25 EDT 2018
+Count!
+Mon Oct 15 10:23:25 EDT 2018
+
+Setup!
+Subsamples!
+Mon Oct 15 10:28:09 EDT 2018
+Merge Fastq!
+Mon Oct 15 10:28:09 EDT 2018
+Run Hisat!
+Mon Oct 15 10:28:09 EDT 2018
+Tag bam!
+Mon Oct 15 10:28:09 EDT 2018
+Count!
+Mon Oct 15 10:28:09 EDT 2018
+
+Done!
+Done!
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:38:25 EST 2018
+Merge Fastq!
+Tue Nov  6 11:38:25 EST 2018
+Run Hisat!
+Tue Nov  6 11:38:25 EST 2018
+Tag bam!
+Tue Nov  6 11:38:25 EST 2018
+Count!
+Tue Nov  6 11:38:25 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:38:32 EST 2018
+Merge Fastq!
+Tue Nov  6 11:38:32 EST 2018
+Run Hisat!
+Tue Nov  6 11:38:32 EST 2018
+Tag bam!
+Tue Nov  6 11:38:32 EST 2018
+Count!
+Tue Nov  6 11:38:32 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:38:38 EST 2018
+Merge Fastq!
+Tue Nov  6 11:38:38 EST 2018
+Run Hisat!
+Tue Nov  6 11:38:38 EST 2018
+Tag bam!
+Tue Nov  6 11:38:38 EST 2018
+Count!
+Tue Nov  6 11:38:38 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:38:44 EST 2018
+Merge Fastq!
+Tue Nov  6 11:38:44 EST 2018
+Run Hisat!
+Tue Nov  6 11:38:44 EST 2018
+Tag bam!
+Tue Nov  6 11:38:44 EST 2018
+Count!
+Tue Nov  6 11:38:44 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:38:50 EST 2018
+Merge Fastq!
+Tue Nov  6 11:38:50 EST 2018
+Run Hisat!
+Tue Nov  6 11:38:50 EST 2018
+Tag bam!
+Tue Nov  6 11:38:50 EST 2018
+Count!
+Tue Nov  6 11:38:50 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:38:56 EST 2018
+Merge Fastq!
+Tue Nov  6 11:38:56 EST 2018
+Run Hisat!
+Tue Nov  6 11:38:56 EST 2018
+Tag bam!
+Tue Nov  6 11:38:56 EST 2018
+Count!
+Tue Nov  6 11:38:56 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:39:03 EST 2018
+Merge Fastq!
+Tue Nov  6 11:39:03 EST 2018
+Run Hisat!
+Tue Nov  6 11:39:03 EST 2018
+Tag bam!
+Tue Nov  6 11:39:03 EST 2018
+Count!
+Tue Nov  6 11:39:03 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:39:09 EST 2018
+Merge Fastq!
+Tue Nov  6 11:39:09 EST 2018
+Run Hisat!
+Tue Nov  6 11:39:09 EST 2018
+Tag bam!
+Tue Nov  6 11:39:09 EST 2018
+Count!
+Tue Nov  6 11:39:09 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:39:16 EST 2018
+Merge Fastq!
+Tue Nov  6 11:39:16 EST 2018
+Run Hisat!
+Tue Nov  6 11:39:16 EST 2018
+Tag bam!
+Tue Nov  6 11:39:16 EST 2018
+Count!
+Tue Nov  6 11:39:16 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:39:22 EST 2018
+Merge Fastq!
+Tue Nov  6 11:39:22 EST 2018
+Run Hisat!
+Tue Nov  6 11:39:22 EST 2018
+Tag bam!
+Tue Nov  6 11:39:22 EST 2018
+Count!
+Tue Nov  6 11:39:22 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:39:29 EST 2018
+Merge Fastq!
+Tue Nov  6 11:39:29 EST 2018
+Run Hisat!
+Tue Nov  6 11:39:29 EST 2018
+Tag bam!
+Tue Nov  6 11:39:29 EST 2018
+Count!
+Tue Nov  6 11:39:29 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:39:35 EST 2018
+Merge Fastq!
+Tue Nov  6 11:39:35 EST 2018
+Run Hisat!
+Tue Nov  6 11:39:35 EST 2018
+Tag bam!
+Tue Nov  6 11:39:35 EST 2018
+Count!
+Tue Nov  6 11:39:35 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:39:41 EST 2018
+Merge Fastq!
+Tue Nov  6 11:39:41 EST 2018
+Run Hisat!
+Tue Nov  6 11:39:41 EST 2018
+Tag bam!
+Tue Nov  6 11:39:41 EST 2018
+Count!
+Tue Nov  6 11:39:41 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:39:48 EST 2018
+Merge Fastq!
+Tue Nov  6 11:39:48 EST 2018
+Run Hisat!
+Tue Nov  6 11:39:48 EST 2018
+Tag bam!
+Tue Nov  6 11:39:48 EST 2018
+Count!
+Tue Nov  6 11:39:48 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:39:56 EST 2018
+Merge Fastq!
+Tue Nov  6 11:39:56 EST 2018
+Run Hisat!
+Tue Nov  6 11:39:56 EST 2018
+Tag bam!
+Tue Nov  6 11:39:56 EST 2018
+Count!
+Tue Nov  6 11:39:56 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:40:02 EST 2018
+Merge Fastq!
+Tue Nov  6 11:40:02 EST 2018
+Run Hisat!
+Tue Nov  6 11:40:02 EST 2018
+Tag bam!
+Tue Nov  6 11:40:02 EST 2018
+Count!
+Tue Nov  6 11:40:02 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:40:08 EST 2018
+Merge Fastq!
+Tue Nov  6 11:40:08 EST 2018
+Run Hisat!
+Tue Nov  6 11:40:08 EST 2018
+Tag bam!
+Tue Nov  6 11:40:08 EST 2018
+Count!
+Tue Nov  6 11:40:08 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:40:15 EST 2018
+Merge Fastq!
+Tue Nov  6 11:40:15 EST 2018
+Run Hisat!
+Tue Nov  6 11:40:15 EST 2018
+Tag bam!
+Tue Nov  6 11:40:15 EST 2018
+Count!
+Tue Nov  6 11:40:15 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:40:22 EST 2018
+Merge Fastq!
+Tue Nov  6 11:40:22 EST 2018
+Run Hisat!
+Tue Nov  6 11:40:22 EST 2018
+Tag bam!
+Tue Nov  6 11:40:22 EST 2018
+Count!
+Tue Nov  6 11:40:22 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:40:28 EST 2018
+Merge Fastq!
+Tue Nov  6 11:40:28 EST 2018
+Run Hisat!
+Tue Nov  6 11:40:28 EST 2018
+Tag bam!
+Tue Nov  6 11:40:28 EST 2018
+Count!
+Tue Nov  6 11:40:28 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:40:37 EST 2018
+Merge Fastq!
+Tue Nov  6 11:40:37 EST 2018
+Run Hisat!
+Tue Nov  6 11:40:37 EST 2018
+Tag bam!
+Tue Nov  6 11:40:37 EST 2018
+Count!
+Tue Nov  6 11:40:37 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:40:45 EST 2018
+Merge Fastq!
+Tue Nov  6 11:40:45 EST 2018
+Run Hisat!
+Tue Nov  6 11:40:45 EST 2018
+Tag bam!
+Tue Nov  6 11:40:45 EST 2018
+Count!
+Tue Nov  6 11:40:45 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:40:51 EST 2018
+Merge Fastq!
+Tue Nov  6 11:40:51 EST 2018
+Run Hisat!
+Tue Nov  6 11:40:51 EST 2018
+Tag bam!
+Tue Nov  6 11:40:51 EST 2018
+Count!
+Tue Nov  6 11:40:51 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:42:14 EST 2018
+Merge Fastq!
+Tue Nov  6 11:42:14 EST 2018
+Run Hisat!
+Tue Nov  6 11:42:14 EST 2018
+Tag bam!
+Tue Nov  6 11:42:14 EST 2018
+Count!
+Tue Nov  6 11:42:14 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:44:51 EST 2018
+Merge Fastq!
+Tue Nov  6 11:44:51 EST 2018
+Run Hisat!
+Tue Nov  6 11:44:51 EST 2018
+Tag bam!
+Tue Nov  6 11:44:51 EST 2018
+Count!
+Tue Nov  6 11:44:52 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:45:11 EST 2018
+Merge Fastq!
+Tue Nov  6 11:45:11 EST 2018
+Run Hisat!
+Tue Nov  6 11:45:11 EST 2018
+Tag bam!
+Tue Nov  6 11:45:11 EST 2018
+Count!
+Tue Nov  6 11:45:11 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:45:29 EST 2018
+Merge Fastq!
+Tue Nov  6 11:45:29 EST 2018
+Run Hisat!
+Tue Nov  6 11:45:29 EST 2018
+Tag bam!
+Tue Nov  6 11:45:29 EST 2018
+Count!
+Tue Nov  6 11:45:29 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:45:50 EST 2018
+Merge Fastq!
+Tue Nov  6 11:45:50 EST 2018
+Run Hisat!
+Tue Nov  6 11:45:50 EST 2018
+Tag bam!
+Tue Nov  6 11:45:50 EST 2018
+Count!
+Tue Nov  6 11:45:50 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:46:16 EST 2018
+Merge Fastq!
+Tue Nov  6 11:46:16 EST 2018
+Run Hisat!
+Tue Nov  6 11:46:16 EST 2018
+Tag bam!
+Tue Nov  6 11:46:16 EST 2018
+Count!
+Tue Nov  6 11:46:16 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:47:34 EST 2018
+Merge Fastq!
+Tue Nov  6 11:47:34 EST 2018
+Run Hisat!
+Tue Nov  6 11:47:34 EST 2018
+Tag bam!
+Tue Nov  6 11:47:34 EST 2018
+Count!
+Tue Nov  6 11:47:34 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:47:55 EST 2018
+Merge Fastq!
+Tue Nov  6 11:47:55 EST 2018
+Run Hisat!
+Tue Nov  6 11:47:55 EST 2018
+Tag bam!
+Tue Nov  6 11:47:55 EST 2018
+Count!
+Tue Nov  6 11:47:55 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:48:22 EST 2018
+Merge Fastq!
+Tue Nov  6 11:48:22 EST 2018
+Run Hisat!
+Tue Nov  6 11:48:22 EST 2018
+Tag bam!
+Tue Nov  6 11:48:22 EST 2018
+Count!
+Tue Nov  6 11:48:22 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:50:27 EST 2018
+Merge Fastq!
+Tue Nov  6 11:50:28 EST 2018
+Run Hisat!
+Tue Nov  6 11:50:28 EST 2018
+Tag bam!
+Tue Nov  6 11:50:28 EST 2018
+Count!
+Tue Nov  6 11:50:28 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Setup!
+Subsamples!
+Tue Nov  6 11:50:35 EST 2018
+Merge Fastq!
+Tue Nov  6 11:50:35 EST 2018
+Run Hisat!
+Tue Nov  6 11:50:35 EST 2018
+Tag bam!
+Tue Nov  6 11:50:35 EST 2018
+Count!
+Tue Nov  6 11:50:35 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:50:54 EST 2018
+Merge Fastq!
+Tue Nov  6 11:50:54 EST 2018
+Run Hisat!
+Tue Nov  6 11:50:54 EST 2018
+Tag bam!
+Tue Nov  6 11:50:54 EST 2018
+Count!
+Tue Nov  6 11:50:54 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:51:44 EST 2018
+Merge Fastq!
+Tue Nov  6 11:51:44 EST 2018
+Run Hisat!
+Tue Nov  6 11:51:44 EST 2018
+Tag bam!
+Tue Nov  6 11:51:44 EST 2018
+Count!
+Tue Nov  6 11:51:44 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:51:48 EST 2018
+Merge Fastq!
+Tue Nov  6 11:51:48 EST 2018
+Run Hisat!
+Tue Nov  6 11:51:48 EST 2018
+Tag bam!
+Tue Nov  6 11:51:48 EST 2018
+Count!
+Tue Nov  6 11:51:48 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:53:48 EST 2018
+Merge Fastq!
+Tue Nov  6 11:53:48 EST 2018
+Run Hisat!
+Tue Nov  6 11:53:48 EST 2018
+Tag bam!
+Tue Nov  6 11:53:48 EST 2018
+Count!
+Tue Nov  6 11:53:48 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!
+Setup!
+Subsamples!
+Tue Nov  6 11:53:57 EST 2018
+Merge Fastq!
+Tue Nov  6 11:53:57 EST 2018
+Run Hisat!
+Tue Nov  6 11:53:57 EST 2018
+Tag bam!
+Tue Nov  6 11:53:57 EST 2018
+Count!
+Tue Nov  6 11:53:57 EST 2018
+/ahg/regevdata/projects/sc_compare/doc/RT_384_080717.tsv
+Done!

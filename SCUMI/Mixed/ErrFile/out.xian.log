@@ -1,0 +1,137 @@
+Setup!
+Combine!
+/broad/hptmp/ssimmons/scumi/mixed1/10X/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/mixed1/10X/comb.2.fastq.gz
+Subsamples!
+Clean fastqs!
+Merge Fastq!
+Clean!
+Run STAR!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 1 -M -o /broad/hptmp/ssimmons/scumi/mixed1/10X/results.star_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/10X/results.star_align.bam 
+
+Running featureCount errors
+Count!
+Done!
+Setup!
+Combine!
+/broad/hptmp/ssimmons/scumi/mixed1/Drop/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/mixed1/Drop/comb.2.fastq.gz
+Subsamples!
+Clean fastqs!
+Merge Fastq!
+Clean!
+Run STAR!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 1 -M -o /broad/hptmp/ssimmons/scumi/mixed1/Drop/results.star_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/Drop/results.star_align.bam 
+
+Running featureCount errors
+Count!
+Done!
+Setup!
+Combine!
+/broad/hptmp/ssimmons/scumi/mixed1/Seqwell/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/mixed1/Seqwell/comb.2.fastq.gz
+Subsamples!
+Clean fastqs!
+Merge Fastq!
+Clean!
+Run STAR!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 1 -M -o /broad/hptmp/ssimmons/scumi/mixed1/Seqwell/results.star_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/Seqwell/results.star_align.bam 
+
+Running featureCount errors
+Count!
+Done!
+Setup!
+Combine!
+/broad/hptmp/ssimmons/scumi/mixed1/10X/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/mixed1/10X/comb.2.fastq.gz
+Setup!
+Combine!
+/broad/hptmp/ssimmons/scumi/mixed1/Drop/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/mixed1/Drop/comb.2.fastq.gz
+Subsamples!
+Setup!
+Combine!
+/broad/hptmp/ssimmons/scumi/mixed1/Seqwell/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/mixed1/Seqwell/comb.2.fastq.gz
+Subsamples!
+Subsamples!
+Clean fastqs!
+Merge Fastq!
+Clean fastqs!
+Merge Fastq!
+Clean!
+Run STAR!
+Clean fastqs!
+Merge Fastq!
+Setup!
+Combine!
+/broad/hptmp/ssimmons/scumi/mixed1/10X/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/mixed1/10X/comb.2.fastq.gz
+Setup!
+Combine!
+/broad/hptmp/ssimmons/scumi/mixed1/Drop/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/mixed1/Drop/comb.2.fastq.gz
+Subsamples!
+Subsamples!
+Setup!
+Combine!
+/broad/hptmp/ssimmons/scumi/mixed1/Seqwell/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/mixed1/Seqwell/comb.2.fastq.gz
+Subsamples!
+Clean fastqs!
+Merge Fastq!
+Clean fastqs!
+Merge Fastq!
+Clean fastqs!
+Merge Fastq!
+Clean!
+Run STAR!
+Clean!
+Run STAR!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 1 -M -o /broad/hptmp/ssimmons/scumi/mixed1/Seqwell/results.star_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/Seqwell/results.star_align.bam 
+
+Annotating features done successfully, taking 18.701 minutes
+Count!
+Done!
+Setup!
+Setup!
+Combine!
+/broad/hptmp/ssimmons/scumi/mixed1/Drop/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/mixed1/Drop/comb.2.fastq.gz
+Setup!
+Combine!
+/broad/hptmp/ssimmons/scumi/mixed1/10X/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/mixed1/10X/comb.2.fastq.gz
+/broad/hptmp/ssimmons/scumi/mixed1/Seqwell/comb.1.fastq.gz
+/broad/hptmp/ssimmons/scumi/mixed1/Seqwell/comb.2.fastq.gz
+Subsamples!
+Subsamples!
+Subsamples!
+Clean fastqs!
+Merge Fastq!
+Clean fastqs!
+Merge Fastq!
+Clean!
+Run STAR!
+Clean fastqs!
+Merge Fastq!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 1 -M -o /broad/hptmp/ssimmons/scumi/mixed1/Seqwell/results.star_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/Seqwell/results.star_align.bam 
+
+Annotating features done successfully, taking 14.462 minutes
+Count!
+Done!
+Clean!
+Run STAR!
+Tag bam!
+/ahg/regevdata/projects/sc_compare/software/subread-1.6.2-Linux-x86_64/bin//featureCounts -g gene_id -t exon -R BAM -T 1 -F GTF -a /ahg/regevdata/projects/sc_compare/ref/cellranger/refdata-cellranger-hg19_and_mm10-2.1.0/genes/genes.gtf -s 1 -M -o /broad/hptmp/ssimmons/scumi/mixed1/10X/results.star_align.bam.annotation /broad/hptmp/ssimmons/scumi/mixed1/10X/results.star_align.bam 
+
+Annotating features done successfully, taking 32.477 minutes
+Count!
+Done!
+Clean!
+Run STAR!

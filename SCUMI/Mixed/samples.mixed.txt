@@ -1,0 +1,3 @@
+/ahg/regevdata/projects/sc_compare/hiseq-dropseq/SN0129131/fastq/CAPTEANXX.1.fastq.gz	/ahg/regevdata/projects/sc_compare/hiseq-dropseq/SN0129131/fastq/CAPTEANXX.2.fastq.gz	Drop-seq-polyT	/broad/hptmp/ssimmons/scumi/Drop999	3500	1.0	999
+/ahg/regevdata/projects/sc_compare/hiseq-dropseq/SN0129131/fastq/CAPTEANXX.1.fastq.gz	/ahg/regevdata/projects/sc_compare/hiseq-dropseq/SN0129131/fastq/CAPTEANXX.2.fastq.gz	Drop-seq-polyT	/broad/hptmp/ssimmons/scumi/Drop10	3500	1.0	20
+/ahg/regevdata/projects/sc_compare/hiseq-dropseq/SN0129131/fastq/CAPTEANXX.1.fastq.gz	/ahg/regevdata/projects/sc_compare/hiseq-dropseq/SN0129131/fastq/CAPTEANXX.2.fastq.gz	Drop-seq-polyT	/broad/hptmp/ssimmons/scumi/Drop1	3500	1.0	1

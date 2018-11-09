@@ -1,0 +1,1 @@
+/ahg/regevdata/projects/sc_compare/hiseq-pbmc/SN0143996/fastq/rename/CAPTEANXX.120717CELseq2.unmapped.1.fastq.gz	/ahg/regevdata/projects/sc_compare/hiseq-pbmc/SN0143996/fastq/rename/CAPTEANXX.120717CELseq2.unmapped.2.fastq.gz	CEL-Seq2-polyT	/broad/hptmp/ssimmons/scumi/CelSeq4	96	.1	/ahg/regevdata2/projects/sc_compare2/seanken/Pipelines/CelSeq_Pipeline/BC/barcodes_clean.tsv
